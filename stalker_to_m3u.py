@@ -26,7 +26,7 @@ import requests
 
 # ========== CẤU HÌNH ==========
 DETAILED_DEBUG = False   # Bật True để xem response chi tiết (hữu ích khi gỡ lỗi expiry)
-MAX_PORTALS = 4          # Số lượng portal tối đa sẽ lấy (dựa trên số kênh nhiều nhất)
+MAX_PORTALS = 3          # Số lượng portal tối đa sẽ lấy (dựa trên số kênh nhiều nhất)
 
 # ========== LỚP STALKER LITE ==========
 class StalkerLite:
