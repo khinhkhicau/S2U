@@ -1,486 +1,801 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="411539" group-title="Live Euro" tvg-logo="http://103.176.90.92/images/411539.png",29/06 12:00 AM | Wales U19 vs Spain U19 (DE| SPORTDIGITAL FUSSBALL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411539&extension=ts&play_token=sUVecqIGNz
-#EXTINF:-1 tvg-id="411534" group-title="Live Euro" tvg-logo="http://103.176.90.92/images/411534.png",29/06 12:00 AM | Wales U19 vs Spain U19 (DE| SPORTDIGITAL FUSSBALL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411534&extension=ts&play_token=VAICZQ2nrr
 #EXTINF:-1 tvg-id="1280783" group-title="Live Euro" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL FUSSBALL.png",29/06 12:00 AM | Wales U19 vs Spain U19 (┃DE┃ SPORTDIGITAL FUSSBALL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280783&extension=ts&play_token=dGGA2WkF1L
-#EXTINF:-1 tvg-id="1032489" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",29/06 01:15 AM | Rd of 32 vs South Africa vs Canada (UK| NOW HK NOW SPORTS 4K 616)
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280783&extension=ts&play_token=1jiVYMeYuq
+#EXTINF:-1 tvg-id="2012644" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?24081",29/06 02:00 AM | South Africa vs Canada (CA: TSN 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032489&extension=ts&play_token=62TWJ5nDiK
-#EXTINF:-1 tvg-id="162167" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812",29/06 02:00 AM | South Africa vs Canada (UK: BBC ONE WALES HD ◉)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012644&extension=ts&play_token=7007Qe5cmj
+#EXTINF:-1 tvg-id="414142" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=162167&extension=ts&play_token=wJaZi1fpgw
-#EXTINF:-1 tvg-id="162194" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?89812",29/06 02:00 AM | South Africa vs Canada (UK: BBC ONE WALES 4K ◉)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=414142&extension=ts&play_token=BJgVo2mmKI
+#EXTINF:-1 tvg-id="1239048" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132",29/06 02:00 AM | South Africa vs Canada (CA: TSN 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=162194&extension=ts&play_token=PNuuHrCXSk
-#EXTINF:-1 tvg-id="162223" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?86377",29/06 02:00 AM | South Africa vs Canada (UK: BBC ONE SCOTLAND HD ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=162223&extension=ts&play_token=Kq3SyF2JCv
-#EXTINF:-1 tvg-id="111558" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/111558.png",29/06 02:00 AM | South Africa vs Canada (UK| BBC ONE SCOTLAND HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=111558&extension=ts&play_token=e9fMh6W5NU
-#EXTINF:-1 tvg-id="111544" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/111544.png",29/06 02:00 AM | South Africa vs Canada (UK| BBC ONE SCOTLAND HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=111544&extension=ts&play_token=P2yU1iBXXy
-#EXTINF:-1 tvg-id="229777" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/229777.png",29/06 02:00 AM | South Africa vs Canada (UK| BBC ONE WALES)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=229777&extension=ts&play_token=MWr2uI8S3R
-#EXTINF:-1 tvg-id="45329" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/45329.png",29/06 02:00 AM | South Africa vs Canada (UK| BBC ONE WALES HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45329&extension=ts&play_token=qo4ycDTLle
-#EXTINF:-1 tvg-id="111545" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/UK/111545.png",29/06 02:00 AM | South Africa vs Canada (UK| BBC ONE WALES HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=111545&extension=ts&play_token=v7aInOKf6m
-#EXTINF:-1 tvg-id="414140" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414140&extension=ts&play_token=yKIleKBap2
-#EXTINF:-1 tvg-id="1239032" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759",29/06 02:00 AM | South Africa vs Canada (CA: TSN 3 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239032&extension=ts&play_token=DEcJhhJ3rf
-#EXTINF:-1 tvg-id="2077047" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077047&extension=ts&play_token=YNKtFonY4m
-#EXTINF:-1 tvg-id="904214" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904214.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=904214&extension=ts&play_token=j4r50XC9AY
-#EXTINF:-1 tvg-id="177346" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177346&extension=ts&play_token=wcDwgXJlnO
-#EXTINF:-1 tvg-id="414139" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414139&extension=ts&play_token=lLL038s5tF
-#EXTINF:-1 tvg-id="1239023" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267",29/06 02:00 AM | South Africa vs Canada (CA: TSN 4 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239023&extension=ts&play_token=Oa3C5nxYK2
-#EXTINF:-1 tvg-id="2077046" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077046&extension=ts&play_token=XqucKWkayJ
-#EXTINF:-1 tvg-id="904213" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904213.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=904213&extension=ts&play_token=nrQCaqsfqi
-#EXTINF:-1 tvg-id="177347" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177347&extension=ts&play_token=V6IFAwyyqc
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1239048&extension=ts&play_token=6cZkGWiEa9
 #EXTINF:-1 tvg-id="414142" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414142&extension=ts&play_token=BkS7eihup2
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414142&extension=ts&play_token=YBSgjLcWEk
 #EXTINF:-1 tvg-id="1239048" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132",29/06 02:00 AM | South Africa vs Canada (CA: TSN 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239048&extension=ts&play_token=ddraZcYYPc
-#EXTINF:-1 tvg-id="2077049" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239048&extension=ts&play_token=VpLkotLyTJ
+#EXTINF:-1 tvg-id="2012642" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?11218",29/06 02:00 AM | South Africa vs Canada (CA: TSN 3 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077049&extension=ts&play_token=ZzfMlklTwe
-#EXTINF:-1 tvg-id="904216" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904216.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012642&extension=ts&play_token=o569O9wsTS
+#EXTINF:-1 tvg-id="414140" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=904216&extension=ts&play_token=uniwlFya4r
-#EXTINF:-1 tvg-id="177344" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png",29/06 02:00 AM | South Africa vs Canada (CA| TSN 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=414140&extension=ts&play_token=QiEOrf7l5u
+#EXTINF:-1 tvg-id="1239032" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759",29/06 02:00 AM | South Africa vs Canada (CA: TSN 3 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177344&extension=ts&play_token=Qeh8ZV076M
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1239032&extension=ts&play_token=c9nMnxMgcv
+#EXTINF:-1 tvg-id="414140" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414140&extension=ts&play_token=ixVR8OBTZV
+#EXTINF:-1 tvg-id="1239032" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759",29/06 02:00 AM | South Africa vs Canada (CA: TSN 3 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239032&extension=ts&play_token=SuTNSSw3yf
+#EXTINF:-1 tvg-id="2012641" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?56170",29/06 02:00 AM | South Africa vs Canada (CA: TSN 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012641&extension=ts&play_token=QC3Pa8tsnA
+#EXTINF:-1 tvg-id="414139" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=414139&extension=ts&play_token=sFaUpBRPx2
+#EXTINF:-1 tvg-id="1239023" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267",29/06 02:00 AM | South Africa vs Canada (CA: TSN 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1239023&extension=ts&play_token=8YYR0Rri8h
+#EXTINF:-1 tvg-id="414139" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 02:00 AM | South Africa vs Canada (CA EN: TSN 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414139&extension=ts&play_token=SjTgTOjI6j
+#EXTINF:-1 tvg-id="1239023" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267",29/06 02:00 AM | South Africa vs Canada (CA: TSN 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239023&extension=ts&play_token=sJ2mu1dMNP
 #EXTINF:-1 tvg-id="833954" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/ITV1.png",29/06 02:00 AM | South Africa vs Canada (┃IE┃ ITV NORTHERN IRELAND 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=833954&extension=ts&play_token=BRSFFvKkg8
-#EXTINF:-1 tvg-id="2077033" group-title="Live Fifa World Cup" tvg-logo="https://picons.cmshulk.com/picons/hrt2.png",29/06 02:00 AM | South Africa vs Canada (HR| HRT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=833954&extension=ts&play_token=FLxqvPrBxt
+#EXTINF:-1 tvg-id="425605" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?37517",29/06 02:00 AM | South Africa vs Canada (FR: M6 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077033&extension=ts&play_token=0chnpd65h8
-#EXTINF:-1 tvg-id="889" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png",29/06 02:00 AM | South Africa vs Canada (┃HR┃ HRT 2 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=425605&extension=ts&play_token=re0jimkgAk
+#EXTINF:-1 tvg-id="106954" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?63204",29/06 02:00 AM | South Africa vs Canada (FR: M6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=889&extension=ts&play_token=5Bu7QkAyyQ
-#EXTINF:-1 tvg-id="559122" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png",29/06 02:00 AM | South Africa vs Canada (┃HR┃ HRT 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=106954&extension=ts&play_token=nYTtcXojnj
+#EXTINF:-1 tvg-id="220808" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?1505",29/06 02:00 AM | South Africa vs Canada (FR: M6 (UHD))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=559122&extension=ts&play_token=ZWoyLbgDyz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=220808&extension=ts&play_token=psDC6bySwX
+#EXTINF:-1 tvg-id="207144" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?36172",29/06 02:00 AM | South Africa vs Canada (FR: M6 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=207144&extension=ts&play_token=45b4iUFcjp
 #EXTINF:-1 tvg-id="425605" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?37517",29/06 02:00 AM | South Africa vs Canada (FR: M6 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425605&extension=ts&play_token=hktZiPjzNL
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425605&extension=ts&play_token=wNLUDjkKIT
 #EXTINF:-1 tvg-id="106954" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?63204",29/06 02:00 AM | South Africa vs Canada (FR: M6 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=106954&extension=ts&play_token=AWgmiUP5VR
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=106954&extension=ts&play_token=WcRovyWd75
 #EXTINF:-1 tvg-id="220808" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?1505",29/06 02:00 AM | South Africa vs Canada (FR: M6 (UHD))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=220808&extension=ts&play_token=ACHHgSVfDc
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=220808&extension=ts&play_token=ebUKnnagir
 #EXTINF:-1 tvg-id="207144" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6277.jpg?36172",29/06 02:00 AM | South Africa vs Canada (FR: M6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=207144&extension=ts&play_token=b82DPh9fpw
-#EXTINF:-1 tvg-id="2077029" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/M6.png",29/06 02:00 AM | South Africa vs Canada (FR| M6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077029&extension=ts&play_token=LZBA2W0cUQ
-#EXTINF:-1 tvg-id="526148" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/france/526148.png",29/06 02:00 AM | South Africa vs Canada (FR| M6 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=526148&extension=ts&play_token=FZegCnLIes
-#EXTINF:-1 tvg-id="506633" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/france/506633.png",29/06 02:00 AM | South Africa vs Canada (FR| M6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506633&extension=ts&play_token=nIipPS4dxG
-#EXTINF:-1 tvg-id="507466" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/france/507466.png",29/06 02:00 AM | South Africa vs Canada (FR| M6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507466&extension=ts&play_token=4vHCJlZ3XE
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=207144&extension=ts&play_token=udx2d8PgtS
 #EXTINF:-1 tvg-id="936775" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/M6.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ M6 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=936775&extension=ts&play_token=rYl0ePpqs5
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=936775&extension=ts&play_token=4WfIwdw7Pn
 #EXTINF:-1 tvg-id="936776" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/M6.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ M6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=936776&extension=ts&play_token=cZId8vz7NF
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=936776&extension=ts&play_token=KXv7NLRwoL
 #EXTINF:-1 tvg-id="936777" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ TÉLÉVISION DE BASE+/M6.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ M6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=936777&extension=ts&play_token=nphFitGNeV
-#EXTINF:-1 tvg-id="1981506" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?6389",29/06 02:00 AM | South Africa vs Canada (NL: NPO 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=936777&extension=ts&play_token=owYHPzcOvn
+#EXTINF:-1 tvg-id="1562932" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14519.png?25473",29/06 02:00 AM | South Africa vs Canada (SI: ARENA SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1981506&extension=ts&play_token=lFcL85vOsh
-#EXTINF:-1 tvg-id="1537590" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?71945",29/06 02:00 AM | South Africa vs Canada (NL: NPO 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562932&extension=ts&play_token=Mjk4xhSbdX
+#EXTINF:-1 tvg-id="1461062" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3987.png?89964",29/06 02:00 AM | South Africa vs Canada (SI: ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537590&extension=ts&play_token=Q533zPA4hQ
-#EXTINF:-1 tvg-id="548096" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NPO1HD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1461062&extension=ts&play_token=30YCm1yeUY
+#EXTINF:-1 tvg-id="2012619" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?96102",29/06 02:00 AM | South Africa vs Canada (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548096&extension=ts&play_token=AywPT1wSDf
-#EXTINF:-1 tvg-id="933084" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/NPO1.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1 FHD 50FPS)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012619&extension=ts&play_token=VgyamnQSO6
+#EXTINF:-1 tvg-id="1562544" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?73180",29/06 02:00 AM | South Africa vs Canada (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933084&extension=ts&play_token=jj7yH4RG1V
-#EXTINF:-1 tvg-id="947956" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/NPO1.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562544&extension=ts&play_token=TzZzO7Bl8D
+#EXTINF:-1 tvg-id="345650" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",29/06 02:00 AM | South Africa vs Canada (PL VIP: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=947956&extension=ts&play_token=oK4qBxLzaf
-#EXTINF:-1 tvg-id="237461" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NPO1HD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1 8K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=345650&extension=ts&play_token=BzSjDvvWK4
+#EXTINF:-1 tvg-id="1991945" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",29/06 02:00 AM | South Africa vs Canada (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237461&extension=ts&play_token=eHpkgbvMyB
-#EXTINF:-1 tvg-id="392166" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NPO1HD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1  8K+ UHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991945&extension=ts&play_token=pzQUhXKzLG
+#EXTINF:-1 tvg-id="1991944" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",29/06 02:00 AM | South Africa vs Canada (PL: TVP SPORT ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392166&extension=ts&play_token=EVdvh8ECGa
-#EXTINF:-1 tvg-id="173879" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png",29/06 02:00 AM | South Africa vs Canada (┃DE┃ MAGENTA SPORT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=173879&extension=ts&play_token=ycjb9g68vi
-#EXTINF:-1 tvg-id="1149480" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png",29/06 02:00 AM | South Africa vs Canada (┃DE┃ MAGENTA SPORT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149480&extension=ts&play_token=GUyg2vcy4m
-#EXTINF:-1 tvg-id="1280678" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MAGENTASPORT.png",29/06 02:00 AM | South Africa vs Canada (┃DE┃ MAGENTASPORT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280678&extension=ts&play_token=nn5VQaS6Nd
-#EXTINF:-1 tvg-id="1745056" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",29/06 02:00 AM | South Africa vs Canada (┃AR┃ BEIN SPORTS MAX 6 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1745056&extension=ts&play_token=ctGoDt3YnC
-#EXTINF:-1 tvg-id="1745055" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",29/06 02:00 AM | South Africa vs Canada (┃AR┃ BEIN SPORTS MAX 6 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1745055&extension=ts&play_token=59MGYVqkYQ
-#EXTINF:-1 tvg-id="1745057" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",29/06 02:00 AM | South Africa vs Canada (┃AR┃ BEIN SPORTS MAX 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1745057&extension=ts&play_token=AT6ShIKkjT
-#EXTINF:-1 tvg-id="2077057" group-title="Live Fifa World Cup" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",29/06 02:00 AM | South Africa vs Canada (BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077057&extension=ts&play_token=lmBdwIGPqY
-#EXTINF:-1 tvg-id="559146" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",29/06 02:00 AM | South Africa vs Canada (┃BA┃ ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=559146&extension=ts&play_token=mM0Y49J6hk
-#EXTINF:-1 tvg-id="1443991" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443991&extension=ts&play_token=FoSIHFc5UK
-#EXTINF:-1 tvg-id="1443988" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443988&extension=ts&play_token=lESCApe3Mb
-#EXTINF:-1 tvg-id="1443989" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443989&extension=ts&play_token=wcYRpsUmWj
-#EXTINF:-1 tvg-id="1443990" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443990&extension=ts&play_token=wL6HT8hgkU
-#EXTINF:-1 tvg-id="1443992" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443992&extension=ts&play_token=z6GSfDCkpj
-#EXTINF:-1 tvg-id="425570" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?26677",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425570&extension=ts&play_token=eEWqq5nHwF
-#EXTINF:-1 tvg-id="107005" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=107005&extension=ts&play_token=lGx1dmfomt
-#EXTINF:-1 tvg-id="220942" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033",29/06 02:00 AM | South Africa vs Canada (FR: beIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=220942&extension=ts&play_token=VtAUm4EygX
-#EXTINF:-1 tvg-id="526126" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/france/526126.png",29/06 02:00 AM | South Africa vs Canada (FR| BEIN SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=526126&extension=ts&play_token=b8MPUNCZ9V
-#EXTINF:-1 tvg-id="506552" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/france/506552.png",29/06 02:00 AM | South Africa vs Canada (FR| BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506552&extension=ts&play_token=8L3iz0YjVm
-#EXTINF:-1 tvg-id="507386" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/france/507386.png",29/06 02:00 AM | South Africa vs Canada (FR| BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507386&extension=ts&play_token=V8NcxB42uO
-#EXTINF:-1 tvg-id="941417" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941417&extension=ts&play_token=3ge7cnfUo8
-#EXTINF:-1 tvg-id="941418" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941418&extension=ts&play_token=GsYWFr6D9y
-#EXTINF:-1 tvg-id="941419" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ BEIN SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941419&extension=ts&play_token=NROzwyMLst
-#EXTINF:-1 tvg-id="2011791" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 02:00 AM | South Africa vs Canada (OD: BBC ONE ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011791&extension=ts&play_token=XPXuCbxjeu
-#EXTINF:-1 tvg-id="2011500" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 02:00 AM | South Africa vs Canada (OD: BBC ONE ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011500&extension=ts&play_token=vpBVp70g2V
-#EXTINF:-1 tvg-id="1981483" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?25275",29/06 02:00 AM | South Africa vs Canada (NL: BBC ONE ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1981483&extension=ts&play_token=1T8a6EyeK8
-#EXTINF:-1 tvg-id="209244" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12575.jpg?ver=53985",29/06 02:00 AM | South Africa vs Canada (NL: BBC One ᴿᴬᵂ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=209244&extension=ts&play_token=cvNflROjdh
-#EXTINF:-1 tvg-id="1831833" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11987.jpg?12226",29/06 02:00 AM | South Africa vs Canada (BE-VIP: BBC ONE ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1831833&extension=ts&play_token=ZkcTrWsfwg
-#EXTINF:-1 tvg-id="2022562" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/BELGIUMNEW/BBCONE.png",29/06 02:00 AM | South Africa vs Canada (BE| BBC ONE ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2022562&extension=ts&play_token=cjgAvlg6qv
-#EXTINF:-1 tvg-id="933149" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/BBC ONE.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ BBC ONE FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933149&extension=ts&play_token=WTblBRdu6V
-#EXTINF:-1 tvg-id="947891" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/BBC ONE.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ BBC ONE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=947891&extension=ts&play_token=H8bJdjSKzn
-#EXTINF:-1 tvg-id="392220" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/BBCONEHD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ BBC ONE 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392220&extension=ts&play_token=OE9mH6tzkB
-#EXTINF:-1 tvg-id="3220" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/HUNGARIA/m4sport.png",29/06 02:00 AM | South Africa vs Canada (┃HU┃ M4 SPORT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=3220&extension=ts&play_token=fyOMjGNjfZ
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991944&extension=ts&play_token=yi1CNDhPf0
 #EXTINF:-1 tvg-id="345650" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",29/06 02:00 AM | South Africa vs Canada (PL VIP: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=345650&extension=ts&play_token=IZDBAEumyy
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=345650&extension=ts&play_token=8Wii3wnxSm
 #EXTINF:-1 tvg-id="1991945" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",29/06 02:00 AM | South Africa vs Canada (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991945&extension=ts&play_token=mCiDl3ZW62
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991945&extension=ts&play_token=e60iqqz6HC
 #EXTINF:-1 tvg-id="1991944" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",29/06 02:00 AM | South Africa vs Canada (PL: TVP SPORT ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991944&extension=ts&play_token=L8puMA2adD
-#EXTINF:-1 tvg-id="2077018" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917583.png",29/06 02:00 AM | South Africa vs Canada (PL|  TVP SPORT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2077018&extension=ts&play_token=sbfpE3oyfg
-#EXTINF:-1 tvg-id="1530245" group-title="Live Fifa World Cup" tvg-logo="http://103.176.90.92/images/1530245.png",29/06 02:00 AM | South Africa vs Canada (PL-VIP| TVP SPORT RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530245&extension=ts&play_token=UEnX0NiyPi
-#EXTINF:-1 tvg-id="880502" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",29/06 02:00 AM | South Africa vs Canada (PL| TVP SPORT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880502&extension=ts&play_token=z8zsmTgeuD
-#EXTINF:-1 tvg-id="880362" group-title="Live Fifa World Cup" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",29/06 02:00 AM | South Africa vs Canada (PL| TVP SPORT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880362&extension=ts&play_token=13Umy4a8MK
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991944&extension=ts&play_token=1bb1tWBDss
 #EXTINF:-1 tvg-id="1729190" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ POLSAT SPORT/TVP SPORT.png",29/06 02:00 AM | South Africa vs Canada (┃PL┃ TVP SPORT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729190&extension=ts&play_token=9X9Ry5Nn4F
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729190&extension=ts&play_token=Yz1288gJc4
 #EXTINF:-1 tvg-id="1729191" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ POLSAT SPORT/TVP SPORT.png",29/06 02:00 AM | South Africa vs Canada (┃PL┃ TVP SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729191&extension=ts&play_token=6UIoZfLQnC
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1729191&extension=ts&play_token=SAZ7Utd6xx
+#EXTINF:-1 tvg-id="1745056" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",29/06 02:00 AM | South Africa vs Canada (┃AR┃ BEIN SPORTS MAX 6 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1745056&extension=ts&play_token=lCYvqZT9Cs
+#EXTINF:-1 tvg-id="1745055" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",29/06 02:00 AM | South Africa vs Canada (┃AR┃ BEIN SPORTS MAX 6 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1745055&extension=ts&play_token=qbTMNmEdAq
+#EXTINF:-1 tvg-id="1745057" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",29/06 02:00 AM | South Africa vs Canada (┃AR┃ BEIN SPORTS MAX 6 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1745057&extension=ts&play_token=xsDb7QDrJ1
+#EXTINF:-1 tvg-id="1443991" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443991&extension=ts&play_token=W80L7meGle
+#EXTINF:-1 tvg-id="1443988" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443988&extension=ts&play_token=akPkciuIek
+#EXTINF:-1 tvg-id="1443989" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443989&extension=ts&play_token=2Rnon3bE78
+#EXTINF:-1 tvg-id="1443990" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443990&extension=ts&play_token=UC9fJPn2V6
+#EXTINF:-1 tvg-id="1443992" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE GENERALE/ANTENA 1 CINEMA.png",29/06 02:00 AM | South Africa vs Canada (┃RO┃ ANTENA 1 FIBRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1443992&extension=ts&play_token=qJsXbbgnlk
+#EXTINF:-1 tvg-id="2012653" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14519.png?80799",29/06 02:00 AM | South Africa vs Canada (BA: ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012653&extension=ts&play_token=19TeuHOfRO
+#EXTINF:-1 tvg-id="559146" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png",29/06 02:00 AM | South Africa vs Canada (┃BA┃ ARENA SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=559146&extension=ts&play_token=D2OyxgKiRg
+#EXTINF:-1 tvg-id="2012630" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3804.jpg?2270",29/06 02:00 AM | South Africa vs Canada (HR: HRT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012630&extension=ts&play_token=tK1ELoGcQ9
+#EXTINF:-1 tvg-id="1460685" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3804.jpg?2270",29/06 02:00 AM | South Africa vs Canada (HR: HRT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1460685&extension=ts&play_token=aX8o2pW04R
+#EXTINF:-1 tvg-id="2427" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3804.jpg?2270",29/06 02:00 AM | South Africa vs Canada (HR: Hrt 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2427&extension=ts&play_token=VLrW4bwOaY
+#EXTINF:-1 tvg-id="2426" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3804.jpg?2270",29/06 02:00 AM | South Africa vs Canada (HR: Hrt 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2426&extension=ts&play_token=bEkgUDFKE8
+#EXTINF:-1 tvg-id="889" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png",29/06 02:00 AM | South Africa vs Canada (┃HR┃ HRT 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=889&extension=ts&play_token=BoWDZt564T
+#EXTINF:-1 tvg-id="559122" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/HRVATSKA/HRT1-logo.png",29/06 02:00 AM | South Africa vs Canada (┃HR┃ HRT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=559122&extension=ts&play_token=hKXamIgu9w
+#EXTINF:-1 tvg-id="1981506" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?6389",29/06 02:00 AM | South Africa vs Canada (NL: NPO 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1981506&extension=ts&play_token=6mkY07TJWr
+#EXTINF:-1 tvg-id="1537590" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?71945",29/06 02:00 AM | South Africa vs Canada (NL: NPO 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537590&extension=ts&play_token=3MY3MKEkZJ
+#EXTINF:-1 tvg-id="1981506" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?6389",29/06 02:00 AM | South Africa vs Canada (NL: NPO 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1981506&extension=ts&play_token=wFr4Y2s1Tj
+#EXTINF:-1 tvg-id="1537590" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12637.jpg?71945",29/06 02:00 AM | South Africa vs Canada (NL: NPO 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537590&extension=ts&play_token=d5UROjj3Lt
+#EXTINF:-1 tvg-id="548096" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NPO1HD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548096&extension=ts&play_token=fuslMMvTCW
+#EXTINF:-1 tvg-id="933084" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/NPO1.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1 FHD 50FPS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933084&extension=ts&play_token=ePsaI17Iq9
+#EXTINF:-1 tvg-id="947956" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/NPO1.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=947956&extension=ts&play_token=nFNsfgMKbs
+#EXTINF:-1 tvg-id="237461" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NPO1HD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1 8K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237461&extension=ts&play_token=Vn8nCcV7A7
+#EXTINF:-1 tvg-id="392166" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NPO1HD.png",29/06 02:00 AM | South Africa vs Canada (┃NL┃ NPO 1  8K+ UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392166&extension=ts&play_token=7miGAAWUzW
+#EXTINF:-1 tvg-id="173879" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTASPORTHD.png",29/06 02:00 AM | South Africa vs Canada (┃DE┃ MAGENTA SPORT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=173879&extension=ts&play_token=QQ9wP9HqyJ
+#EXTINF:-1 tvg-id="1149480" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/MAGENTA SPORT/MAGENTA SPORT.png",29/06 02:00 AM | South Africa vs Canada (┃DE┃ MAGENTA SPORT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149480&extension=ts&play_token=e9bvfRnVgi
+#EXTINF:-1 tvg-id="1280678" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/MAGENTASPORT.png",29/06 02:00 AM | South Africa vs Canada (┃DE┃ MAGENTASPORT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280678&extension=ts&play_token=MdPLh4tvwV
+#EXTINF:-1 tvg-id="1966388" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711",29/06 02:00 AM | South Africa vs Canada (TR: TRT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966388&extension=ts&play_token=9aSW6SSpdC
 #EXTINF:-1 tvg-id="1966388" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711",29/06 02:00 AM | South Africa vs Canada (TR: TRT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966388&extension=ts&play_token=dcYLLP0kps
-#EXTINF:-1 tvg-id="411539" group-title="Live Euro" tvg-logo="http://103.176.90.92/images/411539.png",29/06 02:00 AM | Germany U19 vs Denmark U19 (DE| SPORTDIGITAL FUSSBALL FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966388&extension=ts&play_token=yChYMlwN7q
+#EXTINF:-1 tvg-id="3220" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/HUNGARIA/m4sport.png",29/06 02:00 AM | South Africa vs Canada (┃HU┃ M4 SPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411539&extension=ts&play_token=sUVecqIGNz
-#EXTINF:-1 tvg-id="411534" group-title="Live Euro" tvg-logo="http://103.176.90.92/images/411534.png",29/06 02:00 AM | Germany U19 vs Denmark U19 (DE| SPORTDIGITAL FUSSBALL FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=3220&extension=ts&play_token=P05kvP9T9r
+#EXTINF:-1 tvg-id="2012623" group-title="Live Fifa World Cup" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?75914",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8238F8462B1C1F12FF55971E763A6068
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411534&extension=ts&play_token=VAICZQ2nrr
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012623&extension=ts&play_token=uu3rY7I9Vr
+#EXTINF:-1 tvg-id="284564" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?42256",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=284564&extension=ts&play_token=dJ9ik1Er5n
+#EXTINF:-1 tvg-id="284565" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?42256",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=284565&extension=ts&play_token=7m2RKnIuwB
+#EXTINF:-1 tvg-id="285431" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?30382",29/06 02:00 AM | South Africa vs Canada (IT: Rai 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=285431&extension=ts&play_token=EZiibOT5Ps
+#EXTINF:-1 tvg-id="285432" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?30382",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 HD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=285432&extension=ts&play_token=jnvygn6svW
+#EXTINF:-1 tvg-id="284776" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?67492",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=284776&extension=ts&play_token=UL6M4keHdF
+#EXTINF:-1 tvg-id="284564" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?42256",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284564&extension=ts&play_token=V1RJ2XWdmW
+#EXTINF:-1 tvg-id="284565" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?42256",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284565&extension=ts&play_token=o2QuzOP1zy
+#EXTINF:-1 tvg-id="285431" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?30382",29/06 02:00 AM | South Africa vs Canada (IT: Rai 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285431&extension=ts&play_token=tRdJCXfFWo
+#EXTINF:-1 tvg-id="285432" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?30382",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 HD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285432&extension=ts&play_token=DXRNrwST6H
+#EXTINF:-1 tvg-id="284776" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?67492",29/06 02:00 AM | South Africa vs Canada (IT: RAI 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284776&extension=ts&play_token=m7305b6zz9
+#EXTINF:-1 tvg-id="177585" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_1_HD_Logo.svg.png",29/06 02:00 AM | South Africa vs Canada (┃IT┃ RAI 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177585&extension=ts&play_token=PH0iAfTXnH
+#EXTINF:-1 tvg-id="1167397" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_1_HD_Logo.svg.png",29/06 02:00 AM | South Africa vs Canada (┃IT┃ RAI 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167397&extension=ts&play_token=8IT7qpRa2S
+#EXTINF:-1 tvg-id="1166053" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_1_HD_Logo.svg.png",29/06 02:00 AM | South Africa vs Canada (┃IT┃ RAI 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1166053&extension=ts&play_token=0s4C1RLCLM
+#EXTINF:-1 tvg-id="177568" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Rai_1_HD_Logo.svg.png",29/06 02:00 AM | South Africa vs Canada (┃IT┃ RAI 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=177568&extension=ts&play_token=DTL364sC6s
+#EXTINF:-1 tvg-id="425570" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?26677",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=425570&extension=ts&play_token=OsEHhcq99p
+#EXTINF:-1 tvg-id="107005" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=107005&extension=ts&play_token=Vy3CH9oqR4
+#EXTINF:-1 tvg-id="220942" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033",29/06 02:00 AM | South Africa vs Canada (FR: beIN SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=220942&extension=ts&play_token=6NnRJpFwUQ
+#EXTINF:-1 tvg-id="1562828" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?16189",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562828&extension=ts&play_token=xbI66YEG3A
+#EXTINF:-1 tvg-id="1562768" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?46463",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562768&extension=ts&play_token=bcJtmVcDSf
+#EXTINF:-1 tvg-id="425570" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?26677",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425570&extension=ts&play_token=QXyTAHDcpo
+#EXTINF:-1 tvg-id="107005" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033",29/06 02:00 AM | South Africa vs Canada (FR: BEIN SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=107005&extension=ts&play_token=06w1vaPEtl
+#EXTINF:-1 tvg-id="220942" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033",29/06 02:00 AM | South Africa vs Canada (FR: beIN SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=220942&extension=ts&play_token=ERbQuqUbIC
+#EXTINF:-1 tvg-id="941417" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ BEIN SPORTS 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941417&extension=ts&play_token=Po1d2hArnR
+#EXTINF:-1 tvg-id="941418" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ BEIN SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941418&extension=ts&play_token=qEARlhhbmm
+#EXTINF:-1 tvg-id="941419" group-title="Live Fifa World Cup" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 1.png",29/06 02:00 AM | South Africa vs Canada (┃FR┃ BEIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941419&extension=ts&play_token=Jwi6AVTKBC
+#EXTINF:-1 tvg-id="544417" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",29/06 02:00 AM | South Africa vs Canada (8K: beIN SP⚽RTS 1 FRANCE ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544417&extension=ts&play_token=QomBNZQDzT
+#EXTINF:-1 tvg-id="544440" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",29/06 02:00 AM | South Africa vs Canada (8K: beIN SP⚽RTS 1 FRANCE ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544440&extension=ts&play_token=goJzf7mV8x
+#EXTINF:-1 tvg-id="544809" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",29/06 02:00 AM | South Africa vs Canada (◉: beIN Sp⚽rts 1 FRANCE 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544809&extension=ts&play_token=IWKOgZEtNR
+#EXTINF:-1 tvg-id="1201187" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",29/06 02:00 AM | South Africa vs Canada (NM: beIN SP⚽RTS FRENCH 1 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201187&extension=ts&play_token=CiN23Eaqsg
+#EXTINF:-1 tvg-id="1201147" group-title="Live Fifa World Cup" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",29/06 02:00 AM | South Africa vs Canada (NM: beIN SP⚽RTS FRENCH 1 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201147&extension=ts&play_token=2izFVsnqbN
 #EXTINF:-1 tvg-id="1280783" group-title="Live Euro" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL FUSSBALL.png",29/06 02:00 AM | Germany U19 vs Denmark U19 (┃DE┃ SPORTDIGITAL FUSSBALL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0AA1790EC61479C72A98E704FE8DA670
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280783&extension=ts&play_token=dGGA2WkF1L
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280783&extension=ts&play_token=1jiVYMeYuq
+#EXTINF:-1 tvg-id="2012607" group-title="🎾|Live Tennis" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?36007",29/06 05:00 PM | Wimbledon (UK: BBC 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012607&extension=ts&play_token=3TjkIK3ANu
+#EXTINF:-1 tvg-id="162096" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?38263",29/06 05:00 PM | Wimbledon (UK: BBC 1 HD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=162096&extension=ts&play_token=xocf1kvxZ9
+#EXTINF:-1 tvg-id="162120" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?78071",29/06 05:00 PM | Wimbledon (UK: BBC 1 4K ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=162120&extension=ts&play_token=ZSUT8shWfE
+#EXTINF:-1 tvg-id="717682" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?91682",29/06 05:00 PM | Wimbledon (UK: BBC 1 HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=717682&extension=ts&play_token=oM7UEF1aQB
+#EXTINF:-1 tvg-id="717666" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?99647",29/06 05:00 PM | Wimbledon (UK: BBC 1 HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=717666&extension=ts&play_token=YoXzk43EY8
+#EXTINF:-1 tvg-id="162096" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?38263",29/06 05:00 PM | Wimbledon (UK: BBC 1 HD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=162096&extension=ts&play_token=L05i43XWzj
+#EXTINF:-1 tvg-id="162120" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?78071",29/06 05:00 PM | Wimbledon (UK: BBC 1 4K ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=162120&extension=ts&play_token=IUMiSDJ46t
+#EXTINF:-1 tvg-id="717682" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?91682",29/06 05:00 PM | Wimbledon (UK: BBC 1 HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=717682&extension=ts&play_token=lH3HD7UWf5
+#EXTINF:-1 tvg-id="717666" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12016.jpg?99647",29/06 05:00 PM | Wimbledon (UK: BBC 1 HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=717666&extension=ts&play_token=PzmkNYFsCH
+#EXTINF:-1 tvg-id="1168940" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/GENERAL/BBC 1.png",29/06 05:00 PM | Wimbledon (┃UK┃ BBC 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1168940&extension=ts&play_token=wsDUtXX2ju
+#EXTINF:-1 tvg-id="394415" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/GENERAL/BBC 1.png",29/06 05:00 PM | Wimbledon (┃UK┃ BBC 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394415&extension=ts&play_token=DQduTknstc
+#EXTINF:-1 tvg-id="1168980" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/GENERAL/BBC 1.png",29/06 05:00 PM | Wimbledon (┃UK┃ BBC 1 HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1168980&extension=ts&play_token=HiDqDTTLD8
+#EXTINF:-1 tvg-id="1169062" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/GENERAL/BBC 1.png",29/06 05:00 PM | Wimbledon (┃UK┃ BBC 1 HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1169062&extension=ts&play_token=RNLk805vyc
+#EXTINF:-1 tvg-id="2012643" group-title="🎾|Live Tennis" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?84460",29/06 05:00 PM | 2026 Wimbledon Championships (CA: TSN 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012643&extension=ts&play_token=jRtRntdcbK
+#EXTINF:-1 tvg-id="414141" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 05:00 PM | 2026 Wimbledon Championships (CA EN: TSN 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=414141&extension=ts&play_token=uAq65h26O1
+#EXTINF:-1 tvg-id="1239040" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081",29/06 05:00 PM | 2026 Wimbledon Championships (CA: TSN 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1239040&extension=ts&play_token=PtHzYu1ZPm
+#EXTINF:-1 tvg-id="414141" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 05:00 PM | 2026 Wimbledon Championships (CA EN: TSN 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414141&extension=ts&play_token=JiDldmWbL3
+#EXTINF:-1 tvg-id="1239040" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081",29/06 05:00 PM | 2026 Wimbledon Championships (CA: TSN 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239040&extension=ts&play_token=ZduTfRPdPJ
+#EXTINF:-1 tvg-id="2012640" group-title="🎾|Live Tennis" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?58216",29/06 05:00 PM | 2026 Wimbledon Championships (CA: TSN 5 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2012640&extension=ts&play_token=O7t9jfQaom
+#EXTINF:-1 tvg-id="414138" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 05:00 PM | 2026 Wimbledon Championships (CA EN: TSN 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=414138&extension=ts&play_token=7BXDV6M8Ya
+#EXTINF:-1 tvg-id="1239014" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624",29/06 05:00 PM | 2026 Wimbledon Championships (CA: TSN 5 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1239014&extension=ts&play_token=ExC1vdG2wx
+#EXTINF:-1 tvg-id="414138" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",29/06 05:00 PM | 2026 Wimbledon Championships (CA EN: TSN 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414138&extension=ts&play_token=wu1TcKb7wj
+#EXTINF:-1 tvg-id="1239014" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624",29/06 05:00 PM | 2026 Wimbledon Championships (CA: TSN 5 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239014&extension=ts&play_token=j65JzJ6ImV
+#EXTINF:-1 tvg-id="832049" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",29/06 04:07 AM | United States Smash (FR:L`EQUIPE HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=832049&extension=ts&play_token=aHaU7lFHGk
+#EXTINF:-1 tvg-id="832050" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",29/06 04:07 AM | United States Smash (FR: L`EQUIPE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=832050&extension=ts&play_token=ByQwQoFP4S
+#EXTINF:-1 tvg-id="832048" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",29/06 04:07 AM | United States Smash (FR: L`EQUIPE 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=832048&extension=ts&play_token=ft0Nahmmmn
 #EXTINF:-1 tvg-id="832049" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",29/06 04:07 AM | United States Smash (FR:L`EQUIPE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832049&extension=ts&play_token=bxPZhiBlkS
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832049&extension=ts&play_token=XHUkM8bFZI
 #EXTINF:-1 tvg-id="832050" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",29/06 04:07 AM | United States Smash (FR: L`EQUIPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832050&extension=ts&play_token=B9SXalCwNs
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832050&extension=ts&play_token=iN61vX8V8U
 #EXTINF:-1 tvg-id="832048" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",29/06 04:07 AM | United States Smash (FR: L`EQUIPE 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 63D03D7B0133F919A0D43849D2CE4F30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832048&extension=ts&play_token=ReVDa0fdjg
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832048&extension=ts&play_token=4WmA52slPs
+#EXTINF:-1 tvg-id="1544251" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1384.png?94877",29/06 05:00 PM | Wimbledon Dag 1 (4K: ZIGGO SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1544251&extension=ts&play_token=5m5HTh7quL
+#EXTINF:-1 tvg-id="1562698" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?50256",29/06 05:00 PM | Wimbledon Dag 1 (NL: ZIGGO SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562698&extension=ts&play_token=FyjeyjyHCA
+#EXTINF:-1 tvg-id="1980750" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",29/06 05:00 PM | Wimbledon Dag 1 (ZG: ZIGGO SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980750&extension=ts&play_token=Way1yFCTUC
+#EXTINF:-1 tvg-id="2011554" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011554&extension=ts&play_token=dr81glkrVI
+#EXTINF:-1 tvg-id="2011263" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011263&extension=ts&play_token=5i0R5X5fcx
+#EXTINF:-1 tvg-id="1537611" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",29/06 05:00 PM | Wimbledon Dag 1 (NL: ZIGGO SPORT ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537611&extension=ts&play_token=o5AUr0JhhM
+#EXTINF:-1 tvg-id="1980750" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",29/06 05:00 PM | Wimbledon Dag 1 (ZG: ZIGGO SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980750&extension=ts&play_token=x1FgrvOwWP
+#EXTINF:-1 tvg-id="2011554" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011554&extension=ts&play_token=ZPFTxxgVpF
+#EXTINF:-1 tvg-id="2011263" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011263&extension=ts&play_token=z8Exj1Nc0R
+#EXTINF:-1 tvg-id="1537611" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",29/06 05:00 PM | Wimbledon Dag 1 (NL: ZIGGO SPORT ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537611&extension=ts&play_token=jpzZTAmjHK
+#EXTINF:-1 tvg-id="548065" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548065&extension=ts&play_token=SOaafq8ugA
+#EXTINF:-1 tvg-id="392231" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTHD.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT  8K+ UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392231&extension=ts&play_token=TBDGqdlJ45
+#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",29/06 05:00 PM | Wimbledon Dag 1 (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562704&extension=ts&play_token=7uOBQwfVsU
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",29/06 05:00 PM | Wimbledon Dag 1 (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980747&extension=ts&play_token=S9t860eGH4
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011551&extension=ts&play_token=5y0fvDAXS7
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011260&extension=ts&play_token=XfkVN1Etm4
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",29/06 05:00 PM | Wimbledon Dag 1 (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E77B7D3011359CC70B8720740068E535
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537608&extension=ts&play_token=tMMCkRsfnh
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",29/06 05:00 PM | Wimbledon Dag 1 (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=3Qibwsx90h
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=Zi8fNwy1kK
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",29/06 05:00 PM | Wimbledon Dag 1 (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=d3KxuCUVUY
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",29/06 05:00 PM | Wimbledon Dag 1 (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D707BD67716DC7CDF8E57E3091C06F40
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=Tet5P3Xrhb
+#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=99oPO2mMpR
+#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=R289YhM3AM
+#EXTINF:-1 tvg-id="948040" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=948040&extension=ts&play_token=FNHcZDMSZR
+#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4 8K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=cklKUI9kot
+#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=g8NziFnbEW
+#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",29/06 05:00 PM | Wimbledon Dag 1 (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=tlwPDTvT8V
+#EXTINF:-1 tvg-id="1280783" group-title="Live Euro" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DE MAGENTA HD/SPORTDIGITAL FUSSBALL.png",29/06 10:00 PM | Italy U19 vs Serbia U19 (┃DE┃ SPORTDIGITAL FUSSBALL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A613C93132AEE748520F997F84495D72
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1280783&extension=ts&play_token=1jiVYMeYuq
