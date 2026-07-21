@@ -1,56 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1863225" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/07 12:00 AM | AGF LECH POZNAŃ (DK) 8K DK: VIAPLAY 2
+#EXTINF:-1 tvg-id="1863225" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/07 12:00 AM | LIVE AGF LECH POZNAŃ (DK) 8K DK: VIAPLAY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC5C122D946A4D460BE4168A0FA3C976
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863225&extension=ts&play_token=26Vbb8SYaz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1863225&extension=ts&play_token=xFCIrgomfu
 #EXTINF:-1 tvg-id="1703072" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",22/07 12:00 AM | AGF vs Lech Poznań @ :Viaplay DK 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC5C122D946A4D460BE4168A0FA3C976
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1703072&extension=ts&play_token=bnL4f9YR1F
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1703072&extension=ts&play_token=6SHJOQ9krM
 #EXTINF:-1 tvg-id="1601704" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",22/07 01:30 AM | US (ESPN+ 015) Soccer: Hearts vs. Sk Sturm Graz ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC5C122D946A4D460BE4168A0FA3C976
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601704&extension=ts&play_token=Rq8sjlxKHX
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1601704&extension=ts&play_token=gj92gEd5XO
 #EXTINF:-1 tvg-id="1949897" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",22/07 01:30 AM | US (ESPN+ 015) Soccer: Hearts vs. Sk Sturm Graz ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4DA64EED41E76C7CF997C5658BE591E5
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949897&extension=ts&play_token=VKvYrtEE49
+#EXTVLCOPT:http-header=Authorization: Bearer ECDB7501345F81B32556B920EE839029
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949897&extension=ts&play_token=Y2hY0F8NOO
 #EXTINF:-1 tvg-id="993058" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",22/07 01:30 AM | UEFA 02 Sturm Graz vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC5C122D946A4D460BE4168A0FA3C976
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993058&extension=ts&play_token=ANvUafDpM5
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=993058&extension=ts&play_token=5eRtMEz2x2
 #EXTINF:-1 tvg-id="2070910" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/07 01:30 AM | PSF 07 Sturm Graz vs Hearts 21/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC5C122D946A4D460BE4168A0FA3C976
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2070910&extension=ts&play_token=omC9yAhjZe
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2070910&extension=ts&play_token=IGbZmbJgYP
 #EXTINF:-1 tvg-id="1363055" group-title="Live UEFA Champions League-Match" tvg-logo="http://103.176.90.95/images/1363055.png",22/07 01:30 AM | UEFA 02 Sturm Graz vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4DA64EED41E76C7CF997C5658BE591E5
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363055&extension=ts&play_token=mSwsVvN9pc
+#EXTVLCOPT:http-header=Authorization: Bearer ECDB7501345F81B32556B920EE839029
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363055&extension=ts&play_token=z9uALZtUwx
 #EXTINF:-1 tvg-id="2114325" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",22/07 01:30 AM | PSF 07 Sturm Graz vs Hearts 21/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4DA64EED41E76C7CF997C5658BE591E5
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114325&extension=ts&play_token=cZR8ZVTCYx
+#EXTVLCOPT:http-header=Authorization: Bearer ECDB7501345F81B32556B920EE839029
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114325&extension=ts&play_token=2rFbbTDpPt
 #EXTINF:-1 tvg-id="1025279" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",22/07 01:30 AM | UEFA 02 Sturm Graz vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC5C122D946A4D460BE4168A0FA3C976
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025279&extension=ts&play_token=cNbC2DiEBO
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1025279&extension=ts&play_token=BJGDRXgNrB
 #EXTINF:-1 tvg-id="1349313" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/07 01:30 AM | UEFA 02 Sturm Graz vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4DA64EED41E76C7CF997C5658BE591E5
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349313&extension=ts&play_token=aegr5UAPMD
+#EXTVLCOPT:http-header=Authorization: Bearer ECDB7501345F81B32556B920EE839029
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349313&extension=ts&play_token=RSAzoNTLwX
 #EXTINF:-1 tvg-id="1363944" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",22/07 01:30 AM | UEFA 02 Sturm Graz vs Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4DA64EED41E76C7CF997C5658BE591E5
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363944&extension=ts&play_token=R6aWrvbU3i
+#EXTVLCOPT:http-header=Authorization: Bearer ECDB7501345F81B32556B920EE839029
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363944&extension=ts&play_token=l9uaCftUEm
+#EXTINF:-1 tvg-id="2070908" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",22/07 01:30 AM | PSF 09 Walsall v Aston Villa // 21/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D12016CF49E9306728168DEAAA427C17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2070908&extension=ts&play_token=CRm87QTTE5
+#EXTINF:-1 tvg-id="2114323" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",22/07 01:30 AM | PSF 09 Walsall v Aston Villa // 21/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer ECDB7501345F81B32556B920EE839029
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114323&extension=ts&play_token=vXVFg8m4S4
