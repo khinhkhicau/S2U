@@ -1,886 +1,976 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1107297" group-title="Live UEFA Champions League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14149.png?70311",23/07 02:00 AM | Egnatia vs Celje (AL-VIP: RTSH 1 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1107297&extension=ts&play_token=adGyYeOEW5
-#EXTINF:-1 tvg-id="294507" group-title="Live UEFA Champions League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3158.png?98260",23/07 02:00 AM | Egnatia vs Celje (AL: RTSH 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=294507&extension=ts&play_token=mhvTQ2ndVi
-#EXTINF:-1 tvg-id="294515" group-title="Live UEFA Champions League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3147.jpeg?ver=40716",23/07 02:00 AM | Egnatia vs Celje (AL: RTSH SPORT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=294515&extension=ts&play_token=F4FZaAQUg5
-#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",23/07 04:00 PM |  (UK| BEIN SPORTS 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=238270&extension=ts&play_token=Y2aCunyTkb
 #EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686562&extension=ts&play_token=JbLjeaqWq7
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686562&extension=ts&play_token=33kN8W8llU
 #EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686561&extension=ts&play_token=juY7WkI4Fz
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686561&extension=ts&play_token=s0xmTbVCWP
 #EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",23/07 04:00 PM | Hamburg Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=324994&extension=ts&play_token=fIpFB3g280
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=324994&extension=ts&play_token=IzkWtrpqvH
 #EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",23/07 04:00 PM | Hamburg Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325092&extension=ts&play_token=Dt0fLW6nCx
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325092&extension=ts&play_token=hq5OaBX46a
+#EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",23/07 04:00 PM | Hamburg Open (US: TENNIS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=324994&extension=ts&play_token=lgae3vQSw1
+#EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",23/07 04:00 PM | Hamburg Open (US: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=325092&extension=ts&play_token=l2N0mUZvhy
+#EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (US: TENNIS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686562&extension=ts&play_token=kmRHwMtgcA
+#EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (US: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686561&extension=ts&play_token=eZw7cKLs9C
 #EXTINF:-1 tvg-id="324994" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?68030",23/07 04:00 PM | Hamburg Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=324994&extension=ts&play_token=iK6AgmfCJZ
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=324994&extension=ts&play_token=3F6EGKtwIB
 #EXTINF:-1 tvg-id="325092" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?ver=69335",23/07 04:00 PM | Hamburg Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325092&extension=ts&play_token=8CZgdMPrYN
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325092&extension=ts&play_token=rfYFZQdT6v
 #EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686562&extension=ts&play_token=mp9tibvCpK
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686562&extension=ts&play_token=zC8XE8I5Po
 #EXTINF:-1 tvg-id="686561" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (US: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686561&extension=ts&play_token=5uIyg1yuY1
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686561&extension=ts&play_token=CwglGpXEhs
 #EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",23/07 04:00 PM |  (US: BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325027&extension=ts&play_token=0QeMRFt3l5
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325027&extension=ts&play_token=7Yqjn5NqU0
+#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",23/07 04:00 PM |  (US: BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=325027&extension=ts&play_token=yQFH1mkNem
 #EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",23/07 04:00 PM |  (US: BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325027&extension=ts&play_token=lMWrjgnv76
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325027&extension=ts&play_token=Sr013ICw89
 #EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",23/07 04:00 PM | Hamburg Open (GO: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1568618&extension=ts&play_token=IthXZU8goy
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1568618&extension=ts&play_token=cg16gfxb0s
+#EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",23/07 04:00 PM | Hamburg Open (GO: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1568618&extension=ts&play_token=Zsw0eq6m4G
 #EXTINF:-1 tvg-id="1568618" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669",23/07 04:00 PM | Hamburg Open (GO: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1568618&extension=ts&play_token=dbIazGoZcB
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1568618&extension=ts&play_token=1vjayZkWPA
 #EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (DE: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686544&extension=ts&play_token=gNnCoJTGXo
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=686544&extension=ts&play_token=l8cieTKM7g
 #EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",23/07 04:00 PM | Hamburg Open (DE: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=479708&extension=ts&play_token=AZDSyyKjFq
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=479708&extension=ts&play_token=oyzByxxbgd
+#EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",23/07 04:00 PM | Hamburg Open (DE: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479708&extension=ts&play_token=J586ShQgEn
+#EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (DE: TENNIS CHANNEL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=686544&extension=ts&play_token=GLDexgZyyT
 #EXTINF:-1 tvg-id="686544" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",23/07 04:00 PM | Hamburg Open (DE: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686544&extension=ts&play_token=NJGrES7rKC
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=686544&extension=ts&play_token=mFPdrzaRbX
 #EXTINF:-1 tvg-id="479708" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?25404",23/07 04:00 PM | Hamburg Open (DE: TENNIS CHANNEL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479708&extension=ts&play_token=ntC2qeS1Od
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479708&extension=ts&play_token=MWRCpB2yfy
 #EXTINF:-1 tvg-id="544425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (8K: beIN SP⚽RTS 7 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544425&extension=ts&play_token=Ane4UI1LCB
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544425&extension=ts&play_token=goUj581aRX
 #EXTINF:-1 tvg-id="544485" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (8K: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544485&extension=ts&play_token=Lyv6Al2OUH
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544485&extension=ts&play_token=lchHBqEN9L
 #EXTINF:-1 tvg-id="544448" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (8K: beIN SP⚽RTS 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544448&extension=ts&play_token=IUb130yQIq
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544448&extension=ts&play_token=KwEnMyxiOt
 #EXTINF:-1 tvg-id="706545" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SS: beIN SP⚽RTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=706545&extension=ts&play_token=M9YeD81QZk
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=706545&extension=ts&play_token=KJRoxxxDIu
 #EXTINF:-1 tvg-id="706532" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SS: beIN SP⚽RTS 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=706532&extension=ts&play_token=Vg5HXAzThi
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=706532&extension=ts&play_token=08M7ioL0zD
 #EXTINF:-1 tvg-id="1353002" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (BE: beIN SP⚽RTS 7 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1353002&extension=ts&play_token=71udwA0DdT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1353002&extension=ts&play_token=7E2TwrW3AG
 #EXTINF:-1 tvg-id="1352978" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (BE: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1352978&extension=ts&play_token=k9gqOhWbcg
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1352978&extension=ts&play_token=wju7BKMeYb
 #EXTINF:-1 tvg-id="1352964" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (BE: beIN SP⚽RTS 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1352964&extension=ts&play_token=XW8K3cTP08
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1352964&extension=ts&play_token=q59zX1mz62
 #EXTINF:-1 tvg-id="544829" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (◉: beIN Sp⚽rts 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544829&extension=ts&play_token=mYkJWGcElx
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544829&extension=ts&play_token=cxK24gj9Le
 #EXTINF:-1 tvg-id="544815" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (◉: beIN Sp⚽rts 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544815&extension=ts&play_token=358xZE4oLl
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544815&extension=ts&play_token=6GkMojlNMT
 #EXTINF:-1 tvg-id="544799" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (◉: beIN Sp⚽rts 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544799&extension=ts&play_token=9bPtyAC11s
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=544799&extension=ts&play_token=Y1nhIFUUrD
 #EXTINF:-1 tvg-id="985148" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985148&extension=ts&play_token=ODIaxJ4SPU
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985148&extension=ts&play_token=NDumVUXKNC
 #EXTINF:-1 tvg-id="985112" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985112&extension=ts&play_token=U86XWjp012
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985112&extension=ts&play_token=RJAzvhuLt5
 #EXTINF:-1 tvg-id="985094" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985094&extension=ts&play_token=1mdvoyFZbX
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=985094&extension=ts&play_token=EDlhTWl7Di
 #EXTINF:-1 tvg-id="1201193" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (NM: beIN SP⚽RTS 7 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201193&extension=ts&play_token=ZXIDbznYl7
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201193&extension=ts&play_token=8SU0B6CPeZ
 #EXTINF:-1 tvg-id="1201153" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (NM: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201153&extension=ts&play_token=OjYPeXihr1
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201153&extension=ts&play_token=gp1UV6qorz
 #EXTINF:-1 tvg-id="1201135" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (NM: beIN SP⚽RTS 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201135&extension=ts&play_token=t1DDdUpMo4
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1201135&extension=ts&play_token=X82Dc0YBcH
 #EXTINF:-1 tvg-id="1120425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SA: beIN SP⚽RTS 7 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120425&extension=ts&play_token=l83FNFEcOL
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120425&extension=ts&play_token=hLY4URFyEj
 #EXTINF:-1 tvg-id="1120405" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SA: beIN SP⚽RTS 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120405&extension=ts&play_token=kg2fcWMQck
-#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1120405&extension=ts&play_token=kkVAis5YT8
+#EXTINF:-1 tvg-id="544425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (8K: beIN SP⚽RTS 7 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562704&extension=ts&play_token=CeSNbFZwDC
-#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 04:00 PM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544425&extension=ts&play_token=9jQYSYM8F9
+#EXTINF:-1 tvg-id="544485" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (8K: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980747&extension=ts&play_token=kxN70NaAvS
-#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544485&extension=ts&play_token=0UH1CiR2P9
+#EXTINF:-1 tvg-id="544448" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (8K: beIN SP⚽RTS 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011551&extension=ts&play_token=2bnvmamv3r
-#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544448&extension=ts&play_token=SqiJnwdRtp
+#EXTINF:-1 tvg-id="706545" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SS: beIN SP⚽RTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011260&extension=ts&play_token=cLpXQe5SyL
-#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706545&extension=ts&play_token=W9RGTVsP8i
+#EXTINF:-1 tvg-id="706532" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SS: beIN SP⚽RTS 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537608&extension=ts&play_token=v1A91wZCix
-#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 04:00 PM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=706532&extension=ts&play_token=4xgvJndeow
+#EXTINF:-1 tvg-id="1353002" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (BE: beIN SP⚽RTS 7 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=DlD5aLjJF9
-#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1353002&extension=ts&play_token=RzcmeHDFfs
+#EXTINF:-1 tvg-id="1352978" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (BE: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=uU4wTpXpPZ
-#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1352978&extension=ts&play_token=M63bVYfh8W
+#EXTINF:-1 tvg-id="1352964" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (BE: beIN SP⚽RTS 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=CcXf5zLTp2
-#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1352964&extension=ts&play_token=oLrxOHlgwk
+#EXTINF:-1 tvg-id="544829" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (◉: beIN Sp⚽rts 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=Wsg3Tuq2PA
-#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 04:00 PM |  (NL| ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544829&extension=ts&play_token=WMre4waPqf
+#EXTINF:-1 tvg-id="544815" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (◉: beIN Sp⚽rts 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283307&extension=ts&play_token=nZNC4KJ5o4
-#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 04:00 PM |  (NL| ZIGGO SPORT 4 UHD 8K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544815&extension=ts&play_token=8jlJxMMJCp
+#EXTINF:-1 tvg-id="544799" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (◉: beIN Sp⚽rts 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761572&extension=ts&play_token=eFhnYCgjQ3
-#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 04:00 PM |  (NL| ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=544799&extension=ts&play_token=KqW45pqD3C
+#EXTINF:-1 tvg-id="985148" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282760&extension=ts&play_token=ogENNQPmeM
-#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 04:00 PM |  (NL| ZIGGO SPORT 4 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=985148&extension=ts&play_token=VKIVsX3iJ8
+#EXTINF:-1 tvg-id="985112" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ʰᵉᵛᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282745&extension=ts&play_token=FvxuNsJq7V
-#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 04:00 PM |  (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=985112&extension=ts&play_token=YWa0fXpE91
+#EXTINF:-1 tvg-id="985094" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (ᵁᴴᴰ: beIN Sp⚽rts 7 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921307&extension=ts&play_token=21U1ixHDlf
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=985094&extension=ts&play_token=KJvC5iqLxy
+#EXTINF:-1 tvg-id="1201193" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (NM: beIN SP⚽RTS 7 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1201193&extension=ts&play_token=k0TwKctwkQ
+#EXTINF:-1 tvg-id="1201153" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (NM: beIN SP⚽RTS 7 ʰᵉᵛᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1201153&extension=ts&play_token=rJvzLmh6f4
+#EXTINF:-1 tvg-id="1201135" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (NM: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1201135&extension=ts&play_token=8XHcn18n8u
+#EXTINF:-1 tvg-id="1120425" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SA: beIN SP⚽RTS 7 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1120425&extension=ts&play_token=192AxjolF1
+#EXTINF:-1 tvg-id="1120405" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032",23/07 04:00 PM |  (SA: beIN SP⚽RTS 7 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1120405&extension=ts&play_token=lNzca9bTZ5
 #EXTINF:-1 tvg-id="1562707" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",23/07 04:00 PM |  (NL: ZIGGO SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562707&extension=ts&play_token=HURqkFkKZN
-#EXTINF:-1 tvg-id="1562919" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1954.jpg?48182",23/07 02:00 AM | Tenis Ziua 3 (RO: DIGI SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562707&extension=ts&play_token=lkd8euX0VH
+#EXTINF:-1 tvg-id="1562704" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562919&extension=ts&play_token=IVbDfLqba4
-#EXTINF:-1 tvg-id="207917" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207917.png",23/07 02:00 AM | Tenis Ziua 3 (RO|  DIGI SPORT 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562704&extension=ts&play_token=32jS5MyAlj
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 04:00 PM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207917&extension=ts&play_token=PorEyQjz0G
-#EXTINF:-1 tvg-id="56118" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56118.png",23/07 02:00 AM | Tenis Ziua 3 (RO| DIGI SPORT 2)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980747&extension=ts&play_token=c6kn5jJQRh
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56118&extension=ts&play_token=B9M65FmAFV
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011551&extension=ts&play_token=5OUwPGUfWf
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011260&extension=ts&play_token=jTmJafiVHZ
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537608&extension=ts&play_token=ab1fBIHkJx
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 04:00 PM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1980747&extension=ts&play_token=h9AzGpYTH4
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2011551&extension=ts&play_token=9zxsVoDsRl
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2011260&extension=ts&play_token=mgGOis0mgJ
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1537608&extension=ts&play_token=7588nRTgZ1
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 04:00 PM |  (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=baqkqYbw9p
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=pYLAwIP7xy
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 04:00 PM |  (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=VmK7qEyKCw
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 04:00 PM |  (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=vD9TZLlpDc
+#EXTINF:-1 tvg-id="1562919" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1954.jpg?48182",23/07 04:00 AM | Tenis Ziua 3 (RO: DIGI SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562919&extension=ts&play_token=rvSTxU5bF2
 #EXTINF:-1 tvg-id="425621" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?26954",23/07 06:00 PM | Tournoi WTA de Prague (FR: BEIN SPORTS MAX 4 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=425621&extension=ts&play_token=0b2CN50o7T
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=425621&extension=ts&play_token=GcZEtywTW8
 #EXTINF:-1 tvg-id="1562825" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6347.jpg?11466",23/07 06:00 PM | Tournoi WTA de Prague (FR: BEIN SPORTS MAX 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562825&extension=ts&play_token=xUepjDPO38
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562825&extension=ts&play_token=SHclU3j88k
+#EXTINF:-1 tvg-id="425621" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?26954",23/07 06:00 PM | Tournoi WTA de Prague (FR: BEIN SPORTS MAX 4 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=425621&extension=ts&play_token=0GZGYDJO94
 #EXTINF:-1 tvg-id="425621" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?26954",23/07 06:00 PM | Tournoi WTA de Prague (FR: BEIN SPORTS MAX 4 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425621&extension=ts&play_token=xLBAQmUzzZ
-#EXTINF:-1 tvg-id="506653" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506653.png",23/07 06:00 PM | Tournoi WTA de Prague (FR| BEIN SPORTS MAX 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506653&extension=ts&play_token=ATGzvWkEKg
-#EXTINF:-1 tvg-id="507371" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507371.png",23/07 06:00 PM | Tournoi WTA de Prague (FR| BEIN SPORTS MAX 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507371&extension=ts&play_token=uHmMxayfxm
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425621&extension=ts&play_token=VQU3psYh5A
 #EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",23/07 06:00 PM | Tournoi WTA de Hambourg (FR: BEIN SPORTS MAX 5 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=425622&extension=ts&play_token=cPOWrE5cmt
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=425622&extension=ts&play_token=ZtSryl0TbL
 #EXTINF:-1 tvg-id="1562824" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6354.jpg?49576",23/07 06:00 PM | Tournoi WTA de Hambourg (FR: BEIN SPORTS MAX 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562824&extension=ts&play_token=EvwUq6bc9k
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562824&extension=ts&play_token=Iukts6F8IF
+#EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",23/07 06:00 PM | Tournoi WTA de Hambourg (FR: BEIN SPORTS MAX 5 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=425622&extension=ts&play_token=5WYre09SNw
 #EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",23/07 06:00 PM | Tournoi WTA de Hambourg (FR: BEIN SPORTS MAX 5 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425622&extension=ts&play_token=NjW9pSaBMw
-#EXTINF:-1 tvg-id="506654" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506654.png",23/07 06:00 PM | Tournoi WTA de Hambourg (FR| BEIN SPORTS MAX 5 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506654&extension=ts&play_token=B8ITPJlWty
-#EXTINF:-1 tvg-id="507370" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507370.png",23/07 06:00 PM | Tournoi WTA de Hambourg (FR| BEIN SPORTS MAX 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507370&extension=ts&play_token=eA3fpKmeHH
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425622&extension=ts&play_token=ExK7Yl3Fo4
 #EXTINF:-1 tvg-id="1562703" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562703&extension=ts&play_token=Dq8DsS1IeB
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562703&extension=ts&play_token=bvUKzvCK3e
 #EXTINF:-1 tvg-id="1980746" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 06:00 PM | : Millennium Estoril Open - Estoril (ZG: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980746&extension=ts&play_token=nq5Y5Cnr2M
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1980746&extension=ts&play_token=lq0xRQpDAo
 #EXTINF:-1 tvg-id="2011550" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011550&extension=ts&play_token=fRAuC8AwPe
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011550&extension=ts&play_token=YQW8ylFq7C
 #EXTINF:-1 tvg-id="2011259" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011259&extension=ts&play_token=JM2shKOyna
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2011259&extension=ts&play_token=9bMTJdrV2x
 #EXTINF:-1 tvg-id="1537607" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537607&extension=ts&play_token=IQYMm6Wh8N
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1537607&extension=ts&play_token=Bz99AVn7SS
+#EXTINF:-1 tvg-id="1980746" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 06:00 PM | : Millennium Estoril Open - Estoril (ZG: ZIGGO SPORT 5 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1980746&extension=ts&play_token=Vl3Jjo1ib1
+#EXTINF:-1 tvg-id="2011550" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2011550&extension=ts&play_token=yZlCFctEC4
+#EXTINF:-1 tvg-id="2011259" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2011259&extension=ts&play_token=sOeRDrpgDc
+#EXTINF:-1 tvg-id="1537607" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1537607&extension=ts&play_token=L9CNMVrcp3
 #EXTINF:-1 tvg-id="1980746" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",23/07 06:00 PM | : Millennium Estoril Open - Estoril (ZG: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980746&extension=ts&play_token=7IZVImn8v0
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980746&extension=ts&play_token=NP6LqlF9MG
 #EXTINF:-1 tvg-id="2011550" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011550&extension=ts&play_token=IVFlARTGHX
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011550&extension=ts&play_token=Sx9YnaoW6g
 #EXTINF:-1 tvg-id="2011259" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",23/07 06:00 PM | : Millennium Estoril Open - Estoril (OD: ZIGGO SPORT 5 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011259&extension=ts&play_token=HiKNxZDz2t
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011259&extension=ts&play_token=MCmK2mZlvu
 #EXTINF:-1 tvg-id="1537607" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL: ZIGGO SPORT 5 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537607&extension=ts&play_token=EzkjAF4h4t
-#EXTINF:-1 tvg-id="1283311" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537607&extension=ts&play_token=6KcooJ52Xx
+#EXTINF:-1 tvg-id="1562920" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1955.jpg?65514",23/07 10:00 PM | Alashkert vs CFR Cluj (RO: DIGI SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283311&extension=ts&play_token=ZYzxjWsZLF
-#EXTINF:-1 tvg-id="1761571" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 UHD 8K)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562920&extension=ts&play_token=HvKll8FiiF
+#EXTINF:-1 tvg-id="1562914" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14524.jpg?6299",23/07 10:00 PM | Alashkert vs CFR Cluj (RO: PRIMA SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761571&extension=ts&play_token=oeOfSiRA8l
-#EXTINF:-1 tvg-id="1282762" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282762&extension=ts&play_token=RlMUA8MMbk
-#EXTINF:-1 tvg-id="1282747" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282747&extension=ts&play_token=vNCofWMpv1
-#EXTINF:-1 tvg-id="1921306" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",23/07 06:00 PM | : Millennium Estoril Open - Estoril (NL| ZIGGO SPORT 5 ᴿᴬᵂ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921306&extension=ts&play_token=8ra1HTOeQF
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562914&extension=ts&play_token=Ylmb0chLNH
 #EXTINF:-1 tvg-id="441418" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/QAZSPORT.png",23/07 10:30 PM | Panevežys vs Tobol (KZ: QAZSPORT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441418&extension=ts&play_token=XezzhR3qzk
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441418&extension=ts&play_token=32Cd88y8Zz
+#EXTINF:-1 tvg-id="441418" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/QAZSPORT.png",23/07 10:30 PM | Panevežys vs Tobol (KZ: QAZSPORT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=441418&extension=ts&play_token=0PfofWkrzi
 #EXTINF:-1 tvg-id="619642" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2319.png?32670",23/07 11:00 PM | Qarabagh vs CSKA Sofia (AZ: CBC SPORT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=619642&extension=ts&play_token=ut9DoZHXNu
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=619642&extension=ts&play_token=BWhr5TBFAV
+#EXTINF:-1 tvg-id="619642" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2319.png?32670",23/07 11:00 PM | Qarabagh vs CSKA Sofia (AZ: CBC SPORT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=619642&extension=ts&play_token=sj9safw1gb
 #EXTINF:-1 tvg-id="441540" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemasport2hd.png",23/07 11:00 PM | Qarabagh vs CSKA Sofia (BG: DIEMA SPORT 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441540&extension=ts&play_token=0mEVWgAcT4
-#EXTINF:-1 tvg-id="154827" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/logos/154827.png",23/07 11:00 PM | Qarabagh vs CSKA Sofia (BG| DIEMA SPORT FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=441540&extension=ts&play_token=DMQzQ0GGh7
+#EXTINF:-1 tvg-id="441540" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/diemasport2hd.png",23/07 11:00 PM | Qarabagh vs CSKA Sofia (BG: DIEMA SPORT 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=154827&extension=ts&play_token=1upo0kwa3s
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=441540&extension=ts&play_token=N5go7b2Eus
 #EXTINF:-1 tvg-id="460827" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",23/07 11:00 PM | Dila Gori vs Apollon Limassol (CY: CYTAVISION SPORTS 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460827&extension=ts&play_token=6WG9YtsXWk
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460827&extension=ts&play_token=KamuUyyGR1
+#EXTINF:-1 tvg-id="460827" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",23/07 11:00 PM | Dila Gori vs Apollon Limassol (CY: CYTAVISION SPORTS 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=460827&extension=ts&play_token=BR0RP5tjRX
 #EXTINF:-1 tvg-id="460827" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",23/07 11:00 PM | Dila Gori vs Apollon Limassol (CY: CYTAVISION SPORTS 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460827&extension=ts&play_token=LTE8Moq8EL
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460827&extension=ts&play_token=RtFTQmnm6Z
 #EXTINF:-1 tvg-id="842681" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",23/07 11:00 PM | Dila Gori vs Apollon Limassol (CY: CYTAVISION SPORT 4 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842681&extension=ts&play_token=FtnP6qSzjy
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842681&extension=ts&play_token=ayQDprMCtN
+#EXTINF:-1 tvg-id="842681" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",23/07 11:00 PM | Dila Gori vs Apollon Limassol (CY: CYTAVISION SPORT 4 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842681&extension=ts&play_token=aI6O2xKFua
 #EXTINF:-1 tvg-id="842681" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",23/07 11:00 PM | Dila Gori vs Apollon Limassol (CY: CYTAVISION SPORT 4 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842681&extension=ts&play_token=ZT2rOTmIS7
-#EXTINF:-1 tvg-id="1715376" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/1715376.png",23/07 11:00 PM | Debrecen vs Pyunik (HU| M4 SPORT+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1715376&extension=ts&play_token=K0QdgwyzlY
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842681&extension=ts&play_token=y88JgVhvxJ
 #EXTINF:-1 tvg-id="386507" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14269.png?19700",24/07 12:00 AM | Hammarby vs Anderlecht (PT:  Canal 11 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=386507&extension=ts&play_token=5RQ5nUqk1X
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=386507&extension=ts&play_token=fL8e2l1lkF
+#EXTINF:-1 tvg-id="386507" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14269.png?19700",24/07 12:00 AM | Hammarby vs Anderlecht (PT:  Canal 11 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=386507&extension=ts&play_token=SYTLdIvBmX
 #EXTINF:-1 tvg-id="386507" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14269.png?19700",24/07 12:00 AM | Hammarby vs Anderlecht (PT:  Canal 11 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=386507&extension=ts&play_token=9sS5taCwSx
-#EXTINF:-1 tvg-id="107524" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",24/07 12:00 AM | Hammarby vs Anderlecht (PT| CANAL 11 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107524&extension=ts&play_token=baVTqaJJT5
-#EXTINF:-1 tvg-id="118466" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/CANAL11.png",24/07 12:00 AM | Hammarby vs Anderlecht (PT| CANAL 11 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118466&extension=ts&play_token=ZDAM8fX5e6
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=386507&extension=ts&play_token=xBGdjIo0Xe
 #EXTINF:-1 tvg-id="1562920" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1955.jpg?65514",24/07 12:00 AM | Universitatea Cluj vs Brann (RO: DIGI SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562920&extension=ts&play_token=Bwv8U5Rx7I
-#EXTINF:-1 tvg-id="207916" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/207916.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO|  DIGI SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207916&extension=ts&play_token=Ho2VAybUIg
-#EXTINF:-1 tvg-id="56119" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/56119.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO| DIGI SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56119&extension=ts&play_token=iaNRrfDt90
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562920&extension=ts&play_token=HvKll8FiiF
 #EXTINF:-1 tvg-id="1562914" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14524.jpg?6299",24/07 12:00 AM | Universitatea Cluj vs Brann (RO: PRIMA SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562914&extension=ts&play_token=yPQffkhU1j
-#EXTINF:-1 tvg-id="208006" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/208006.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO| PRIMA SPORT 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=208006&extension=ts&play_token=1dxVGnHSU0
-#EXTINF:-1 tvg-id="92489" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/92489.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO| PRIMA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=92489&extension=ts&play_token=ovniIR66Dm
-#EXTINF:-1 tvg-id="56113" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/56113.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO| PRIMA SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56113&extension=ts&play_token=1OnkQL8nzE
-#EXTINF:-1 tvg-id="207928" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/207928.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO|  PRIMA SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207928&extension=ts&play_token=Abdaidke7N
-#EXTINF:-1 tvg-id="56040" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/56040.png",24/07 12:00 AM | Universitatea Cluj vs Brann (RO| PRIMA SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56040&extension=ts&play_token=f3Ote5QB28
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562914&extension=ts&play_token=Ylmb0chLNH
 #EXTINF:-1 tvg-id="1551" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?ver=9471",24/07 01:00 AM | Twente vs Ferencváros (NL: ESPN 1 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1551&extension=ts&play_token=ljwdu6sdlJ
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1551&extension=ts&play_token=w1T4bVGYOy
+#EXTINF:-1 tvg-id="1551" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?ver=9471",24/07 01:00 AM | Twente vs Ferencváros (NL: ESPN 1 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1551&extension=ts&play_token=zE5BQq5pCN
 #EXTINF:-1 tvg-id="1551" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?ver=9471",24/07 01:00 AM | Twente vs Ferencváros (NL: ESPN 1 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1551&extension=ts&play_token=u1j06jnE6k
-#EXTINF:-1 tvg-id="1634105" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",24/07 01:00 AM | Twente vs Ferencváros (NL| ESPN 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634105&extension=ts&play_token=6i7cR3abl4
-#EXTINF:-1 tvg-id="1634106" group-title="Live UEFA Europa League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png",24/07 01:00 AM | Twente vs Ferencváros (NL| ESPN 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634106&extension=ts&play_token=l2VaClANUk
-#EXTINF:-1 tvg-id="1862071" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",24/07 01:00 AM | Varaždin vs Jablonec (BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862071&extension=ts&play_token=b4dg371ccA
-#EXTINF:-1 tvg-id="908230" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",24/07 01:00 AM | Varaždin vs Jablonec (BA| ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=908230&extension=ts&play_token=mux8x2jzit
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1551&extension=ts&play_token=9mLgVvEADw
 #EXTINF:-1 tvg-id="1562941" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11137.png?84330",24/07 01:00 AM | Varaždin vs Jablonec (HR: MAX SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562941&extension=ts&play_token=B09r9tgbaP
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562941&extension=ts&play_token=sUby0vz9Yp
 #EXTINF:-1 tvg-id="1460656" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:00 AM | Varaždin vs Jablonec (HR: MAXSPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1460656&extension=ts&play_token=Ysr1H71Vr9
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1460656&extension=ts&play_token=w9NkXqlEhW
 #EXTINF:-1 tvg-id="536377" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:00 AM | Varaždin vs Jablonec (HR: MAX SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=536377&extension=ts&play_token=AIU3pLMtjv
-#EXTINF:-1 tvg-id="1862026" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/maxsport1.png",24/07 01:00 AM | Varaždin vs Jablonec (HR| MAXSPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=536377&extension=ts&play_token=1Yjt8Bj5NN
+#EXTINF:-1 tvg-id="1460656" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:00 AM | Varaždin vs Jablonec (HR: MAXSPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862026&extension=ts&play_token=mSk27ODXUo
-#EXTINF:-1 tvg-id="967052" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/MAXSPORT1.png",24/07 01:00 AM | Varaždin vs Jablonec (HR| MAX SPORT 1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1460656&extension=ts&play_token=PEBQpdZ3wb
+#EXTINF:-1 tvg-id="536377" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:00 AM | Varaždin vs Jablonec (HR: MAX SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=967052&extension=ts&play_token=GMd0MlRdT0
-#EXTINF:-1 tvg-id="1107495" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/MAXSPORT1.png",24/07 01:00 AM | Varaždin vs Jablonec (HR| MAX SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1107495&extension=ts&play_token=sGdw6hCIFA
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=536377&extension=ts&play_token=S8tp7qEWau
 #EXTINF:-1 tvg-id="1819071" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/1621810.png",24/07 01:00 AM | Varaždin vs Jablonec (CZ: NOVA SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1819071&extension=ts&play_token=RXCKvCc8Lp
-#EXTINF:-1 tvg-id="1621810" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/1621810.png",24/07 01:00 AM | Varaždin vs Jablonec (CZ| NOVA SPORT 5)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1819071&extension=ts&play_token=YHDeQguVCa
+#EXTINF:-1 tvg-id="1819071" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/1621810.png",24/07 01:00 AM | Varaždin vs Jablonec (CZ: NOVA SPORT 5 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1621810&extension=ts&play_token=8XGYbU15G5
-#EXTINF:-1 tvg-id="2112823" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/CZECHNEW/NOVASPORT5.png",24/07 01:00 AM | Varaždin vs Jablonec (CZ| NOVA SPORT 5 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2112823&extension=ts&play_token=4Fd2SzfMrO
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1819071&extension=ts&play_token=8tqPkchZFT
 #EXTINF:-1 tvg-id="437219" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",24/07 01:00 AM | Paks vs Panathinaikos (US: ESPN USA HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=437219&extension=ts&play_token=atVV63Tmnj
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=437219&extension=ts&play_token=y4qw9FirZb
 #EXTINF:-1 tvg-id="325020" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",24/07 01:00 AM | Paks vs Panathinaikos (US: ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325020&extension=ts&play_token=w9vPu2F2yd
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325020&extension=ts&play_token=XMoE392Fp3
+#EXTINF:-1 tvg-id="437219" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",24/07 01:00 AM | Paks vs Panathinaikos (US: ESPN USA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=437219&extension=ts&play_token=1owYYL8qL7
+#EXTINF:-1 tvg-id="325020" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",24/07 01:00 AM | Paks vs Panathinaikos (US: ESPN HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=325020&extension=ts&play_token=LPHmpvXStp
 #EXTINF:-1 tvg-id="437219" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",24/07 01:00 AM | Paks vs Panathinaikos (US: ESPN USA HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=437219&extension=ts&play_token=o6BInDzIzd
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=437219&extension=ts&play_token=O3C9efChCq
 #EXTINF:-1 tvg-id="325020" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",24/07 01:00 AM | Paks vs Panathinaikos (US: ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325020&extension=ts&play_token=jZMRCXhNRT
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325020&extension=ts&play_token=bZntKDYYIo
 #EXTINF:-1 tvg-id="460825" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORTS 6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460825&extension=ts&play_token=wIHfxjPPMd
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460825&extension=ts&play_token=3jrffQJD8V
+#EXTINF:-1 tvg-id="460825" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORTS 6 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=460825&extension=ts&play_token=54grA5M0eK
 #EXTINF:-1 tvg-id="460825" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORTS 6 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460825&extension=ts&play_token=jNcOgF1Gy8
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460825&extension=ts&play_token=Zc4U6NraUS
 #EXTINF:-1 tvg-id="842679" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORT 6 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842679&extension=ts&play_token=TOwIauqlYO
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842679&extension=ts&play_token=7ZEiYEB0cn
+#EXTINF:-1 tvg-id="842679" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORT 6 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842679&extension=ts&play_token=smCBKNctiF
 #EXTINF:-1 tvg-id="842679" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORT 6 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842679&extension=ts&play_token=lJymcj6T50
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842679&extension=ts&play_token=1Qovdsc709
 #EXTINF:-1 tvg-id="460829" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460829&extension=ts&play_token=viXJ3VTp6D
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460829&extension=ts&play_token=FQNTXRLGWQ
+#EXTINF:-1 tvg-id="460829" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=460829&extension=ts&play_token=mTP1h46JiV
 #EXTINF:-1 tvg-id="460829" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460829&extension=ts&play_token=g2IquKCxo3
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460829&extension=ts&play_token=LPlHIYXt9W
 #EXTINF:-1 tvg-id="842683" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORT 2 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842683&extension=ts&play_token=l28gMkjiaI
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842683&extension=ts&play_token=WkFn6Do6Ws
+#EXTINF:-1 tvg-id="842683" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORT 2 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842683&extension=ts&play_token=7MD1WyC4Qv
 #EXTINF:-1 tvg-id="842683" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 01:00 AM | Paks vs Panathinaikos (CY: CYTAVISION SPORT 2 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842683&extension=ts&play_token=Fqkx80XZ8V
-#EXTINF:-1 tvg-id="1715376" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/1715376.png",24/07 01:00 AM | Paks vs Panathinaikos (HU| M4 SPORT+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1715376&extension=ts&play_token=K0QdgwyzlY
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842683&extension=ts&play_token=Q0QPVurNZ9
 #EXTINF:-1 tvg-id="1562947" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?15630",24/07 01:00 AM | Aluminij vs Dinamo City (HR: SPORT KLUB 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562947&extension=ts&play_token=x62ZVI0CSE
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562947&extension=ts&play_token=wXKGFIQlrd
 #EXTINF:-1 tvg-id="1711956" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14698.png?23558",24/07 01:00 AM | Aluminij vs Dinamo City (HR: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1711956&extension=ts&play_token=QDjRJSpiPF
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1711956&extension=ts&play_token=ktq3WONg5i
 #EXTINF:-1 tvg-id="2398" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",24/07 01:00 AM | Aluminij vs Dinamo City (HR: Sport Klub 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2398&extension=ts&play_token=z29vkRNe9c
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2398&extension=ts&play_token=KNGj2OH0z7
 #EXTINF:-1 tvg-id="2397" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",24/07 01:00 AM | Aluminij vs Dinamo City (HR: Sport Klub 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2397&extension=ts&play_token=oiqXH238cC
-#EXTINF:-1 tvg-id="110690" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",24/07 01:00 AM | Aluminij vs Dinamo City (HR| SPORT KLUB 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2397&extension=ts&play_token=ftOWCGhBKA
+#EXTINF:-1 tvg-id="1711956" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14698.png?23558",24/07 01:00 AM | Aluminij vs Dinamo City (HR: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110690&extension=ts&play_token=U7ZfUwTgLz
-#EXTINF:-1 tvg-id="110691" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",24/07 01:00 AM | Aluminij vs Dinamo City (HR| SPORT KLUB 1)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1711956&extension=ts&play_token=qS96g1YdB3
+#EXTINF:-1 tvg-id="2398" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",24/07 01:00 AM | Aluminij vs Dinamo City (HR: Sport Klub 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110691&extension=ts&play_token=dRYj1cXKiz
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2398&extension=ts&play_token=xMP783fuBV
+#EXTINF:-1 tvg-id="2397" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?33551",24/07 01:00 AM | Aluminij vs Dinamo City (HR: Sport Klub 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2397&extension=ts&play_token=tKKj52CFhb
 #EXTINF:-1 tvg-id="1562928" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?78403",24/07 01:00 AM | Aluminij vs Dinamo City (SI: SPORT KLUB 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562928&extension=ts&play_token=tEUAuNsftc
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562928&extension=ts&play_token=Wfg1HLQ2Vv
 #EXTINF:-1 tvg-id="1461058" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",24/07 01:00 AM | Aluminij vs Dinamo City (SI: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1461058&extension=ts&play_token=58TfAqCa52
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1461058&extension=ts&play_token=0MUaTychVx
 #EXTINF:-1 tvg-id="2633" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",24/07 01:00 AM | Aluminij vs Dinamo City (SI: Sport Klub 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2633&extension=ts&play_token=4RvgBs9G9Z
-#EXTINF:-1 tvg-id="1862128" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/sportklub1.png",24/07 01:00 AM | Aluminij vs Dinamo City (SI| SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2633&extension=ts&play_token=E9G0d7rWLv
+#EXTINF:-1 tvg-id="1461058" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",24/07 01:00 AM | Aluminij vs Dinamo City (SI: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862128&extension=ts&play_token=opNjJJmJ6W
-#EXTINF:-1 tvg-id="744756" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/744756.png",24/07 01:00 AM | Aluminij vs Dinamo City (SI| SPORT KLUB 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1461058&extension=ts&play_token=TZh8GVcaCq
+#EXTINF:-1 tvg-id="2633" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",24/07 01:00 AM | Aluminij vs Dinamo City (SI: Sport Klub 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=744756&extension=ts&play_token=KCwlnV1Zz2
-#EXTINF:-1 tvg-id="1189093" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",24/07 01:00 AM | Aluminij vs Dinamo City (SI| SPORT KLUB 1)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2633&extension=ts&play_token=4RAKWRi6tG
+#EXTINF:-1 tvg-id="1107129" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13852.png?ver=77207",24/07 01:00 AM | Aluminij vs Dinamo City (AL-VIP: SUPER SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1189093&extension=ts&play_token=D24f42Zi0o
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1107129&extension=ts&play_token=mfy3BCCQBq
+#EXTINF:-1 tvg-id="1107129" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13852.png?ver=77207",24/07 01:00 AM | Aluminij vs Dinamo City (AL-VIP: SUPER SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1107129&extension=ts&play_token=Kg5ZYJOT62
 #EXTINF:-1 tvg-id="1562707" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",24/07 01:00 AM | Vojvodina vs Ajax (NL: ZIGGO SPORT 1 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562707&extension=ts&play_token=HURqkFkKZN
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562707&extension=ts&play_token=lkd8euX0VH
 #EXTINF:-1 tvg-id="1562544" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?73180",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562544&extension=ts&play_token=bCBZjKXTeJ
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562544&extension=ts&play_token=7sbGuhDfFi
 #EXTINF:-1 tvg-id="345650" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL VIP: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=345650&extension=ts&play_token=UFxm7Dan0L
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=345650&extension=ts&play_token=3LljozAjYR
 #EXTINF:-1 tvg-id="1991945" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991945&extension=ts&play_token=1meY6GbiSl
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991945&extension=ts&play_token=hrgfCELL2L
 #EXTINF:-1 tvg-id="1991944" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991944&extension=ts&play_token=pgqdfMRROo
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1991944&extension=ts&play_token=1sX8kGUADS
+#EXTINF:-1 tvg-id="345650" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL VIP: TVP SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=345650&extension=ts&play_token=V8tEGRqQzK
+#EXTINF:-1 tvg-id="1991945" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1991945&extension=ts&play_token=rm2svkn0oA
+#EXTINF:-1 tvg-id="1991944" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1991944&extension=ts&play_token=hwbws5Jbxr
 #EXTINF:-1 tvg-id="345650" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?6133",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL VIP: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=345650&extension=ts&play_token=sqamgLFRkq
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=345650&extension=ts&play_token=G82qe2JokE
 #EXTINF:-1 tvg-id="1991945" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991945&extension=ts&play_token=BXoNCSNXJw
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991945&extension=ts&play_token=Wyh6GG6QXj
 #EXTINF:-1 tvg-id="1991944" group-title="Live UEFA Conference League" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/9804.jpg?60658",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL: TVP SPORT ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991944&extension=ts&play_token=iSjn7Qh572
-#EXTINF:-1 tvg-id="1530245" group-title="Live UEFA Conference League" tvg-logo="http://103.176.90.92/images/1530245.png",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL-VIP| TVP SPORT RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1530245&extension=ts&play_token=ac0FKLdTc4
-#EXTINF:-1 tvg-id="880502" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL| TVP SPORT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=880502&extension=ts&play_token=O50stOjeyA
-#EXTINF:-1 tvg-id="880362" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/TVPSPORT.png",24/07 01:30 AM | MSK Zilina vs GKS Katowice (PL| TVP SPORT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=880362&extension=ts&play_token=fGPaMNsTxS
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991944&extension=ts&play_token=J0uILghtq3
 #EXTINF:-1 tvg-id="1562940" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?70804",24/07 01:45 AM | Rijeka vs Derry City (HR: MAX SPORT 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562940&extension=ts&play_token=qp4E7yQHJV
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562940&extension=ts&play_token=fj6TQYIctO
 #EXTINF:-1 tvg-id="1460655" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:45 AM | Rijeka vs Derry City (HR: MAXSPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1460655&extension=ts&play_token=yxIWkwSG6g
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1460655&extension=ts&play_token=YEuvKH7rfC
 #EXTINF:-1 tvg-id="536378" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:45 AM | Rijeka vs Derry City (HR: MAX SPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=536378&extension=ts&play_token=TMk5tVUPbb
-#EXTINF:-1 tvg-id="1862025" group-title="Live UEFA Conference League" tvg-logo="https://picons.cmshulk.com/picons/maxsport2.png",24/07 01:45 AM | Rijeka vs Derry City (HR| MAXSPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=536378&extension=ts&play_token=rcLw5FnxUA
+#EXTINF:-1 tvg-id="1460655" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:45 AM | Rijeka vs Derry City (HR: MAXSPORT 2 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1862025&extension=ts&play_token=6EKDIhPbA9
-#EXTINF:-1 tvg-id="967053" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/MAXSPORT2.png",24/07 01:45 AM | Rijeka vs Derry City (HR| MAX SPORT 2 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1460655&extension=ts&play_token=C4N8KqQolW
+#EXTINF:-1 tvg-id="536378" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9706.png?13434",24/07 01:45 AM | Rijeka vs Derry City (HR: MAX SPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=967053&extension=ts&play_token=eUfAw32ScR
-#EXTINF:-1 tvg-id="1107494" group-title="Live UEFA Conference League" tvg-logo="http://51.158.145.100/picons/logos/EXYU/MAXSPORT2.png",24/07 01:45 AM | Rijeka vs Derry City (HR| MAX SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1107494&extension=ts&play_token=gxMuFo4wRy
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=536378&extension=ts&play_token=dtJ1Fz3n5U
 #EXTINF:-1 tvg-id="437219" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",24/07 02:00 AM | Hajduk Split vs Pafos FC (US: ESPN USA HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=437219&extension=ts&play_token=atVV63Tmnj
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=437219&extension=ts&play_token=y4qw9FirZb
 #EXTINF:-1 tvg-id="325020" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",24/07 02:00 AM | Hajduk Split vs Pafos FC (US: ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325020&extension=ts&play_token=w9vPu2F2yd
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=325020&extension=ts&play_token=XMoE392Fp3
+#EXTINF:-1 tvg-id="437219" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",24/07 02:00 AM | Hajduk Split vs Pafos FC (US: ESPN USA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=437219&extension=ts&play_token=1owYYL8qL7
+#EXTINF:-1 tvg-id="325020" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",24/07 02:00 AM | Hajduk Split vs Pafos FC (US: ESPN HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=325020&extension=ts&play_token=LPHmpvXStp
 #EXTINF:-1 tvg-id="437219" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255",24/07 02:00 AM | Hajduk Split vs Pafos FC (US: ESPN USA HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=437219&extension=ts&play_token=o6BInDzIzd
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=437219&extension=ts&play_token=O3C9efChCq
 #EXTINF:-1 tvg-id="325020" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?ver=35784",24/07 02:00 AM | Hajduk Split vs Pafos FC (US: ESPN HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325020&extension=ts&play_token=jZMRCXhNRT
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325020&extension=ts&play_token=bZntKDYYIo
 #EXTINF:-1 tvg-id="460829" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460829&extension=ts&play_token=viXJ3VTp6D
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460829&extension=ts&play_token=FQNTXRLGWQ
+#EXTINF:-1 tvg-id="460829" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=460829&extension=ts&play_token=mTP1h46JiV
 #EXTINF:-1 tvg-id="460829" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460829&extension=ts&play_token=g2IquKCxo3
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460829&extension=ts&play_token=LPlHIYXt9W
 #EXTINF:-1 tvg-id="842683" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORT 2 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842683&extension=ts&play_token=l28gMkjiaI
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842683&extension=ts&play_token=WkFn6Do6Ws
+#EXTINF:-1 tvg-id="842683" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORT 2 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842683&extension=ts&play_token=7MD1WyC4Qv
 #EXTINF:-1 tvg-id="842683" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORT 2 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842683&extension=ts&play_token=Fqkx80XZ8V
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842683&extension=ts&play_token=Q0QPVurNZ9
 #EXTINF:-1 tvg-id="460828" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460828&extension=ts&play_token=Q7166wT1WZ
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=460828&extension=ts&play_token=Y6O6PKOn5o
+#EXTINF:-1 tvg-id="460828" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORTS 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=460828&extension=ts&play_token=zQ7WuEsTnB
 #EXTINF:-1 tvg-id="460828" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/EUROPE/cytavision.png",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460828&extension=ts&play_token=AjngQ3FEEa
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=460828&extension=ts&play_token=6pJHAAIUsM
 #EXTINF:-1 tvg-id="842682" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORT 3 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842682&extension=ts&play_token=qsYH0bWPEi
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842682&extension=ts&play_token=dDhb0ESHqJ
+#EXTINF:-1 tvg-id="842682" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORT 3 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842682&extension=ts&play_token=5anxHcVQPv
 #EXTINF:-1 tvg-id="842682" group-title="Live UEFA Europa League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10043.jpg?97125",24/07 02:00 AM | Hajduk Split vs Pafos FC (CY: CYTAVISION SPORT 3 ᴴᴰ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 17E2EA8167F13C08AB56B892878C0C30
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842682&extension=ts&play_token=kBk8eEoKwY
+#EXTVLCOPT:http-header=Authorization: Bearer 50077D73C81011D900DA291D08B7F0FA
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842682&extension=ts&play_token=n5ofbqxiD2
 #EXTINF:-1 tvg-id="2484" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9995.png?72676",24/07 02:00 AM | Partizan Belgrade vs UNA Strassen (RS: Rts 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ED4EB49F9E197EF483C4140A6D92A092
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2484&extension=ts&play_token=ldo6hJjhh0
-#EXTINF:-1 tvg-id="228704" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/228704.png",24/07 02:00 AM | Partizan Belgrade vs UNA Strassen (RS| RTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 27878CB3E69FD157057E7FF94573C440
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2484&extension=ts&play_token=gbMcejdSiG
+#EXTINF:-1 tvg-id="2484" group-title="Live UEFA Conference League" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9995.png?72676",24/07 02:00 AM | Partizan Belgrade vs UNA Strassen (RS: Rts 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=228704&extension=ts&play_token=brklqh0DAm
-#EXTINF:-1 tvg-id="161993" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/161993.png",24/07 02:00 AM | Partizan Belgrade vs UNA Strassen (RS| RTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=161993&extension=ts&play_token=fDnTozEZtI
-#EXTINF:-1 tvg-id="110777" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/110777.png",24/07 02:00 AM | Partizan Belgrade vs UNA Strassen (RS| RTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110777&extension=ts&play_token=ma041DhMY7
-#EXTINF:-1 tvg-id="1861933" group-title="Live UEFA Conference League" tvg-logo="http://picons.cmshulk.com/picons/rts2.png",24/07 02:00 AM | Partizan Belgrade vs UNA Strassen (RS| RTS 2 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47932754B26A6C5CD7F11A29A956429F
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1861933&extension=ts&play_token=M0SU9VI3l6
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 6C945C9917FE50FD0ED7645078A7607D
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2484&extension=ts&play_token=CWW4MiUSOg
