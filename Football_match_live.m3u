@@ -1,86 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1940093" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",26/07 01:00 AM | Live Royal Standard de Liège vs. Juventus all 8K US: SOCCER 64
+#EXTINF:-1 tvg-id="1535953" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 05:00 AM | AU (STAN 09) Liverpool v Sunderland Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940093&extension=ts&play_token=qkTdRG5y1G
-#EXTINF:-1 tvg-id="2062066" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",26/07 01:00 AM | Live Royal Standard de Liège vs. Juventus all 8K US: SOCCER 64
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535953&extension=ts&play_token=CPuguhCFgP
+#EXTINF:-1 tvg-id="1601669" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/07 05:00 AM | US (ESPN+ 050) Soccer: Sunderland vs. Liverpool (ESP) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BC5E3EC2E8EB700961851A31FD539B8
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062066&extension=ts&play_token=o2AfkrBk7p
-#EXTINF:-1 tvg-id="2084225" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",26/07 02:00 AM | PSF 15 Porto vs Aston Villa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084225&extension=ts&play_token=OSyeeMOUaU
-#EXTINF:-1 tvg-id="2114317" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",26/07 02:00 AM | PSF 15 Porto vs Aston Villa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BC5E3EC2E8EB700961851A31FD539B8
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114317&extension=ts&play_token=K4T8T6mOH6
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601669&extension=ts&play_token=1LQC3roIrc
 #EXTINF:-1 tvg-id="1535953" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 05:00 AM | AU (STAN 09) Liverpool v Sunderland Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535953&extension=ts&play_token=MDdxY0tebp
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535953&extension=ts&play_token=5iuD9jfVAH
 #EXTINF:-1 tvg-id="1601669" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/07 05:00 AM | US (ESPN+ 050) Soccer: Sunderland vs. Liverpool (ESP) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601669&extension=ts&play_token=j003Bc24ks
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601669&extension=ts&play_token=HafC57AMb3
 #EXTINF:-1 tvg-id="1909967" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",26/07 05:00 AM | AU (STAN 09) Liverpool v Sunderland Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BC5E3EC2E8EB700961851A31FD539B8
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909967&extension=ts&play_token=rHqQtq0Xcz
+#EXTVLCOPT:http-header=Authorization: Bearer 0AC1A255F94980AD91DF6CB08B780F84
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909967&extension=ts&play_token=9Dh5cSZwlu
 #EXTINF:-1 tvg-id="1949862" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",26/07 05:00 AM | US (ESPN+ 050) Soccer: Sunderland vs. Liverpool (ESP) ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BC5E3EC2E8EB700961851A31FD539B8
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949862&extension=ts&play_token=yOMsD24XcF
+#EXTVLCOPT:http-header=Authorization: Bearer 0AC1A255F94980AD91DF6CB08B780F84
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949862&extension=ts&play_token=nfVzb6Js6S
+#EXTINF:-1 tvg-id="1966348" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 05:00 AM | AU (STAN 09) Liverpool v Sunderland Preseason Club Friendlies 2026 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966348&extension=ts&play_token=aSLsjgZ7t0
 #EXTINF:-1 tvg-id="1966348" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 05:00 AM | AU (STAN 09) Liverpool v Sunderland Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966348&extension=ts&play_token=B1njjRI7PK
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966348&extension=ts&play_token=PXwqH82XlG
+#EXTINF:-1 tvg-id="2084224" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",26/07 05:00 AM | PSF 16 Liverpool vs Sunderland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084224&extension=ts&play_token=f0xzgXFdMK
 #EXTINF:-1 tvg-id="2084224" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",26/07 05:00 AM | PSF 16 Liverpool vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084224&extension=ts&play_token=reUkfXROZ9
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084224&extension=ts&play_token=meOx0Vv3wC
+#EXTINF:-1 tvg-id="999562" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",26/07 05:00 AM | LIVERPOOL – SUNDERLAND (SE) 8K SE: AftonBlade 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=999562&extension=ts&play_token=WRHAXv92IV
 #EXTINF:-1 tvg-id="999562" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13813.png?ver=91937",26/07 05:00 AM | LIVERPOOL – SUNDERLAND (SE) 8K SE: AftonBlade 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999562&extension=ts&play_token=yj20z5CisX
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=999562&extension=ts&play_token=W8q7Mepi7A
+#EXTINF:-1 tvg-id="1535952" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 06:30 AM | AU (STAN 10) Leeds United v Wrexham Preseason Club Friendlies 2026 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1535952&extension=ts&play_token=ES11PYX5Mc
+#EXTINF:-1 tvg-id="1601650" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/07 06:30 AM | US (ESPN+ 069) Soccer: Leeds vs. Wrexham (ESP) ( :10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1601650&extension=ts&play_token=3rvyUDzhEn
 #EXTINF:-1 tvg-id="1535952" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 06:30 AM | AU (STAN 10) Leeds United v Wrexham Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535952&extension=ts&play_token=JcTCvQWjTI
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1535952&extension=ts&play_token=HFncTxZjw8
 #EXTINF:-1 tvg-id="1601650" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13699.png?ver=19438",26/07 06:30 AM | US (ESPN+ 069) Soccer: Leeds vs. Wrexham (ESP) ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601650&extension=ts&play_token=3YkNx111pn
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1601650&extension=ts&play_token=T6ZdjLvySp
 #EXTINF:-1 tvg-id="1909966" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",26/07 06:30 AM | AU (STAN 10) Leeds United v Wrexham Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BC5E3EC2E8EB700961851A31FD539B8
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909966&extension=ts&play_token=eePL4F3Azq
+#EXTVLCOPT:http-header=Authorization: Bearer 0AC1A255F94980AD91DF6CB08B780F84
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909966&extension=ts&play_token=bLkTEC7KpL
 #EXTINF:-1 tvg-id="1949843" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",26/07 06:30 AM | US (ESPN+ 069) Soccer: Leeds vs. Wrexham (ESP) ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4BC5E3EC2E8EB700961851A31FD539B8
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949843&extension=ts&play_token=3FeqIP8FE6
+#EXTVLCOPT:http-header=Authorization: Bearer 0AC1A255F94980AD91DF6CB08B780F84
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949843&extension=ts&play_token=309QY4rrfq
+#EXTINF:-1 tvg-id="1966347" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 06:30 AM | AU (STAN 10) Leeds United v Wrexham Preseason Club Friendlies 2026 ( :29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1966347&extension=ts&play_token=ADHUZFNSZF
 #EXTINF:-1 tvg-id="1966347" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467",26/07 06:30 AM | AU (STAN 10) Leeds United v Wrexham Preseason Club Friendlies 2026 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966347&extension=ts&play_token=nmHq5Krknl
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1966347&extension=ts&play_token=jogmCP77kn
+#EXTINF:-1 tvg-id="2084223" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",26/07 06:30 AM | PSF 17 Wrexham vs Leeds United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 12EA473222597D260622C039680A5BC9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2084223&extension=ts&play_token=i7KIRmTKBU
 #EXTINF:-1 tvg-id="2084223" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15271.jpg?ver=95591",26/07 06:30 AM | PSF 17 Wrexham vs Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6F7393B146E52FDED31C68E3D0FEE9EE
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084223&extension=ts&play_token=s8v3EgXsN0
+#EXTVLCOPT:http-header=Authorization: Bearer A97D649AB4DB366B77769C05777CCBFD
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2084223&extension=ts&play_token=7JZSqTPOpi
