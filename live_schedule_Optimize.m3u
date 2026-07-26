@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1562707" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284",26/07 07:00 PM | Ajax vs Burnley (NL: ZIGGO SPORT 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562707&extension=ts&play_token=2atWCRRTtN
 #EXTINF:-1 tvg-id="686562" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13749.jpg?ver=36191",26/07 07:00 PM | Hamburg Open (US: TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -354,26 +359,26 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1120405&exten
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562919&extension=ts&play_token=S6CaNa19CQ
-#EXTINF:-1 tvg-id="1562917" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2295.jpg?65272",26/07 07:55 PM | Tenis: WTA Hamburg Finala Dublu (RO: DIGI SPORT 4 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562917&extension=ts&play_token=Rg817OxoHK
-#EXTINF:-1 tvg-id="1602202" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465",26/07 09:00 PM | World Surf League 2026 - Lexus US Open Of Surfing Challenger Series (PT: SPORT TV 7 4K)
+#EXTINF:-1 tvg-id="1602202" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465",26/07 08:59 PM | World Surf League 2026 - Lexus US Open Of Surfing Challenger Series (PT: SPORT TV 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1602202&extension=ts&play_token=kRC3y9M9Zu
-#EXTINF:-1 tvg-id="1602202" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465",26/07 09:00 PM | World Surf League 2026 - Lexus US Open Of Surfing Challenger Series (PT: SPORT TV 7 4K)
+#EXTINF:-1 tvg-id="1602202" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465",26/07 08:59 PM | World Surf League 2026 - Lexus US Open Of Surfing Challenger Series (PT: SPORT TV 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1602202&extension=ts&play_token=JZavnCQOgm
-#EXTINF:-1 tvg-id="1602202" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465",26/07 09:00 PM | World Surf League 2026 - Lexus US Open Of Surfing Challenger Series (PT: SPORT TV 7 4K)
+#EXTINF:-1 tvg-id="1602202" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14266.png?95465",26/07 08:59 PM | World Surf League 2026 - Lexus US Open Of Surfing Challenger Series (PT: SPORT TV 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
 http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1602202&extension=ts&play_token=zHXOIqrXNe
+#EXTINF:-1 tvg-id="1562917" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2295.jpg?65272",26/07 10:00 PM | Tenis: WTA Hamburg Finala (RO: DIGI SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562917&extension=ts&play_token=Rg817OxoHK
 #EXTINF:-1 tvg-id="386453" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1423.png?32444",26/07 11:30 PM | Ténis - ATP World Tour 250, Estoril - Final (PT: EUROSPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
@@ -549,3 +554,283 @@ http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&s
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
 http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=oqSO36VbIA
+#EXTINF:-1 tvg-id="842765" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842765&extension=ts&play_token=NvNGjx5ZGO
+#EXTINF:-1 tvg-id="842747" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=842747&extension=ts&play_token=iGSDsS26yS
+#EXTINF:-1 tvg-id="770489" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770489&extension=ts&play_token=Q3hX66cyNB
+#EXTINF:-1 tvg-id="770488" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=770488&extension=ts&play_token=wDhMe9HdRI
+#EXTINF:-1 tvg-id="842765" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842765&extension=ts&play_token=V5EjjQWAYn
+#EXTINF:-1 tvg-id="842747" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=842747&extension=ts&play_token=tD2xIEhGyC
+#EXTINF:-1 tvg-id="770489" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=770489&extension=ts&play_token=BhX2Cx7iSo
+#EXTINF:-1 tvg-id="770488" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=770488&extension=ts&play_token=JVyM2ioNsx
+#EXTINF:-1 tvg-id="842765" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORT 1 ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842765&extension=ts&play_token=S4tmSWNFOf
+#EXTINF:-1 tvg-id="842747" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?53661",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORT 1 ᵁᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=842747&extension=ts&play_token=mEjVe2LEZE
+#EXTINF:-1 tvg-id="770489" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=770489&extension=ts&play_token=P32GHrbv66
+#EXTINF:-1 tvg-id="770488" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cosmotesport1.png",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR VIP: COSMOTE SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=770488&extension=ts&play_token=zIpjEv4bNw
+#EXTINF:-1 tvg-id="1562865" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6545.png?38981",26/07 08:00 PM | PEC Zwolle vs AEK Athens (GR: COSMOTE SPORTS 1 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562865&extension=ts&play_token=S8ZZTPZXpw
+#EXTINF:-1 tvg-id="1667463" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12234.png?83106",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (WOW: SKY SPORT BUNDESLIGA ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1667463&extension=ts&play_token=h18Yu2yPBR
+#EXTINF:-1 tvg-id="1667463" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12234.png?83106",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (WOW: SKY SPORT BUNDESLIGA ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1667463&extension=ts&play_token=HJpKD6vBaD
+#EXTINF:-1 tvg-id="1667463" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12234.png?83106",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (WOW: SKY SPORT BUNDESLIGA ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1667463&extension=ts&play_token=lR2656Fz6l
+#EXTINF:-1 tvg-id="1562678" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12234.png?62963",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562678&extension=ts&play_token=1VXr9gkq5f
+#EXTINF:-1 tvg-id="380129" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: Sky Sport Bundesliga HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=380129&extension=ts&play_token=x2pMOwCN25
+#EXTINF:-1 tvg-id="479812" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=479812&extension=ts&play_token=eMxOXA0kaU
+#EXTINF:-1 tvg-id="479814" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=479814&extension=ts&play_token=46103DTrTD
+#EXTINF:-1 tvg-id="380129" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: Sky Sport Bundesliga HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=380129&extension=ts&play_token=Yiw15XtZgl
+#EXTINF:-1 tvg-id="479812" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479812&extension=ts&play_token=QiYXBjQ1y4
+#EXTINF:-1 tvg-id="479814" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479814&extension=ts&play_token=Mt6y72eEeD
+#EXTINF:-1 tvg-id="380129" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: Sky Sport Bundesliga HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=380129&extension=ts&play_token=0VwKFdCpak
+#EXTINF:-1 tvg-id="479812" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479812&extension=ts&play_token=Tho3fgT8Ez
+#EXTINF:-1 tvg-id="479814" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479814&extension=ts&play_token=6CtZbr9npf
+#EXTINF:-1 tvg-id="1562693" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6422.jpg?30841",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562693&extension=ts&play_token=vH5Dw0iGei
+#EXTINF:-1 tvg-id="340492" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6422.jpg?24831",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=340492&extension=ts&play_token=RnS158gBWR
+#EXTINF:-1 tvg-id="479834" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?ver=68923",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=479834&extension=ts&play_token=9J9acALm9k
+#EXTINF:-1 tvg-id="340492" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6422.jpg?24831",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=340492&extension=ts&play_token=1nhSelt2vs
+#EXTINF:-1 tvg-id="479834" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?ver=68923",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=479834&extension=ts&play_token=8SbmdVnVkG
+#EXTINF:-1 tvg-id="340492" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6422.jpg?24831",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=340492&extension=ts&play_token=m7UqBh5xFc
+#EXTINF:-1 tvg-id="479834" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?ver=68923",26/07 08:30 PM | Eintracht Frankfurt vs Trabzonspor (DE: SKY SPORT NEWS HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479834&extension=ts&play_token=UpeYJmt5jO
+#EXTINF:-1 tvg-id="621641" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?28135",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORTS 2 IRELAND HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621641&extension=ts&play_token=YdQD6VGuFg
+#EXTINF:-1 tvg-id="621619" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?63238",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORTS 2 IRELAND HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=621619&extension=ts&play_token=geDwq2mmi0
+#EXTINF:-1 tvg-id="621641" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?28135",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORTS 2 IRELAND HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621641&extension=ts&play_token=RqvVm1dJHe
+#EXTINF:-1 tvg-id="621619" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?63238",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORTS 2 IRELAND HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621619&extension=ts&play_token=XZvoSO0uzH
+#EXTINF:-1 tvg-id="621641" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?28135",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORTS 2 IRELAND HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=621641&extension=ts&play_token=DiFiCsNeH6
+#EXTINF:-1 tvg-id="621619" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6424.png?63238",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORTS 2 IRELAND HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=621619&extension=ts&play_token=jaADeGkpBq
+#EXTINF:-1 tvg-id="1562519" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10054.png?45723",26/07 09:30 PM | Karlsruhe vs Inter Milan (UK: PREMIER SPORT 2 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562519&extension=ts&play_token=zHJ6r5KPsx
+#EXTINF:-1 tvg-id="1562630" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12303.png?1724",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562630&extension=ts&play_token=1jtWiXjNjz
+#EXTINF:-1 tvg-id="284704" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=284704&extension=ts&play_token=DmryWwlK2b
+#EXTINF:-1 tvg-id="284705" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=284705&extension=ts&play_token=jzJvJ0ieQv
+#EXTINF:-1 tvg-id="284850" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?63357",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=284850&extension=ts&play_token=kJsbQAerOP
+#EXTINF:-1 tvg-id="285232" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=285232&extension=ts&play_token=71fG2C3gQH
+#EXTINF:-1 tvg-id="285233" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D20A0236E48A417B6293050C703E5FA9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=285233&extension=ts&play_token=8aC1BDAn2Z
+#EXTINF:-1 tvg-id="284704" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=284704&extension=ts&play_token=rEocN2Feqt
+#EXTINF:-1 tvg-id="284705" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=284705&extension=ts&play_token=mXXTESKLzX
+#EXTINF:-1 tvg-id="284850" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?63357",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=284850&extension=ts&play_token=0r5N7YqxcQ
+#EXTINF:-1 tvg-id="285232" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285232&extension=ts&play_token=Phvrex3Auq
+#EXTINF:-1 tvg-id="285233" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1AF8E08287DC30B6C767C01226C820DF
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=285233&extension=ts&play_token=nJyUlAeKIM
+#EXTINF:-1 tvg-id="284704" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284704&extension=ts&play_token=4Gq5P93YY5
+#EXTINF:-1 tvg-id="284705" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284705&extension=ts&play_token=6pg5qfChGi
+#EXTINF:-1 tvg-id="284850" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?63357",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284850&extension=ts&play_token=V71Nv0NQg5
+#EXTINF:-1 tvg-id="285232" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285232&extension=ts&play_token=bJCUI9fau2
+#EXTINF:-1 tvg-id="285233" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",26/07 09:30 PM | Karlsruhe vs Inter Milan (IT: SKY SPORT CALCIO HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 0DA5E33E29E5424EF365FB8A00D8871E
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285233&extension=ts&play_token=1ZMIPeMimu
