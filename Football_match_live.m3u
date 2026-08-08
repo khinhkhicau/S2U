@@ -1,361 +1,506 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1910672" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",08/08 06:00 PM | US (Paramount 070) Juventus vs. Milan ( :00)
+#EXTINF:-1 tvg-id="2114330" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 07:00 PM | PSF02: Chelsea vs Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910672&extension=ts&play_token=dNGIBzApvp
-#EXTINF:-1 tvg-id="2062124" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 06:00 PM | End Juventus vs. Inter all | 8K US: SOCCER 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062124&extension=ts&play_token=FKe79KmxM0
-#EXTINF:-1 tvg-id="2072551" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 06:00 PM | Juventus vs. Inter all | 8K ES: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072551&extension=ts&play_token=paN779oDzC
-#EXTINF:-1 tvg-id="2072543" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 06:00 PM | Juventus vs. Inter all | 8K ES: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072543&extension=ts&play_token=ACYKichFT0
-#EXTINF:-1 tvg-id="2072551" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 06:00 PM | Juventus vs. Inter all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114330&extension=ts&play_token=IjVSDUw0ql
+#EXTINF:-1 tvg-id="2114330" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 07:00 PM | PSF02: Chelsea vs Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=yQ7rG6geU9
-#EXTINF:-1 tvg-id="2072543" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 06:00 PM | Juventus vs. Inter all | 8K ES: SOCCER 2
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114330&extension=ts&play_token=7yTUURO8wF
+#EXTINF:-1 tvg-id="1802340" group-title="🌍|Live International Friendly-Match",08/08 07:00 PM | PSF02: Chelsea vs Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=u2E2hguO0P
-#EXTINF:-1 tvg-id="2062112" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 07:00 PM | End Chelsea vs. AC Milan all | 8K US: SOCCER 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062112&extension=ts&play_token=w4CeIqVd7s
-#EXTINF:-1 tvg-id="2055024" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 07:00 PM | Chelsea vs. AC Milan all | 8K DE: SOCCER 28
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802340&extension=ts&play_token=ZOFqrPl01i
+#EXTINF:-1 tvg-id="2062112" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 07:00 PM | Live Chelsea vs. AC Milan all 8K US: SOCCER 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055024&extension=ts&play_token=zfYZOClpuj
-#EXTINF:-1 tvg-id="2046790" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 07:00 PM | Chelsea Milan Football Matchs Amicaux | 8K CH: DAZN 15
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062112&extension=ts&play_token=amT12O0H0h
+#EXTINF:-1 tvg-id="2055024" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 07:00 PM | Live Chelsea vs. AC Milan all 8K DE: SOCCER 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046790&extension=ts&play_token=Q0jLzBAcca
-#EXTINF:-1 tvg-id="2046690" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 07:00 PM | Chelsea Milan Testspiele | 8K AT: DAZN 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046690&extension=ts&play_token=fxrLooEcc1
-#EXTINF:-1 tvg-id="2055024" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 07:00 PM | Chelsea vs. AC Milan all | 8K DE: SOCCER 28
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055024&extension=ts&play_token=5m9rHz7wo0
+#EXTINF:-1 tvg-id="2055024" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 07:00 PM | Live Chelsea vs. AC Milan all 8K DE: SOCCER 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055024&extension=ts&play_token=EFokWfF0RV
-#EXTINF:-1 tvg-id="2046790" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 07:00 PM | Chelsea Milan Football Matchs Amicaux | 8K CH: DAZN 15
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055024&extension=ts&play_token=ZLurgtCnds
+#EXTINF:-1 tvg-id="1732532" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",08/08 07:00 PM | LIVE CHELSEA – AC MILAN (SE) 8K SE: AftonBlade 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046790&extension=ts&play_token=EAqibAwREy
-#EXTINF:-1 tvg-id="2046690" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 07:00 PM | Chelsea Milan Testspiele | 8K AT: DAZN 15
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732532&extension=ts&play_token=wl4PeAPPcd
+#EXTINF:-1 tvg-id="1634623" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",08/08 07:00 PM | LIVE CHELSEA AC MILAN (IS) 8K IS: LIVEY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046690&extension=ts&play_token=9Ff6hVlHvU
-#EXTINF:-1 tvg-id="1732532" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",08/08 07:00 PM | CHELSEA – AC MILAN (SE) 8K SE: AftonBlade 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732532&extension=ts&play_token=WrRKgtPdQ0
-#EXTINF:-1 tvg-id="1634623" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",08/08 07:00 PM | CHELSEA AC MILAN (IS) 8K IS: LIVEY 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634623&extension=ts&play_token=ZuShaN7nOH
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634623&extension=ts&play_token=kq62YA8O4b
 #EXTINF:-1 tvg-id="2113069" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Hamburger SV vs. Lille all | 8K FR: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113069&extension=ts&play_token=B2vqN1GLw3
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113069&extension=ts&play_token=ZR4KqpMoJS
 #EXTINF:-1 tvg-id="2113069" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Hamburger SV vs. Lille all | 8K FR: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113069&extension=ts&play_token=pkc4CipMTm
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113069&extension=ts&play_token=mErPrjWRWT
+#EXTINF:-1 tvg-id="2114318" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 08:00 PM | PSF 14 Leeds Unitedv RB Leipzig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114318&extension=ts&play_token=rQXjoiPLkP
+#EXTINF:-1 tvg-id="2114318" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 08:00 PM | PSF 14 Leeds Unitedv RB Leipzig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114318&extension=ts&play_token=GLumCBQLmi
 #EXTINF:-1 tvg-id="2113067" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K FR: SOCCER 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113067&extension=ts&play_token=k8n8gGS5uJ
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113067&extension=ts&play_token=slZzaS2zKD
 #EXTINF:-1 tvg-id="2042026" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 08:00 PM | Leeds United vs. RB Leipzig Red Bull TV | 8K FR: DAZN 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042026&extension=ts&play_token=TuLlSdGm3m
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042026&extension=ts&play_token=6ZfL18lyOd
 #EXTINF:-1 tvg-id="2062110" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K US: SOCCER 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062110&extension=ts&play_token=Kr3ucJVrly
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062110&extension=ts&play_token=tXBpFIdhD4
 #EXTINF:-1 tvg-id="2062320" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K CA: SOCCER 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062320&extension=ts&play_token=jAuSMlJY0b
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062320&extension=ts&play_token=l45vUbPUZb
 #EXTINF:-1 tvg-id="2055019" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K DE: SOCCER 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055019&extension=ts&play_token=Q279DXJUO1
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055019&extension=ts&play_token=l6YJHfGduO
 #EXTINF:-1 tvg-id="2046783" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 08:00 PM | Leeds United Leipzig Football Matchs Amicaux | 8K CH: DAZN 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046783&extension=ts&play_token=249nfAPGKm
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046783&extension=ts&play_token=3zuP9t3c1P
 #EXTINF:-1 tvg-id="2072511" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K ES: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072511&extension=ts&play_token=riyWtNUI9D
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072511&extension=ts&play_token=Ejf4UUt7Zw
 #EXTINF:-1 tvg-id="2055019" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K DE: SOCCER 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055019&extension=ts&play_token=9wznryHXPz
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055019&extension=ts&play_token=P3rQi1DYFq
 #EXTINF:-1 tvg-id="2046783" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 08:00 PM | Leeds United Leipzig Football Matchs Amicaux | 8K CH: DAZN 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046783&extension=ts&play_token=nekokGqC8T
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046783&extension=ts&play_token=DFeSqZY3TA
 #EXTINF:-1 tvg-id="2113067" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K FR: SOCCER 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113067&extension=ts&play_token=f4UiV1olUE
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113067&extension=ts&play_token=YTwLBnsiBA
 #EXTINF:-1 tvg-id="2042026" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 08:00 PM | Leeds United vs. RB Leipzig Red Bull TV | 8K FR: DAZN 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042026&extension=ts&play_token=aOXpR8eq5w
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042026&extension=ts&play_token=ibFoKVEAaV
 #EXTINF:-1 tvg-id="2072511" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 08:00 PM | Leeds vs. RasenBallsport Leipzig all | 8K ES: SOCCER 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072511&extension=ts&play_token=DjsyMXkX85
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072511&extension=ts&play_token=dgSMwyMAyV
 #EXTINF:-1 tvg-id="1732531" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",08/08 08:30 PM | BAYER LEVERKUSEN – SEVILLA FC (SE) 8K SE: AftonBlade 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732531&extension=ts&play_token=OK54u083Vm
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732531&extension=ts&play_token=P9BaudqcT3
 #EXTINF:-1 tvg-id="1910738" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",08/08 09:00 PM | US (Paramount 004) West Ham United vs. Portsmouth ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910738&extension=ts&play_token=3xOsm8nnOi
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910738&extension=ts&play_token=AKIliCFqzr
 #EXTINF:-1 tvg-id="2062107" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 09:00 PM | West Ham vs. Portsmouth all | 8K US: SOCCER 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062107&extension=ts&play_token=qPUBKIXMii
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062107&extension=ts&play_token=z0metqtfwv
+#EXTINF:-1 tvg-id="2106795" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",08/08 09:00 PM | Carabao Cup: West Ham United vs Portsmouth @ :Paramount+ 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106795&extension=ts&play_token=01duUAao3W
 #EXTINF:-1 tvg-id="2062305" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 09:00 PM | West Ham vs. Portsmouth all | 8K CA: SOCCER 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062305&extension=ts&play_token=RQ2pyQ1AdE
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062305&extension=ts&play_token=LLsWl0RYf2
 #EXTINF:-1 tvg-id="2055018" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 09:00 PM | West Ham vs. Portsmouth all | 8K DE: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055018&extension=ts&play_token=ISd1p0VBHx
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055018&extension=ts&play_token=ZnrP1xv1pF
+#EXTINF:-1 tvg-id="1605783" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",08/08 09:00 PM | WEST HAM PORTSMOUTH (NO) 8K NO: TV2 PLAY 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605783&extension=ts&play_token=2pqSIUThri
 #EXTINF:-1 tvg-id="1735563" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | LIGACUPEN WEST HAM PORTSMOUTH (NO) 8K NO: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735563&extension=ts&play_token=SUGOdcMWyR
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735563&extension=ts&play_token=n161Huczzt
 #EXTINF:-1 tvg-id="2068625" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",08/08 09:00 PM | West Ham Portsmouth Carabao Cup Ronde 1 2026 | 8K NL: VIAPLAY 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2068625&extension=ts&play_token=JferaKthQc
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2068625&extension=ts&play_token=DSs3oKJ3lI
 #EXTINF:-1 tvg-id="1592457" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",08/08 09:00 PM | CARABAO CUP WEST HAM PORTSMOUTH (NL) 8K NL: VIAPLAY 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592457&extension=ts&play_token=VdSc5nocCS
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1592457&extension=ts&play_token=vJeI9ONLkl
 #EXTINF:-1 tvg-id="2055018" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 09:00 PM | West Ham vs. Portsmouth all | 8K DE: SOCCER 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055018&extension=ts&play_token=xeqKJWJQBP
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055018&extension=ts&play_token=UKzfatb5K4
+#EXTINF:-1 tvg-id="2021225" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",08/08 09:00 PM | WEST HAM PORTSMOUTH (SE) 8K SE: PLAY+ 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021225&extension=ts&play_token=4ggbaALsQ4
 #EXTINF:-1 tvg-id="2016262" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | LIGACUPEN WEST HAM PORTSMOUTH (SE) 8K SE: VIAPLAY 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016262&extension=ts&play_token=U2ftqhj02p
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016262&extension=ts&play_token=dSRHCW8k5a
 #EXTINF:-1 tvg-id="2037360" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | CARABAO CUP WEST HAM PORTSMOUTH (DK) 8K DK: VIAPLAY 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037360&extension=ts&play_token=GnMTgIP6BF
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037360&extension=ts&play_token=6X9EzPgUiS
+#EXTINF:-1 tvg-id="1605783" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",08/08 09:00 PM | WEST HAM PORTSMOUTH (NO) 8K NO: TV2 PLAY 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605783&extension=ts&play_token=tIYFTJTGTT
 #EXTINF:-1 tvg-id="1735563" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | LIGACUPEN WEST HAM PORTSMOUTH (NO) 8K NO: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735563&extension=ts&play_token=trZyRiAbQR
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735563&extension=ts&play_token=UNnMQOjexU
 #EXTINF:-1 tvg-id="2037465" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | ENGLANNIN LIIGACUP WEST HAM PORTSMOUTH (FI) 8K FI: VIAPLAY 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037465&extension=ts&play_token=T4M7Zohhfh
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037465&extension=ts&play_token=gWo0V38JBu
 #EXTINF:-1 tvg-id="1995995" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",08/08 09:00 PM | Soccer: West Ham vs Portsmouth @ :Tv2Play NO 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1995995&extension=ts&play_token=nTSuG4hK2q
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1995995&extension=ts&play_token=IadNtusfOv
 #EXTINF:-1 tvg-id="2025559" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | West Ham vs Portsmouth @ :Viaplay NL 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025559&extension=ts&play_token=uPHkIHaTj6
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2025559&extension=ts&play_token=9Szg7s6UvX
 #EXTINF:-1 tvg-id="1991510" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",08/08 09:00 PM | West Ham vs Portsmouth @ :TeliaPlay SE 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991510&extension=ts&play_token=Lf8579LNuk
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991510&extension=ts&play_token=z2EhgdGu96
 #EXTINF:-1 tvg-id="1990188" group-title="Live FA, League Cup-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",08/08 09:00 PM | West Ham vs Portsmouth @ :Viaplay SE 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990188&extension=ts&play_token=KfycUaWxYT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990188&extension=ts&play_token=AGNTTlwoMF
 #EXTINF:-1 tvg-id="1995995" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",08/08 09:00 PM | Soccer: West Ham vs Portsmouth @ :Tv2Play NO 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1995995&extension=ts&play_token=E2OCuvZAmL
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1995995&extension=ts&play_token=DaYI1PHInb
 #EXTINF:-1 tvg-id="1992106" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",08/08 09:00 PM | West Ham vs Portsmouth @ :Viaplay FI 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992106&extension=ts&play_token=IVR04xPfAs
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992106&extension=ts&play_token=G7cJuITOVZ
 #EXTINF:-1 tvg-id="1992258" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TELIAPLAY.png",08/08 09:00 PM | West Ham vs Portsmouth @ :Telia FI 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992258&extension=ts&play_token=9mhkb4kXdS
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992258&extension=ts&play_token=TXmgaPWrKb
 #EXTINF:-1 tvg-id="2026351" group-title="Live FA, League Cup-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/viaplay-logo.png",08/08 09:00 PM | West Ham vs Portsmouth @ :Viaplay IS 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026351&extension=ts&play_token=GkKXD5vGtg
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026351&extension=ts&play_token=pPzjpeFwDL
+#EXTINF:-1 tvg-id="2114328" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 09:00 PM | PSF04: Brighton & Hove Albion vs Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114328&extension=ts&play_token=fJLoiJzV5u
+#EXTINF:-1 tvg-id="2114328" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 09:00 PM | PSF04: Brighton & Hove Albion vs Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114328&extension=ts&play_token=cqYqEZcXQo
+#EXTINF:-1 tvg-id="1802342" group-title="🌍|Live International Friendly-Match",08/08 09:00 PM | PSF04: Brighton & Hove Albion vs Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802342&extension=ts&play_token=QGeMyCgmWK
 #EXTINF:-1 tvg-id="2062111" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 09:00 PM | Brighton vs. Roma all | 8K US: SOCCER 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062111&extension=ts&play_token=6hRH2VgSfH
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062111&extension=ts&play_token=mtE8TlTJbz
 #EXTINF:-1 tvg-id="1732530" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",08/08 09:00 PM | BRIGHTON – ROMA (SE) 8K SE: AftonBlade 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732530&extension=ts&play_token=4wTAsCQRj8
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732530&extension=ts&play_token=8094u3M4pZ
+#EXTINF:-1 tvg-id="2114326" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 09:00 PM | PSF06: Tottenham Hotspur vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114326&extension=ts&play_token=Z1pNsHPJuM
+#EXTINF:-1 tvg-id="2114326" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 09:00 PM | PSF06: Tottenham Hotspur vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114326&extension=ts&play_token=ArXd9c4C7Y
+#EXTINF:-1 tvg-id="1802344" group-title="🌍|Live International Friendly-Match",08/08 09:00 PM | PSF06: Tottenham Hotspur vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=C1aMTTogit
+#EXTINF:-1 tvg-id="2114324" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 10:00 PM | PSF 08 Manchester United vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114324&extension=ts&play_token=adugyVJbOa
+#EXTINF:-1 tvg-id="2114324" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 10:00 PM | PSF 08 Manchester United vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114324&extension=ts&play_token=u30fLM1MX8
 #EXTINF:-1 tvg-id="1732529" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",08/08 10:00 PM | MANCHESTER UNITED – PSG (SE) 8K SE: AftonBlade 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732529&extension=ts&play_token=r5H8OdSZTe
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732529&extension=ts&play_token=emevU676ma
 #EXTINF:-1 tvg-id="1634617" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/LIVEY.png",08/08 10:00 PM | PARIS SAINT-GERMAIN MAN. UNITED (IS) 8K IS: LIVEY 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634617&extension=ts&play_token=d4YBtrTV4i
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1634617&extension=ts&play_token=6C26YVlU5F
+#EXTINF:-1 tvg-id="2114325" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 10:00 PM | PSF07: Stuttgart vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114325&extension=ts&play_token=8GzsACrleN
+#EXTINF:-1 tvg-id="2114325" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",08/08 10:00 PM | PSF07: Stuttgart vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114325&extension=ts&play_token=ZZYwIPcgpH
+#EXTINF:-1 tvg-id="1802345" group-title="🌍|Live International Friendly-Match",08/08 10:00 PM | PSF07: Stuttgart vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802345&extension=ts&play_token=MoGhSWRNqu
 #EXTINF:-1 tvg-id="2055022" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 10:00 PM | Stuttgart vs. Everton all | 8K DE: SOCCER 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055022&extension=ts&play_token=c7XxrqiBEC
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055022&extension=ts&play_token=ufeC0tG4uX
 #EXTINF:-1 tvg-id="2046776" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 10:00 PM | Stuttgart Everton Football Matchs Amicaux | 8K CH: DAZN 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046776&extension=ts&play_token=LMVmrt9Fa6
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046776&extension=ts&play_token=Hb1iDPKval
 #EXTINF:-1 tvg-id="2046679" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 10:00 PM | VfB Stuttgart Everton Testspiele | 8K AT: DAZN 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046679&extension=ts&play_token=SsYaf4fcAu
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046679&extension=ts&play_token=HXcsGIQqJW
 #EXTINF:-1 tvg-id="2055022" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 10:00 PM | Stuttgart vs. Everton all | 8K DE: SOCCER 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055022&extension=ts&play_token=aNxwPDnDh3
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055022&extension=ts&play_token=Vus6cV0oSA
 #EXTINF:-1 tvg-id="2046776" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 10:00 PM | Stuttgart Everton Football Matchs Amicaux | 8K CH: DAZN 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046776&extension=ts&play_token=zZHW2stYGF
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046776&extension=ts&play_token=cU7oQSwr62
 #EXTINF:-1 tvg-id="2046679" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 10:00 PM | VfB Stuttgart Everton Testspiele | 8K AT: DAZN 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046679&extension=ts&play_token=vrK7XjbCws
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046679&extension=ts&play_token=f1FIxE1vct
 #EXTINF:-1 tvg-id="2055020" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 10:00 PM | FC Schalke 04 vs. Atalanta all | 8K DE: SOCCER 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055020&extension=ts&play_token=DSpSQ4S0D5
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055020&extension=ts&play_token=kkP9z5tJId
 #EXTINF:-1 tvg-id="2055020" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 10:00 PM | FC Schalke 04 vs. Atalanta all | 8K DE: SOCCER 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055020&extension=ts&play_token=sEraavKJlR
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055020&extension=ts&play_token=2WUc7QlX8f
 #EXTINF:-1 tvg-id="2113070" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 10:00 PM | Stade Rennais FC vs. Brentford all | 8K FR: SOCCER 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113070&extension=ts&play_token=fPUKkp8wZD
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113070&extension=ts&play_token=zsTk7VL0Ds
 #EXTINF:-1 tvg-id="2042017" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 10:00 PM | Rennes vs. Brentford sur Ligue 1+ Matchs Amicaux | 8K FR: DAZN 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042017&extension=ts&play_token=lsrEvEXq0w
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042017&extension=ts&play_token=YOqDsiNT2d
 #EXTINF:-1 tvg-id="2113070" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 10:00 PM | Stade Rennais FC vs. Brentford all | 8K FR: SOCCER 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113070&extension=ts&play_token=kNwXxzHZrU
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113070&extension=ts&play_token=kyUADlxOF2
 #EXTINF:-1 tvg-id="2042017" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",08/08 10:00 PM | Rennes vs. Brentford sur Ligue 1+ Matchs Amicaux | 8K FR: DAZN 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042017&extension=ts&play_token=lXM6d5K2Y3
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042017&extension=ts&play_token=Fzbhpoiu2T
 #EXTINF:-1 tvg-id="2113072" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 11:30 PM | Stade Brestois 29 vs. Venezia FC all | 8K FR: SOCCER 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113072&extension=ts&play_token=0dD6fHq28u
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113072&extension=ts&play_token=YQlPzsmlsq
 #EXTINF:-1 tvg-id="2113072" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",08/08 11:30 PM | Stade Brestois 29 vs. Venezia FC all | 8K FR: SOCCER 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113072&extension=ts&play_token=zgHTbGzQdo
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113072&extension=ts&play_token=gzOEkmEOWi
+#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114321&extension=ts&play_token=fYhTeXJIrS
+#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=Dri4Ex2Uek
+#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 01:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=QTBGDwfWgO
+#EXTINF:-1 tvg-id="1639613" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 01:00 AM | UDINESE-NOTTINGHAM FOREST (DK) 8K DK: PLAY TV2 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639613&extension=ts&play_token=O2UR26ia2d
 #EXTINF:-1 tvg-id="1910682" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",09/08 01:30 AM | US (Paramount 060) Lazio vs. Genoa ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910682&extension=ts&play_token=riVFREwgYh
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910682&extension=ts&play_token=xPewmJJUY1
+#EXTINF:-1 tvg-id="2114320" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114320&extension=ts&play_token=jjg0vvXqFi
+#EXTINF:-1 tvg-id="2114320" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114320&extension=ts&play_token=JQ0Ax7ejSb
+#EXTINF:-1 tvg-id="1802350" group-title="🌍|Live International Friendly-Match",09/08 01:30 AM | PSF12: Betis vs AFC Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802350&extension=ts&play_token=mGcHjyOU9O
 #EXTINF:-1 tvg-id="2113075" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/08 01:30 AM | Cagliari Calcio vs. Nice all | 8K FR: SOCCER 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer CA635269460C902AFBA1CCF28B43DC26
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113075&extension=ts&play_token=rcFH5QIu66
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113075&extension=ts&play_token=oWby6rKwLs
 #EXTINF:-1 tvg-id="2113075" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",09/08 01:30 AM | Cagliari Calcio vs. Nice all | 8K FR: SOCCER 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113075&extension=ts&play_token=ckEIU66oKA
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113075&extension=ts&play_token=zWvtadunPL
+#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114321&extension=ts&play_token=fYhTeXJIrS
+#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=Dri4Ex2Uek
+#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 02:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=QTBGDwfWgO
+#EXTINF:-1 tvg-id="1639612" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 02:00 AM | FC BARCELONA-NOTTINGHAM FOREST (DK) 8K DK: PLAY TV2 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639612&extension=ts&play_token=Rhngbwn7dS
+#EXTINF:-1 tvg-id="2114319" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114319&extension=ts&play_token=4f0waRIjLD
+#EXTINF:-1 tvg-id="2114319" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114319&extension=ts&play_token=HE4l8OmTvr
+#EXTINF:-1 tvg-id="1802351" group-title="🌍|Live International Friendly-Match",09/08 02:00 AM | PSF13: Valencia vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802351&extension=ts&play_token=Dq8qqHJ8wu
 #EXTINF:-1 tvg-id="1732527" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/AFTONBLADET.png",09/08 02:00 AM | VALENCIA NEWCASTLE (SE) 8K SE: AftonBlade 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 923EE394EB174EC513A1D282596057B1
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732527&extension=ts&play_token=5tWf5IdpLe
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1732527&extension=ts&play_token=mAsPINYOI9
+#EXTINF:-1 tvg-id="1367493" group-title="🌍|Live International Friendly-Match" tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif",09/08 02:00 AM | USA Soccer08: Europe : Olympiakos Piraeus vs Real Madrid @
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367493&extension=ts&play_token=I2rREqdpHN
+#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2544EA150E1EE372FE0A8AD68A14E971
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2114321&extension=ts&play_token=fYhTeXJIrS
+#EXTINF:-1 tvg-id="2114321" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PSF.png",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2114321&extension=ts&play_token=Dri4Ex2Uek
+#EXTINF:-1 tvg-id="1802349" group-title="🌍|Live International Friendly-Match",09/08 03:00 AM | PSF11: Udinese vs Nottingham Forest // Barcelona vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F6523F66C8DC679A30F1F95C2CA915AA
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802349&extension=ts&play_token=QTBGDwfWgO
+#EXTINF:-1 tvg-id="1639611" group-title="🌍|Live International Friendly-Match" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PLAYTV2.png",09/08 03:00 AM | UDINESE-FC BARCELONA (DK) 8K DK: PLAY TV2 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7194BEE5255FBB831B0987DE80C73C3E
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1639611&extension=ts&play_token=D3EYr84RMr
