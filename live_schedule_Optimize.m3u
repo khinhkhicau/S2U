@@ -1,586 +1,171 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="441311" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BEIN-SPORTS-3-HD.png",15/08 09:00 PM | Tottenham Hotspur vs Hoffenheim (AU: BEIN SPORTS 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=441311&extension=ts&play_token=Y5h09G6Oup
-#EXTINF:-1 tvg-id="646975" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS3.png",15/08 09:00 PM | Tottenham Hotspur vs Hoffenheim (AU| BEIN SPORTS 3 HD)
+#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",16/08 12:00 AM | Cincinnati Open E5 (UK| NOW HK NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=646975&extension=ts&play_token=1OTXcPaQY4
-#EXTINF:-1 tvg-id="1686908" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11128.jpg?87925",15/08 09:00 PM | Hull City vs Nice (VIP: LIGUE 1+ 4 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686908&extension=ts&play_token=s6jz1w8wDw
-#EXTINF:-1 tvg-id="1686850" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11128.jpg?87925",15/08 09:00 PM | Hull City vs Nice (VIP: LIGUE 1+ 4 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686850&extension=ts&play_token=uNQmTsbNpd
-#EXTINF:-1 tvg-id="238264" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",15/08 09:00 PM | Everton vs Lille (UK| BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032476&extension=ts&play_token=JAeAXVV8jn
+#EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",16/08 09:00 AM | Cincinnati Open -Round 2 (A) (UK| NOW HK NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=238264&extension=ts&play_token=ugAoETofZU
-#EXTINF:-1 tvg-id="325031" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?36369",15/08 09:00 PM | Everton vs Lille (US: BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032474&extension=ts&play_token=8vaBX6dJQO
+#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (UK| BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=238270&extension=ts&play_token=ShC1FBdZox
+#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (US: BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325031&extension=ts&play_token=v39ZJaffAZ
-#EXTINF:-1 tvg-id="441312" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/BEIN-SPORTS-2.png",15/08 09:00 PM | Everton vs Lille (AU: BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=441312&extension=ts&play_token=shXIBJ3Fb2
-#EXTINF:-1 tvg-id="83953" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/USA/83953.png",15/08 09:00 PM | Everton vs Lille (US| BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325027&extension=ts&play_token=VGk6RMx8nv
+#EXTINF:-1 tvg-id="83957" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/USA/83957.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (US| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=83953&extension=ts&play_token=kb57D2IRCK
-#EXTINF:-1 tvg-id="646976" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS2.png",15/08 09:00 PM | Everton vs Lille (AU| BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=646976&extension=ts&play_token=PensPa2X9p
-#EXTINF:-1 tvg-id="177357" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177357.png",15/08 09:00 PM | Everton vs Lille (CA| BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177357&extension=ts&play_token=cSY5FcqIhK
-#EXTINF:-1 tvg-id="1686972" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?58145",15/08 09:00 PM | Everton vs Lille (VIP: BEIN SPORTS 2 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686972&extension=ts&play_token=DPsbECQC96
-#EXTINF:-1 tvg-id="1686862" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?63315",15/08 09:00 PM | Everton vs Lille (VIP: BEIN SPORTS 2 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686862&extension=ts&play_token=ptDgfxOSMb
-#EXTINF:-1 tvg-id="425571" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?20279",15/08 09:00 PM | Everton vs Lille (FR: BEIN SPORTS 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425571&extension=ts&play_token=E2HHszQzCw
-#EXTINF:-1 tvg-id="220941" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?33638",15/08 09:00 PM | Everton vs Lille (FR: beIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=220941&extension=ts&play_token=OZmTuoZJvw
-#EXTINF:-1 tvg-id="107006" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?48273",15/08 09:00 PM | Everton vs Lille (FR: BEIN SPORTS 2 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=107006&extension=ts&play_token=oPKP6oBQXT
-#EXTINF:-1 tvg-id="401286" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?78788",15/08 09:00 PM | Everton vs Lille (TR VIP: BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=401286&extension=ts&play_token=L3Ov8sx3So
-#EXTINF:-1 tvg-id="401289" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?33244",15/08 09:00 PM | Everton vs Lille (TR VIP: BEIN SPORTS 2 HD+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=401289&extension=ts&play_token=COmabr1XLA
-#EXTINF:-1 tvg-id="401294" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?20300",15/08 09:00 PM | Everton vs Lille (TR VIP: BEIN SPORTS 2 HD+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=401294&extension=ts&play_token=Vf3oco5UXD
-#EXTINF:-1 tvg-id="526125" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/france/526125.png",15/08 09:00 PM | Everton vs Lille (FR| BEIN SPORTS 2 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=526125&extension=ts&play_token=2z7NQsA9nK
-#EXTINF:-1 tvg-id="506551" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/france/506551.png",15/08 09:00 PM | Everton vs Lille (FR| BEIN SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506551&extension=ts&play_token=wxHovPjLLe
-#EXTINF:-1 tvg-id="507385" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/france/507385.png",15/08 09:00 PM | Everton vs Lille (FR| BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507385&extension=ts&play_token=BD3kda6A8R
-#EXTINF:-1 tvg-id="1294763" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1294763.png",15/08 09:00 PM | Everton vs Lille (AR| BEIN SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1294763&extension=ts&play_token=ZsWSEIOFF8
-#EXTINF:-1 tvg-id="1330416" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1330416.png",15/08 09:00 PM | Everton vs Lille (AR| BEIN SPORTS 2 FRANCE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330416&extension=ts&play_token=uAtDYGC17B
-#EXTINF:-1 tvg-id="1330432" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1330432.png",15/08 09:00 PM | Everton vs Lille (AR| BEIN SPORTS 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330432&extension=ts&play_token=MX3zTQw3sp
-#EXTINF:-1 tvg-id="1330438" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1330438.png",15/08 09:00 PM | Everton vs Lille (AR| BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330438&extension=ts&play_token=TE59yBTA0d
-#EXTINF:-1 tvg-id="1330452" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1330452.png",15/08 09:00 PM | Everton vs Lille (AR| BEIN SPORTS 2 FRANCE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330452&extension=ts&play_token=maedtPMhz2
-#EXTINF:-1 tvg-id="1836267" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1836267.png",15/08 09:00 PM | Everton vs Lille (BEIN SPORTS FHD 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1836267&extension=ts&play_token=Yo8DErB5rS
-#EXTINF:-1 tvg-id="1660426" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/bein/1660426.png",15/08 09:00 PM | Everton vs Lille (BEIN SPORTS 2 4k)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1660426&extension=ts&play_token=mqn7bieifc
-#EXTINF:-1 tvg-id="913455" group-title="Live International Friendly" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png",15/08 09:00 PM | Everton vs Lille (TR| BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=913455&extension=ts&play_token=M9MdLmtK3e
-#EXTINF:-1 tvg-id="913456" group-title="Live International Friendly" tvg-logo="http://103.176.90.95/picons/beinsportshd2.png",15/08 09:00 PM | Everton vs Lille (TR| BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=913456&extension=ts&play_token=LooXK3jRZq
-#EXTINF:-1 tvg-id="1903782" group-title="Live International Friendly" tvg-logo="http://194.213.3.5:80/images/ggtB_VZCb2ENvYZR6uzodsfIA6Ab2ElGbOLbpsgwrZBLDofSRxwhZvflX9b-AMaRMRVL-7j8bNqDafxBwbEgvhTnz97-OJk7lgMYg0Pbjvqh3DMKFeV2oghHIyFu0zV4nHgyFOTSU65HmhRJztksqXUeb7ngHwHpNjfl-JC4Mjg.png",15/08 09:00 PM | Everton vs Lille (MY| BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1903782&extension=ts&play_token=mU5phrL58w
-#EXTINF:-1 tvg-id="588055" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6139.png?96489",15/08 09:45 PM | Manchester United vs AC Milan (UK: MUTV ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588055&extension=ts&play_token=LgoAP6oowN
-#EXTINF:-1 tvg-id="45324" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png",15/08 09:45 PM | Manchester United vs AC Milan (UK| MUTV FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45324&extension=ts&play_token=f6LC1xIqB3
-#EXTINF:-1 tvg-id="1458773" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png",15/08 09:45 PM | Manchester United vs AC Milan (UK| MUTV HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1458773&extension=ts&play_token=AUJcBKphji
-#EXTINF:-1 tvg-id="1458772" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png",15/08 09:45 PM | Manchester United vs AC Milan (UK| MUTV HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1458772&extension=ts&play_token=fQSzegZzz4
-#EXTINF:-1 tvg-id="1290298" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6139.png?17661",15/08 09:45 PM | Manchester United vs AC Milan (VIP: MUTV ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1290298&extension=ts&play_token=dnULojK7Rz
-#EXTINF:-1 tvg-id="1290224" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6139.png?17661",15/08 09:45 PM | Manchester United vs AC Milan (VIP: MUTV ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1290224&extension=ts&play_token=pFY77ZCIq7
-#EXTINF:-1 tvg-id="284704" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT CALCIO UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284704&extension=ts&play_token=sAIk9dNtFc
-#EXTINF:-1 tvg-id="284705" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT CALCIO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284705&extension=ts&play_token=PXpM4pDrmx
-#EXTINF:-1 tvg-id="284850" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?63357",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT CALCIO HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284850&extension=ts&play_token=vXAFfjtjxY
-#EXTINF:-1 tvg-id="285232" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT CALCIO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285232&extension=ts&play_token=zrKVzh3itz
-#EXTINF:-1 tvg-id="285233" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT CALCIO HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285233&extension=ts&play_token=VegA0UNNmm
-#EXTINF:-1 tvg-id="284686" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT UNO UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284686&extension=ts&play_token=rfcYCluVAG
-#EXTINF:-1 tvg-id="284687" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT UNO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284687&extension=ts&play_token=n0tUSol5OS
-#EXTINF:-1 tvg-id="284841" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?92364",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT UNO HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284841&extension=ts&play_token=l9YtDeNwuZ
-#EXTINF:-1 tvg-id="285256" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT UNO 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285256&extension=ts&play_token=hOwzCTMyfx
-#EXTINF:-1 tvg-id="285257" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",15/08 09:45 PM | Manchester United vs AC Milan (IT: SKY SPORT UNO HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285257&extension=ts&play_token=kYdLyDDxEm
-#EXTINF:-1 tvg-id="1523226" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",15/08 09:45 PM | Manchester United vs AC Milan (AT: SPORTDIGITAL FUSSBALL ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1523226&extension=ts&play_token=TtOthUOui3
-#EXTINF:-1 tvg-id="411539" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/411539.png",15/08 09:45 PM | Manchester United vs AC Milan (DE| SPORTDIGITAL FUSSBALL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411539&extension=ts&play_token=njyaq3y2o2
-#EXTINF:-1 tvg-id="411534" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/411534.png",15/08 09:45 PM | Manchester United vs AC Milan (DE| SPORTDIGITAL FUSSBALL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411534&extension=ts&play_token=H8dwM7xTnH
-#EXTINF:-1 tvg-id="1913006" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/logos/1913006.png",15/08 09:45 PM | Manchester United vs AC Milan (AT| SPORTDIGITAL FUSSBALL HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1913006&extension=ts&play_token=GEV0mO6ygO
-#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",15/08 10:00 PM | Cincinnati Open E4 (UK| NOW HK NOW SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032476&extension=ts&play_token=2Ugy2JLiwj
-#EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",15/08 10:00 PM | Cincinnati Open -Round 2 (A) (UK| NOW HK NOW SPORTS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1032474&extension=ts&play_token=pQCm1qXaxn
-#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (UK| BEIN SPORTS 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=238270&extension=ts&play_token=kPb5fT8hw1
-#EXTINF:-1 tvg-id="325027" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/537.png?72164",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (US: BEIN SPORTS 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325027&extension=ts&play_token=oHetOwtnXh
-#EXTINF:-1 tvg-id="83957" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/USA/83957.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (US| BEIN SPORTS 7 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=83957&extension=ts&play_token=6fixuyeJhk
-#EXTINF:-1 tvg-id="414140" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",15/08 10:00 PM | 2026 Cincinnati Open Tennis (CA EN: TSN 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414140&extension=ts&play_token=YMoAlaPgfT
-#EXTINF:-1 tvg-id="1239032" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759",15/08 10:00 PM | 2026 Cincinnati Open Tennis (CA: TSN 3 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239032&extension=ts&play_token=y0QDJZDVP5
-#EXTINF:-1 tvg-id="904214" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904214.png",15/08 10:00 PM | 2026 Cincinnati Open Tennis (CA| TSN3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=904214&extension=ts&play_token=gxoABHSFYm
-#EXTINF:-1 tvg-id="177346" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png",15/08 10:00 PM | 2026 Cincinnati Open Tennis (CA| TSN 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177346&extension=ts&play_token=obVgs4opt2
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=83957&extension=ts&play_token=CA7v1T4B2g
 #EXTINF:-1 tvg-id="414141" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265",16/08 10:00 PM | 2026 Cincinnati Open Tennis (CA EN: TSN 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414141&extension=ts&play_token=YDfcLoSpUe
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=414141&extension=ts&play_token=Brdi14yXHo
 #EXTINF:-1 tvg-id="1239040" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081",16/08 10:00 PM | 2026 Cincinnati Open Tennis (CA: TSN 2 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239040&extension=ts&play_token=nhSrwckDye
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1239040&extension=ts&play_token=FcmZony91t
 #EXTINF:-1 tvg-id="904215" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/CANADA/904215.png",16/08 10:00 PM | 2026 Cincinnati Open Tennis (CA| TSN2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=904215&extension=ts&play_token=uaqtJPTRRV
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=904215&extension=ts&play_token=ONYAqHvzKU
 #EXTINF:-1 tvg-id="177345" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png",16/08 10:00 PM | 2026 Cincinnati Open Tennis (CA| TSN 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177345&extension=ts&play_token=4eJ3iHyt41
-#EXTINF:-1 tvg-id="1294758" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1294758.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (AR|  BEIN  SPORTS 7 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=177345&extension=ts&play_token=eqkB4hPNO8
+#EXTINF:-1 tvg-id="1294758" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1294758.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (AR|  BEIN  SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1294758&extension=ts&play_token=AyVhLRMv5P
-#EXTINF:-1 tvg-id="1330427" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330427.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (AR| BEIN SPORTS 7 HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1294758&extension=ts&play_token=qyCXfrq9vW
+#EXTINF:-1 tvg-id="1330427" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330427.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (AR| BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330427&extension=ts&play_token=OroM93uvmI
-#EXTINF:-1 tvg-id="1330443" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330443.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (AR| BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330427&extension=ts&play_token=UMi1iPZ11R
+#EXTINF:-1 tvg-id="1330443" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1330443.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (AR| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330443&extension=ts&play_token=VFxYqvnv8J
-#EXTINF:-1 tvg-id="1836262" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (BEIN SPORTS FHD 7)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330443&extension=ts&play_token=NWzw0dVTYT
+#EXTINF:-1 tvg-id="1836262" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1836262.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (BEIN SPORTS FHD 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1836262&extension=ts&play_token=3krjA2L5pz
-#EXTINF:-1 tvg-id="1660421" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1660421.png",15/08 10:00 PM | Miomir Kecmanovic vs Flavio Cobolli (BEIN SPORTS 7 4k)
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1836262&extension=ts&play_token=2jCfYRssFx
+#EXTINF:-1 tvg-id="1660421" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/bein/1660421.png",16/08 03:00 AM | Terence Atmane vs Tomas Martin Etcheverry (BEIN SPORTS 7 4k)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1660421&extension=ts&play_token=xbbKlJLP7e
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1660421&extension=ts&play_token=74ajvdkMAy
 #EXTINF:-1 tvg-id="425622" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?10505",16/08 12:00 AM | Tournoi WTA de Cincinnati (FR: BEIN SPORTS MAX 5 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425622&extension=ts&play_token=slnZllqeOh
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425622&extension=ts&play_token=X41NxeejZN
 #EXTINF:-1 tvg-id="506654" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506654.png",16/08 12:00 AM | Tournoi WTA de Cincinnati (FR| BEIN SPORTS MAX 5 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506654&extension=ts&play_token=8fhcRoy2DP
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506654&extension=ts&play_token=TJmfBI6ToL
 #EXTINF:-1 tvg-id="507370" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507370.png",16/08 12:00 AM | Tournoi WTA de Cincinnati (FR| BEIN SPORTS MAX 5 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507370&extension=ts&play_token=hosmrjRE0b
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507370&extension=ts&play_token=OrRYpSeyeI
 #EXTINF:-1 tvg-id="425591" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?40558",16/08 12:00 AM | Masters 1000 de Cincinnati (FR: EUROSPORT 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425591&extension=ts&play_token=ADvtwuWFxw
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=425591&extension=ts&play_token=t4XqLNYliZ
 #EXTINF:-1 tvg-id="106946" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?35441",16/08 12:00 AM | Masters 1000 de Cincinnati (FR: EUROSPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=106946&extension=ts&play_token=Q5DoQkeGTN
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=106946&extension=ts&play_token=d0RnDkJrZe
 #EXTINF:-1 tvg-id="207225" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/615.jpg?83779",16/08 12:00 AM | Masters 1000 de Cincinnati (FR: EUROSPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=207225&extension=ts&play_token=35Kn9UMcpd
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=207225&extension=ts&play_token=fSL8DwRe9i
 #EXTINF:-1 tvg-id="506559" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/506559.png",16/08 12:00 AM | Masters 1000 de Cincinnati (FR| EUROSPORT 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506559&extension=ts&play_token=I88tMpQI1A
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=506559&extension=ts&play_token=rfgD47KRmo
 #EXTINF:-1 tvg-id="507388" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/france/507388.png",16/08 12:00 AM | Masters 1000 de Cincinnati (FR| EUROSPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507388&extension=ts&play_token=mbq1aHAYTE
+#EXTVLCOPT:http-header=Authorization: Bearer EF47D5139760C52D5CA0B73941F4A9A9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=507388&extension=ts&play_token=2JcwuREQAA
 #EXTINF:-1 tvg-id="832049" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",16/08 01:00 AM | Europe Smash (FR:L`EQUIPE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832049&extension=ts&play_token=0q4SCel1gM
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832049&extension=ts&play_token=sxmWljiZmP
 #EXTINF:-1 tvg-id="832050" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",16/08 01:00 AM | Europe Smash (FR: L`EQUIPE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832050&extension=ts&play_token=70lbHw3Zud
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832050&extension=ts&play_token=nnMj432PbG
 #EXTINF:-1 tvg-id="832048" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12404.png?5769",16/08 01:00 AM | Europe Smash (FR: L`EQUIPE 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832048&extension=ts&play_token=1iXs8KmTc7
-#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",15/08 10:00 PM | : Cincinnati Open (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=832048&extension=ts&play_token=CROYMjUCzv
+#EXTINF:-1 tvg-id="1980747" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330",16/08 02:00 AM | : Cincinnati Open (ZG: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=sY70RHiZgh
-#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",15/08 10:00 PM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴴᴰ)
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1980747&extension=ts&play_token=XkiPmks1fe
+#EXTINF:-1 tvg-id="2011551" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",16/08 02:00 AM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴴᴰ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=qhaTPUqlOi
-#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",15/08 10:00 PM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011551&extension=ts&play_token=KHuE4MHkZx
+#EXTINF:-1 tvg-id="2011260" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13847.png?ver=53660",16/08 02:00 AM | : Cincinnati Open (OD: ZIGGO SPORT 4 ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=853jFj3sQt
-#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",15/08 10:00 PM | : Cincinnati Open (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=2011260&extension=ts&play_token=0KUn1ilVIv
+#EXTINF:-1 tvg-id="1537608" group-title="🎾|Live Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?87307",16/08 02:00 AM | : Cincinnati Open (NL: ZIGGO SPORT 4 ᴿᴬᵂ ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=iMy95RNH0z
-#EXTINF:-1 tvg-id="1667463" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12234.png?83106",15/08 10:30 PM | Borussia Dortmund vs Roma (WOW: SKY SPORT BUNDESLIGA ᴴᴰ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1667463&extension=ts&play_token=kM0xwvcaEX
-#EXTINF:-1 tvg-id="380129" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: Sky Sport Bundesliga HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=380129&extension=ts&play_token=bbHZX5wShR
-#EXTINF:-1 tvg-id="479812" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: SKY SPORT BUNDESLIGA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479812&extension=ts&play_token=QLx7ipgEiI
-#EXTINF:-1 tvg-id="479814" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13751.png?ver=80180",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: SKY SPORT BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479814&extension=ts&play_token=3LcLxUcG3h
-#EXTINF:-1 tvg-id="984666" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/984666.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT BUNDESLIGA HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=984666&extension=ts&play_token=OLsgb8r5E4
-#EXTINF:-1 tvg-id="971682" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT BUNDESLIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=971682&extension=ts&play_token=sSZtXm6tzu
-#EXTINF:-1 tvg-id="1216673" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT BUNDESLIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1216673&extension=ts&play_token=GeKjAyopyX
-#EXTINF:-1 tvg-id="1216676" group-title="Live International Friendly" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT BUNDESLIGA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1216676&extension=ts&play_token=oOP5D27KBT
-#EXTINF:-1 tvg-id="1235696" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1235696.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT BUNDESLIGA FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235696&extension=ts&play_token=Se6K19qYio
-#EXTINF:-1 tvg-id="1235689" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1235689.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT BUNDESLIGA HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235689&extension=ts&play_token=nlfkYuD5vN
-#EXTINF:-1 tvg-id="340492" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6422.jpg?24831",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: SKY SPORT NEWS HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=340492&extension=ts&play_token=Yk2xiYbKtn
-#EXTINF:-1 tvg-id="479834" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?ver=68923",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: SKY SPORT NEWS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479834&extension=ts&play_token=tabr3umZA8
-#EXTINF:-1 tvg-id="889503" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/889503.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT NEWS HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=889503&extension=ts&play_token=X5ehAMaxS2
-#EXTINF:-1 tvg-id="411441" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/411441.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT NEWS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411441&extension=ts&play_token=6GkwIZVQMH
-#EXTINF:-1 tvg-id="411604" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/411604.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT NEWS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411604&extension=ts&play_token=zURJ8b75rO
-#EXTINF:-1 tvg-id="1235955" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1235955.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT NEWS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235955&extension=ts&play_token=PbtfmjOc2c
-#EXTINF:-1 tvg-id="1235948" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1235948.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT NEWS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235948&extension=ts&play_token=DYAkHbdxlr
-#EXTINF:-1 tvg-id="1667469" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12290.png?75483",15/08 10:30 PM | Borussia Dortmund vs Roma (WOW: SKY SPORT TOP EVENT ᴴᴰ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1667469&extension=ts&play_token=mO8VeLUIwd
-#EXTINF:-1 tvg-id="380130" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?10703",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: Sky Sport Top Event HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=380130&extension=ts&play_token=vpbpq1DUlh
-#EXTINF:-1 tvg-id="479828" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?ver=68923",15/08 10:30 PM | Borussia Dortmund vs Roma (DE: SKY SPORT TOP EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=479828&extension=ts&play_token=YANYMXA3ez
-#EXTINF:-1 tvg-id="984665" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/984665.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT TOP EVENT HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=984665&extension=ts&play_token=vm6h2YAf4e
-#EXTINF:-1 tvg-id="971771" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/971771.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE|  SKY SPORT TOP EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=971771&extension=ts&play_token=YY1XtnwICr
-#EXTINF:-1 tvg-id="1235941" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1235941.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT TOP EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235941&extension=ts&play_token=NYnKWFvjGw
-#EXTINF:-1 tvg-id="1235934" group-title="Live International Friendly" tvg-logo="http://103.176.90.92/images/1235934.png",15/08 10:30 PM | Borussia Dortmund vs Roma (DE| SKY SPORT TOP EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 98BBA36FFBAE4275FD2FAC12CF33982B
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235934&extension=ts&play_token=fFUwCH7H3Q
-#EXTINF:-1 tvg-id="1686907" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11128.jpg?87925",15/08 10:30 PM | Angers vs Paris FC (VIP: LIGUE 1+ 5 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686907&extension=ts&play_token=SORB5sDE0y
-#EXTINF:-1 tvg-id="1686849" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11128.jpg?87925",15/08 10:30 PM | Angers vs Paris FC (VIP: LIGUE 1+ 5 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686849&extension=ts&play_token=MZ3XMZDgU5
-#EXTINF:-1 tvg-id="1686906" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11128.jpg?87925",15/08 11:00 PM | Le Mans vs Le Havre (VIP: LIGUE 1+ 6 ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686906&extension=ts&play_token=fLjyzj5PyC
-#EXTINF:-1 tvg-id="1686848" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11128.jpg?87925",15/08 11:00 PM | Le Mans vs Le Havre (VIP: LIGUE 1+ 6 ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1686848&extension=ts&play_token=sxFqP83vDS
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1537608&extension=ts&play_token=wicz4C9MJg
 #EXTINF:-1 tvg-id="284704" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",16/08 12:30 AM | Inter Milan vs Real Betis (IT: SKY SPORT CALCIO UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284704&extension=ts&play_token=sAIk9dNtFc
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284704&extension=ts&play_token=EWKXzzmqU7
 #EXTINF:-1 tvg-id="284705" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258",16/08 12:30 AM | Inter Milan vs Real Betis (IT: SKY SPORT CALCIO 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284705&extension=ts&play_token=PXpM4pDrmx
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284705&extension=ts&play_token=TF8hwpDYhd
 #EXTINF:-1 tvg-id="284850" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?63357",16/08 12:30 AM | Inter Milan vs Real Betis (IT: SKY SPORT CALCIO HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284850&extension=ts&play_token=vXAFfjtjxY
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=284850&extension=ts&play_token=fSVcRPe870
 #EXTINF:-1 tvg-id="285232" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",16/08 12:30 AM | Inter Milan vs Real Betis (IT: SKY SPORT CALCIO 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285232&extension=ts&play_token=zrKVzh3itz
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285232&extension=ts&play_token=IelELvg3zD
 #EXTINF:-1 tvg-id="285233" group-title="Live International Friendly" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?22366",16/08 12:30 AM | Inter Milan vs Real Betis (IT: SKY SPORT CALCIO HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 45788FC16D78C0E297D6C759F5AE0E05
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285233&extension=ts&play_token=VegA0UNNmm
+#EXTVLCOPT:http-header=Authorization: Bearer A62FFEA74CBE568EF9745EFBCEC3B3F1
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=285233&extension=ts&play_token=HCKA4v8ijl
