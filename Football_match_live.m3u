@@ -1,361 +1,606 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1128624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",18/08 11:00 PM | HEIDENHEIM BAYERN MÜNCHEN (NO) 8K NO: VGTV 8
+#EXTINF:-1 tvg-id="1912592" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb vs. Viking | 8K CA: DAZN 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1128624&extension=ts&play_token=2mQ76DpAuR
-#EXTINF:-1 tvg-id="1128624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",18/08 11:00 PM | HEIDENHEIM BAYERN MÜNCHEN (NO) 8K NO: VGTV 8
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912592&extension=ts&play_token=GA2kKRfCvK
+#EXTINF:-1 tvg-id="1912592" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb vs. Viking | 8K CA: DAZN 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1128624&extension=ts&play_token=euQUuBAhCw
-#EXTINF:-1 tvg-id="1128624" group-title="🌍|Live International Friendly-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13844.png?ver=3041",18/08 11:00 PM | HEIDENHEIM BAYERN MÜNCHEN (NO) 8K NO: VGTV 8
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912592&extension=ts&play_token=ou97U8pcw7
+#EXTINF:-1 tvg-id="1910740" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | US (Paramount 002) GNK Dinamo vs. Viking ( :05)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1128624&extension=ts&play_token=TaCej3geZi
-#EXTINF:-1 tvg-id="1912580" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb vs. Viking | 8K CA: DAZN 23
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910740&extension=ts&play_token=rJhM4P7w7J
+#EXTINF:-1 tvg-id="1910700" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | US (Paramount 042) Viking vs. GNK Dinamo ( :15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910700&extension=ts&play_token=aBQ7joQhK5
+#EXTINF:-1 tvg-id="993059" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912580&extension=ts&play_token=dH6WJUpyEy
-#EXTINF:-1 tvg-id="1912580" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb vs. Viking | 8K CA: DAZN 23
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=993059&extension=ts&play_token=gCltTZ5oVJ
+#EXTINF:-1 tvg-id="993059" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912580&extension=ts&play_token=qdOJfx0WNM
-#EXTINF:-1 tvg-id="1912580" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb vs. Viking | 8K CA: DAZN 23
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=993059&extension=ts&play_token=S0XDVVgoS3
+#EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Champions League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912580&extension=ts&play_token=lK7CKizrSa
-#EXTINF:-1 tvg-id="1918850" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 27
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363054&extension=ts&play_token=G5fqC4q03v
+#EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Champions League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363997&extension=ts&play_token=p8PmEva0T2
+#EXTINF:-1 tvg-id="1918870" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918850&extension=ts&play_token=cQUvMy1ZGT
-#EXTINF:-1 tvg-id="1881215" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb Viking FK Play-offs (Hinspiel) | 8K DE: DAZN 21
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918870&extension=ts&play_token=trSXoUF3c3
+#EXTINF:-1 tvg-id="1881227" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb Viking FK Play-offs (Hinspiel) | 8K DE: DAZN 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881215&extension=ts&play_token=mKlRVyuzPe
-#EXTINF:-1 tvg-id="1810039" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (SE) 8K SE: VIAPLAY 8
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881227&extension=ts&play_token=HxstTspwhv
+#EXTINF:-1 tvg-id="1810043" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (SE) 8K SE: VIAPLAY 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810039&extension=ts&play_token=GhOkbXtshl
-#EXTINF:-1 tvg-id="1863209" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (DK) 8K DK: VIAPLAY 18
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810043&extension=ts&play_token=ef1URBb6aE
+#EXTINF:-1 tvg-id="1863220" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (DK) 8K DK: VIAPLAY 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863209&extension=ts&play_token=toWtF3Ntlc
-#EXTINF:-1 tvg-id="1008822" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE DINAMO ZAGREB VIKING (IS) 8K IS: VIAPLAY 4
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863220&extension=ts&play_token=iucDSMDrPc
+#EXTINF:-1 tvg-id="1008825" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE DINAMO ZAGREB VIKING (IS) 8K IS: VIAPLAY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008822&extension=ts&play_token=GriRXW5RnG
-#EXTINF:-1 tvg-id="1939925" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K CA: SOCCER 31
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008825&extension=ts&play_token=m1b5XsdutH
+#EXTINF:-1 tvg-id="1939950" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K CA: SOCCER 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939925&extension=ts&play_token=WdiZl5on1b
-#EXTINF:-1 tvg-id="1919063" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K BR: SOCCER 21
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939950&extension=ts&play_token=IOYDK3qPLm
+#EXTINF:-1 tvg-id="1940141" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K US: SOCCER 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919063&extension=ts&play_token=NMBRTxxzgx
-#EXTINF:-1 tvg-id="1939925" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K CA: SOCCER 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939925&extension=ts&play_token=S8SAXFqsC3
-#EXTINF:-1 tvg-id="1919063" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K BR: SOCCER 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919063&extension=ts&play_token=rEho7Tvcrt
-#EXTINF:-1 tvg-id="1918850" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918850&extension=ts&play_token=Ffmy9gLRu8
-#EXTINF:-1 tvg-id="1881215" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb Viking FK Play-offs (Hinspiel) | 8K DE: DAZN 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881215&extension=ts&play_token=Hy3UdbQkhP
-#EXTINF:-1 tvg-id="1810039" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (SE) 8K SE: VIAPLAY 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810039&extension=ts&play_token=oMaRqlIrnG
-#EXTINF:-1 tvg-id="1863209" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (DK) 8K DK: VIAPLAY 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863209&extension=ts&play_token=89LPPZlfcs
-#EXTINF:-1 tvg-id="1008822" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE DINAMO ZAGREB VIKING (IS) 8K IS: VIAPLAY 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008822&extension=ts&play_token=n9GL1FZaFR
-#EXTINF:-1 tvg-id="1939925" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K CA: SOCCER 31
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939925&extension=ts&play_token=1S8STEsSgt
-#EXTINF:-1 tvg-id="1919063" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K BR: SOCCER 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919063&extension=ts&play_token=ODCxE22Z2m
-#EXTINF:-1 tvg-id="1918850" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918850&extension=ts&play_token=7hoHZHLfBJ
-#EXTINF:-1 tvg-id="1881215" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb Viking FK Play-offs (Hinspiel) | 8K DE: DAZN 21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1881215&extension=ts&play_token=Et4aQOs814
-#EXTINF:-1 tvg-id="1810039" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (SE) 8K SE: VIAPLAY 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810039&extension=ts&play_token=dXT4OlHyMK
-#EXTINF:-1 tvg-id="1863209" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (DK) 8K DK: VIAPLAY 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863209&extension=ts&play_token=gkZTSGVfQl
-#EXTINF:-1 tvg-id="1008822" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE DINAMO ZAGREB VIKING (IS) 8K IS: VIAPLAY 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008822&extension=ts&play_token=QYIadLn194
-#EXTINF:-1 tvg-id="1912579" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia vs. AEK Athens | 8K CA: DAZN 24
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940141&extension=ts&play_token=evn9yCJFlj
+#EXTINF:-1 tvg-id="1025280" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912579&extension=ts&play_token=XnBLmULao0
-#EXTINF:-1 tvg-id="1912579" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia vs. AEK Athens | 8K CA: DAZN 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912579&extension=ts&play_token=5VnklYcY7s
-#EXTINF:-1 tvg-id="1912579" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia vs. AEK Athens | 8K CA: DAZN 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912579&extension=ts&play_token=e1mpnmlRXV
-#EXTINF:-1 tvg-id="1918852" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K DE: SOCCER 25
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1025280&extension=ts&play_token=DUblRkvz0Z
+#EXTINF:-1 tvg-id="1501736" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",19/08 02:00 AM | GNK Dinamo vs Viking @ :Paramount+ 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918852&extension=ts&play_token=AEslBFnjVM
-#EXTINF:-1 tvg-id="1881214" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia AEK Athen Play-offs (Hinspiel) | 8K DE: DAZN 22
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1501736&extension=ts&play_token=vRW6j3U3L9
+#EXTINF:-1 tvg-id="1919079" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K BR: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881214&extension=ts&play_token=qHYlUS0cFS
-#EXTINF:-1 tvg-id="1810038" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (SE) 8K SE: VIAPLAY 9
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919079&extension=ts&play_token=snEd5gNzHM
+#EXTINF:-1 tvg-id="1940141" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K US: SOCCER 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940141&extension=ts&play_token=XlJIRKgbZb
+#EXTINF:-1 tvg-id="1025280" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1025280&extension=ts&play_token=ODLzLrNlLC
+#EXTINF:-1 tvg-id="1501736" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",19/08 02:00 AM | GNK Dinamo vs Viking @ :Paramount+ 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1501736&extension=ts&play_token=gES7gvEOU4
+#EXTINF:-1 tvg-id="1939950" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K CA: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939950&extension=ts&play_token=m57bC3HX4F
+#EXTINF:-1 tvg-id="1919079" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K BR: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919079&extension=ts&play_token=HtgR4W8zag
+#EXTINF:-1 tvg-id="1918870" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918870&extension=ts&play_token=yiWeECWr9r
+#EXTINF:-1 tvg-id="1881227" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Dinamo Zagreb Viking FK Play-offs (Hinspiel) | 8K DE: DAZN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881227&extension=ts&play_token=xZFQpmBIeC
+#EXTINF:-1 tvg-id="1810043" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (SE) 8K SE: VIAPLAY 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810043&extension=ts&play_token=OHsIJcZNuN
+#EXTINF:-1 tvg-id="1863220" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | DINAMO ZAGREB VIKING (DK) 8K DK: VIAPLAY 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863220&extension=ts&play_token=OD45aMpqwz
+#EXTINF:-1 tvg-id="1008825" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE DINAMO ZAGREB VIKING (IS) 8K IS: VIAPLAY 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008825&extension=ts&play_token=jKOUWvIUSj
+#EXTINF:-1 tvg-id="2062114" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K US: SOCCER 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062114&extension=ts&play_token=2ltjToXk5h
+#EXTINF:-1 tvg-id="2106797" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | GNK Dinamo vs Viking @ :Paramount+ 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106797&extension=ts&play_token=9Iv90POdPm
+#EXTINF:-1 tvg-id="2062325" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Dinamo Zagreb vs. Viking FK all | 8K CA: SOCCER 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062325&extension=ts&play_token=qkIO9BSmwf
+#EXTINF:-1 tvg-id="2040516" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/08 02:00 AM | Dinamo Zagreb Viking FK Play-offs (Hinspiel) | 8K DE: DAZN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040516&extension=ts&play_token=QNG9wClCn2
+#EXTINF:-1 tvg-id="2055045" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055045&extension=ts&play_token=wYFqJJAcsB
+#EXTINF:-1 tvg-id="2055044" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Dinamo Zagreb vs. Viking all | 8K DE: SOCCER 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055044&extension=ts&play_token=qawUBWQm1U
+#EXTINF:-1 tvg-id="1702615" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Dinamo Zagreb vs Viking @ :Viaplay SE 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810038&extension=ts&play_token=qVIHvhjrDy
-#EXTINF:-1 tvg-id="1863208" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (DK) 8K DK: VIAPLAY 19
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702615&extension=ts&play_token=vLkZ9zEkgX
+#EXTINF:-1 tvg-id="1703067" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Dinamo Zagreb vs Viking @ :Viaplay DK 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863208&extension=ts&play_token=hA5rXsZtoG
-#EXTINF:-1 tvg-id="1008821" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE LEVSKI SOFIA AEK ATEN (IS) 8K IS: VIAPLAY 5
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703067&extension=ts&play_token=rGWIQqV8NC
+#EXTINF:-1 tvg-id="1702702" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",19/08 02:00 AM | Soccer: Dinamo Zagreb vs Viking @ :Tv2Play NO 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008821&extension=ts&play_token=WgnwQgSZQW
-#EXTINF:-1 tvg-id="1939927" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K CA: SOCCER 29
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702702&extension=ts&play_token=6Ujh2NVtJg
+#EXTINF:-1 tvg-id="1803786" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Dinamo Zagreb vs Viking @ :Viaplay IS 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939927&extension=ts&play_token=h39W54SuTz
-#EXTINF:-1 tvg-id="1919065" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K BR: SOCCER 19
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1803786&extension=ts&play_token=ruJpVw59z6
+#EXTINF:-1 tvg-id="1702615" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Dinamo Zagreb vs Viking @ :Viaplay SE 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702615&extension=ts&play_token=4E7xjTdJla
+#EXTINF:-1 tvg-id="1703067" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Dinamo Zagreb vs Viking @ :Viaplay DK 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1703067&extension=ts&play_token=pb6UWxympO
+#EXTINF:-1 tvg-id="1702702" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",19/08 02:00 AM | Soccer: Dinamo Zagreb vs Viking @ :Tv2Play NO 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702702&extension=ts&play_token=NbNCEerWhB
+#EXTINF:-1 tvg-id="1803786" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Dinamo Zagreb vs Viking @ :Viaplay IS 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1803786&extension=ts&play_token=qaHEZGpWFy
+#EXTINF:-1 tvg-id="1349314" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349314&extension=ts&play_token=YXIhUbRITX
+#EXTINF:-1 tvg-id="1363945" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | UEFA 01 Dinamo Zagreb vs Viking
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363945&extension=ts&play_token=GenfIo040F
+#EXTINF:-1 tvg-id="1996003" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",19/08 02:00 AM | Soccer: Dinamo Zagreb vs Viking @ :Tv2Play NO 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996003&extension=ts&play_token=tMPFVWlyZy
+#EXTINF:-1 tvg-id="1912591" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia vs. AEK Athens | 8K CA: DAZN 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919065&extension=ts&play_token=P0NasBvdzL
-#EXTINF:-1 tvg-id="1939927" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K CA: SOCCER 29
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912591&extension=ts&play_token=GQxPPBhay5
+#EXTINF:-1 tvg-id="1912591" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia vs. AEK Athens | 8K CA: DAZN 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939927&extension=ts&play_token=GiZHJ2XRkX
-#EXTINF:-1 tvg-id="1919065" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K BR: SOCCER 19
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912591&extension=ts&play_token=UvEwy4hRto
+#EXTINF:-1 tvg-id="1910741" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | US (Paramount 001) Levski Sofia vs. AEK Athens ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919065&extension=ts&play_token=kQksA2G7rj
-#EXTINF:-1 tvg-id="1918852" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K DE: SOCCER 25
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910741&extension=ts&play_token=qLAsX94An5
+#EXTINF:-1 tvg-id="1910701" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | US (Paramount 041) AEK Athens vs. Levski Sofia ( :10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918852&extension=ts&play_token=XTSsRKsRbQ
-#EXTINF:-1 tvg-id="1881214" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia AEK Athen Play-offs (Hinspiel) | 8K DE: DAZN 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881214&extension=ts&play_token=8Bfo9Opw6W
-#EXTINF:-1 tvg-id="1810038" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (SE) 8K SE: VIAPLAY 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810038&extension=ts&play_token=OYK3Uejk0f
-#EXTINF:-1 tvg-id="1863208" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (DK) 8K DK: VIAPLAY 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863208&extension=ts&play_token=VG0LVoloTh
-#EXTINF:-1 tvg-id="1008821" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE LEVSKI SOFIA AEK ATEN (IS) 8K IS: VIAPLAY 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008821&extension=ts&play_token=qSSchTiSDQ
-#EXTINF:-1 tvg-id="1939927" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K CA: SOCCER 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939927&extension=ts&play_token=oGoFJpX7zO
-#EXTINF:-1 tvg-id="1919065" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K BR: SOCCER 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919065&extension=ts&play_token=SKH0KRuk0s
-#EXTINF:-1 tvg-id="1918852" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K DE: SOCCER 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918852&extension=ts&play_token=peJDvbsBLr
-#EXTINF:-1 tvg-id="1881214" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia AEK Athen Play-offs (Hinspiel) | 8K DE: DAZN 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1881214&extension=ts&play_token=QB2PXFrTft
-#EXTINF:-1 tvg-id="1810038" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (SE) 8K SE: VIAPLAY 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810038&extension=ts&play_token=LFmDVJjcl4
-#EXTINF:-1 tvg-id="1863208" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (DK) 8K DK: VIAPLAY 19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863208&extension=ts&play_token=Cz8YrUIuoZ
-#EXTINF:-1 tvg-id="1008821" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE LEVSKI SOFIA AEK ATEN (IS) 8K IS: VIAPLAY 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1008821&extension=ts&play_token=Sz6OGQ2W4O
-#EXTINF:-1 tvg-id="1912581" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Lyon (in English and French) | 8K CA: DAZN 22
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910701&extension=ts&play_token=96EzDRcCBb
+#EXTINF:-1 tvg-id="1918872" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K DE: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912581&extension=ts&play_token=MtZsFAGFgW
-#EXTINF:-1 tvg-id="1899885" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Olympique Lyonnais (en Español) | 8K US: DAZN 17
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918872&extension=ts&play_token=MLoy7k5bxO
+#EXTINF:-1 tvg-id="1881226" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia AEK Athen Play-offs (Hinspiel) | 8K DE: DAZN 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899885&extension=ts&play_token=8se4dBBUgc
-#EXTINF:-1 tvg-id="1899885" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Olympique Lyonnais (en Español) | 8K US: DAZN 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899885&extension=ts&play_token=kmIV3leHhI
-#EXTINF:-1 tvg-id="1912581" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Lyon (in English and French) | 8K CA: DAZN 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912581&extension=ts&play_token=N9nskMhHUI
-#EXTINF:-1 tvg-id="1899885" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Olympique Lyonnais (en Español) | 8K US: DAZN 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1899885&extension=ts&play_token=citA7VNTtP
-#EXTINF:-1 tvg-id="1912581" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Lyon (in English and French) | 8K CA: DAZN 22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1912581&extension=ts&play_token=tJRx14jxOU
-#EXTINF:-1 tvg-id="1918853" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K DE: SOCCER 24
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1881226&extension=ts&play_token=sDEXpYoMh4
+#EXTINF:-1 tvg-id="1810042" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (SE) 8K SE: VIAPLAY 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918853&extension=ts&play_token=9bqji4pkc3
-#EXTINF:-1 tvg-id="1810040" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (SE) 8K SE: VIAPLAY 7
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810042&extension=ts&play_token=VUw474OSF2
+#EXTINF:-1 tvg-id="1863219" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (DK) 8K DK: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810040&extension=ts&play_token=0rOmjO1rSv
-#EXTINF:-1 tvg-id="1863210" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (DK) 8K DK: VIAPLAY 17
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863219&extension=ts&play_token=UYhG3kBTlf
+#EXTINF:-1 tvg-id="1008824" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE LEVSKI SOFIA AEK ATEN (IS) 8K IS: VIAPLAY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863210&extension=ts&play_token=cS0W7z43qf
-#EXTINF:-1 tvg-id="1939926" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K CA: SOCCER 30
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1008824&extension=ts&play_token=s7HocCZ1MW
+#EXTINF:-1 tvg-id="1939952" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K CA: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939926&extension=ts&play_token=Q9RueBqHTH
-#EXTINF:-1 tvg-id="1919064" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K BR: SOCCER 20
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939952&extension=ts&play_token=Z5HkDbAObj
+#EXTINF:-1 tvg-id="1940139" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K US: SOCCER 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3A68C27688604F042AD297BBFD792D2A
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919064&extension=ts&play_token=e4dtuJnREY
-#EXTINF:-1 tvg-id="1939926" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K CA: SOCCER 30
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940139&extension=ts&play_token=LpXHB733Nv
+#EXTINF:-1 tvg-id="1501737" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",19/08 02:00 AM | Levski Sofia vs AEK Athens @ :Paramount+ 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1501737&extension=ts&play_token=JE0smuTusF
+#EXTINF:-1 tvg-id="1919081" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K BR: SOCCER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919081&extension=ts&play_token=HCyJ1GdjPg
+#EXTINF:-1 tvg-id="1940139" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K US: SOCCER 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939926&extension=ts&play_token=uwFxUOEc4s
-#EXTINF:-1 tvg-id="1919064" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K BR: SOCCER 20
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940139&extension=ts&play_token=slqBtMoMoW
+#EXTINF:-1 tvg-id="1501737" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",19/08 02:00 AM | Levski Sofia vs AEK Athens @ :Paramount+ 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919064&extension=ts&play_token=OR2yitz0iy
-#EXTINF:-1 tvg-id="1918853" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K DE: SOCCER 24
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1501737&extension=ts&play_token=o2ZiPaNgW2
+#EXTINF:-1 tvg-id="1939952" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K CA: SOCCER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918853&extension=ts&play_token=bKGFy7tddr
-#EXTINF:-1 tvg-id="1810040" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (SE) 8K SE: VIAPLAY 7
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939952&extension=ts&play_token=3VDqOSO4cN
+#EXTINF:-1 tvg-id="1919081" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K BR: SOCCER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810040&extension=ts&play_token=HRrK9eW3X2
-#EXTINF:-1 tvg-id="1863210" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (DK) 8K DK: VIAPLAY 17
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919081&extension=ts&play_token=Yn7ArKwqvk
+#EXTINF:-1 tvg-id="1918872" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Levski vs. AEK Athens all | 8K DE: SOCCER 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9F56648EB54559F1839EB5875ACBA338
-http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863210&extension=ts&play_token=3UVh8Z7JY4
-#EXTINF:-1 tvg-id="1939926" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K CA: SOCCER 30
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918872&extension=ts&play_token=qETOJHvzAC
+#EXTINF:-1 tvg-id="1881226" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Levski Sofia AEK Athen Play-offs (Hinspiel) | 8K DE: DAZN 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1939926&extension=ts&play_token=XHHoLBVkGl
-#EXTINF:-1 tvg-id="1919064" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K BR: SOCCER 20
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1881226&extension=ts&play_token=05M93qFERN
+#EXTINF:-1 tvg-id="1810042" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (SE) 8K SE: VIAPLAY 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1919064&extension=ts&play_token=m6PUTxCXEb
-#EXTINF:-1 tvg-id="1918853" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K DE: SOCCER 24
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810042&extension=ts&play_token=sPmd8QNpX0
+#EXTINF:-1 tvg-id="1863219" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | LEVSKI SOFIA AEK ATEN (DK) 8K DK: VIAPLAY 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1918853&extension=ts&play_token=RHcYIDJDrl
-#EXTINF:-1 tvg-id="1810040" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (SE) 8K SE: VIAPLAY 7
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863219&extension=ts&play_token=xZxDek8FTI
+#EXTINF:-1 tvg-id="1008824" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | CHAMPIONS LEAGUE LEVSKI SOFIA AEK ATEN (IS) 8K IS: VIAPLAY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1810040&extension=ts&play_token=trPfeBjjKp
-#EXTINF:-1 tvg-id="1863210" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (DK) 8K DK: VIAPLAY 17
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1008824&extension=ts&play_token=IfzQyIUaf1
+#EXTINF:-1 tvg-id="2062112" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K US: SOCCER 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 504E076AAC64D4E58AA01AF332B6357F
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1863210&extension=ts&play_token=zqiPMMtwiD
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062112&extension=ts&play_token=yyIMWJlKZc
+#EXTINF:-1 tvg-id="2106798" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | Levski Sofia vs AEK Athens @ :Paramount+ 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106798&extension=ts&play_token=jmGGdmgHJA
+#EXTINF:-1 tvg-id="2062327" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Levski Sofia vs. AEK Athens all | 8K CA: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062327&extension=ts&play_token=aBvD0v61H2
+#EXTINF:-1 tvg-id="2040515" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/08 02:00 AM | Levski Sofia AEK Athen Play-offs (Hinspiel) | 8K DE: DAZN 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040515&extension=ts&play_token=D2zNl2mseb
+#EXTINF:-1 tvg-id="2055047" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Levski vs. AEK Athens all | 8K DE: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055047&extension=ts&play_token=K7NCfHDeKJ
+#EXTINF:-1 tvg-id="1702614" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay SE 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702614&extension=ts&play_token=WIe5olXy79
+#EXTINF:-1 tvg-id="1703066" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay DK 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703066&extension=ts&play_token=NkB7KxSgEn
+#EXTINF:-1 tvg-id="1702696" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",19/08 02:00 AM | Soccer: Levski Sofia vs AEK @ :Tv2Play NO 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702696&extension=ts&play_token=S0mfVa6uAl
+#EXTINF:-1 tvg-id="1803785" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay IS 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1803785&extension=ts&play_token=L3cIlkVraS
+#EXTINF:-1 tvg-id="1702614" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay SE 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702614&extension=ts&play_token=dgm4FxBrR8
+#EXTINF:-1 tvg-id="1703066" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay DK 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1703066&extension=ts&play_token=xHJIQ4pbyz
+#EXTINF:-1 tvg-id="1702696" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",19/08 02:00 AM | Soccer: Levski Sofia vs AEK @ :Tv2Play NO 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702696&extension=ts&play_token=nkMRTZ6ZmN
+#EXTINF:-1 tvg-id="1803785" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay IS 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1803785&extension=ts&play_token=Ap5omnicXP
+#EXTINF:-1 tvg-id="1349312" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | UEFA 03 -Levski Sofia vs Aek Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349312&extension=ts&play_token=pvzuqbpGWX
+#EXTINF:-1 tvg-id="1363943" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | UEFA 03 -Levski Sofia vs Aek Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363943&extension=ts&play_token=ASYdPLn4OL
+#EXTINF:-1 tvg-id="1995997" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",19/08 02:00 AM | Soccer: Levski Sofia vs AEK @ :Tv2Play NO 39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1995997&extension=ts&play_token=schU2hCGBx
+#EXTINF:-1 tvg-id="1996111" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",19/08 02:00 AM | Levski Sofia vs AEK Aten @ :Viaplay SE 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1996111&extension=ts&play_token=MBCppCYbFs
+#EXTINF:-1 tvg-id="1912593" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Lyon (in English and French) | 8K CA: DAZN 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1912593&extension=ts&play_token=B0pnIg73sV
+#EXTINF:-1 tvg-id="1899893" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Olympique Lyonnais (en Español) | 8K US: DAZN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1899893&extension=ts&play_token=VQh1LJ4oJw
+#EXTINF:-1 tvg-id="1899893" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Olympique Lyonnais (en Español) | 8K US: DAZN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1899893&extension=ts&play_token=80sLgCpTnx
+#EXTINF:-1 tvg-id="1912593" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",19/08 02:00 AM | Fenerbahçe vs. Lyon (in English and French) | 8K CA: DAZN 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1912593&extension=ts&play_token=XkCbhgfzvm
+#EXTINF:-1 tvg-id="2048819" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/08 02:00 AM | Fenerbahçe vs. Olympique Lyonnais (en Español) | 8K US: DAZN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048819&extension=ts&play_token=Ba6muo2MJH
+#EXTINF:-1 tvg-id="1910739" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | US (Paramount 003) Fenerbahçe vs. Lyon ( :10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910739&extension=ts&play_token=R38V7hWdef
+#EXTINF:-1 tvg-id="1910702" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | US (Paramount 040) Lyon vs. Fenerbahçe ( :05)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910702&extension=ts&play_token=Klysv7pLPb
+#EXTINF:-1 tvg-id="1918873" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K DE: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1918873&extension=ts&play_token=Z51RwV4OBe
+#EXTINF:-1 tvg-id="1810044" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (SE) 8K SE: VIAPLAY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1810044&extension=ts&play_token=C4LT4Bg8Jz
+#EXTINF:-1 tvg-id="1863221" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (DK) 8K DK: VIAPLAY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1863221&extension=ts&play_token=ZRP0CD7dcs
+#EXTINF:-1 tvg-id="1939951" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K CA: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1939951&extension=ts&play_token=kNarTCcAcI
+#EXTINF:-1 tvg-id="1940152" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K US: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940152&extension=ts&play_token=y4vZIOemq6
+#EXTINF:-1 tvg-id="1940149" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K US: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1940149&extension=ts&play_token=85VHJtu5V6
+#EXTINF:-1 tvg-id="1501735" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Paramount+ 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1501735&extension=ts&play_token=jvMx8eW0AM
+#EXTINF:-1 tvg-id="1919080" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K BR: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1919080&extension=ts&play_token=el7AZUlNo2
+#EXTINF:-1 tvg-id="1940152" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K US: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940152&extension=ts&play_token=8WhqzaSRE7
+#EXTINF:-1 tvg-id="1940149" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K US: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1940149&extension=ts&play_token=K5ZDy73ukD
+#EXTINF:-1 tvg-id="1501735" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Paramount+ 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1501735&extension=ts&play_token=eFlyacNEIq
+#EXTINF:-1 tvg-id="1939951" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K CA: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1939951&extension=ts&play_token=xAJOyXcFpJ
+#EXTINF:-1 tvg-id="1919080" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K BR: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1919080&extension=ts&play_token=zaXk6myWQp
+#EXTINF:-1 tvg-id="1918873" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K DE: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1918873&extension=ts&play_token=sUuo0oP47h
+#EXTINF:-1 tvg-id="1810044" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (SE) 8K SE: VIAPLAY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1810044&extension=ts&play_token=rNpMJ7D9EP
+#EXTINF:-1 tvg-id="1863221" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | FENERBAHÇE LYON (DK) 8K DK: VIAPLAY 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1863221&extension=ts&play_token=H7mWHbRqH0
+#EXTINF:-1 tvg-id="2062125" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K US: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062125&extension=ts&play_token=SW4GDiZMv5
+#EXTINF:-1 tvg-id="2062122" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K US: SOCCER 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062122&extension=ts&play_token=Tr6C7nDg0u
+#EXTINF:-1 tvg-id="2106796" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Paramount+ 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2106796&extension=ts&play_token=XjBcjHXcVw
+#EXTINF:-1 tvg-id="2062326" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K CA: SOCCER 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062326&extension=ts&play_token=hShicstiGB
+#EXTINF:-1 tvg-id="2055048" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | Fenerbahçe vs. Lyon all | 8K DE: SOCCER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055048&extension=ts&play_token=q7LmQODIUj
+#EXTINF:-1 tvg-id="1702616" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Viaplay SE 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702616&extension=ts&play_token=tPVvwChIqi
+#EXTINF:-1 tvg-id="1703068" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Viaplay DK 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1703068&extension=ts&play_token=ewc2ttaobu
+#EXTINF:-1 tvg-id="1702697" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",19/08 02:00 AM | Soccer: Fenerbahçe vs Lyon @ :Tv2Play NO 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3E9368E76D49FFD409F50BFDB769ABEC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1702697&extension=ts&play_token=RmwqBr2MsJ
+#EXTINF:-1 tvg-id="1702616" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Viaplay SE 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702616&extension=ts&play_token=WI16yrSKIY
+#EXTINF:-1 tvg-id="1703068" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12878.png?ver=93333",19/08 02:00 AM | Fenerbahçe vs Lyon @ :Viaplay DK 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1703068&extension=ts&play_token=i8yrobd4FW
+#EXTINF:-1 tvg-id="1702697" group-title="Live UEFA Champions League-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13735.png?ver=81838",19/08 02:00 AM | Soccer: Fenerbahçe vs Lyon @ :Tv2Play NO 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 17661DDDF6607CA9F72B357AE9AFDB8C
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1702697&extension=ts&play_token=jfYH60nCtf
+#EXTINF:-1 tvg-id="1349313" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | UEFA 02- Fenerbahce vs Lyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349313&extension=ts&play_token=WU9biePGQI
+#EXTINF:-1 tvg-id="1363944" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",19/08 02:00 AM | UEFA 02- Fenerbahce vs Lyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363944&extension=ts&play_token=wkK7WVdaBM
+#EXTINF:-1 tvg-id="1995998" group-title="Live UEFA Champions League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/2PLAY.png",19/08 02:00 AM | Soccer: Fenerbahçe vs Lyon @ :Tv2Play NO 38
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5B5039C676AE060ED5A6D30D61412BB9
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1995998&extension=ts&play_token=SOpNkgCbkQ
