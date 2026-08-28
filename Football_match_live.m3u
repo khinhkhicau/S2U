@@ -1,231 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2042037" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 11:45 PM | AS Monaco vs. Górnik Zabrze sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 9
+#EXTINF:-1 tvg-id="2062286" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K CA: SOCCER 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042037&extension=ts&play_token=puGnRmNl4j
-#EXTINF:-1 tvg-id="2042037" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",27/08 11:45 PM | AS Monaco vs. Górnik Zabrze sur Ligue 1+ UEFA Conference League | 8K FR: DAZN 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042037&extension=ts&play_token=dO4O9MKOGy
-#EXTINF:-1 tvg-id="2040513" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 12:00 AM | Kauno Zalgiris Besiktas (Sportdigital Fußball) UEFA Europa League | 8K DE: DAZN 12
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062286&extension=ts&play_token=0ZriMOs675
+#EXTINF:-1 tvg-id="2054999" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K DE: SOCCER 53
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040513&extension=ts&play_token=kP01QcIKqf
-#EXTINF:-1 tvg-id="2055020" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 12:00 AM | Kauno Žalgiris vs. Beşiktaş all | 8K DE: SOCCER 32
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054999&extension=ts&play_token=kbsYfVXWnG
+#EXTINF:-1 tvg-id="2072503" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:30 AM | Bayern München vs. Stuttgart all | 8K ES: SOCCER 50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2055020&extension=ts&play_token=nzy0uiIwKr
-#EXTINF:-1 tvg-id="2046795" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 12:00 AM | Kauno Zalgiris Besiktas (Sportdigital Fußball) UEFA Europa League | 8K CH: DAZN 10
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072503&extension=ts&play_token=iKwLoE2ECY
+#EXTINF:-1 tvg-id="1735547" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (NO) 8K NO: VIAPLAY 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046795&extension=ts&play_token=fMDpuZobst
-#EXTINF:-1 tvg-id="2040513" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 12:00 AM | Kauno Zalgiris Besiktas (Sportdigital Fußball) UEFA Europa League | 8K DE: DAZN 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040513&extension=ts&play_token=YwbfKzLFz4
-#EXTINF:-1 tvg-id="2055020" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 12:00 AM | Kauno Žalgiris vs. Beşiktaş all | 8K DE: SOCCER 32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055020&extension=ts&play_token=yAQsRr2CqW
-#EXTINF:-1 tvg-id="2046795" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 12:00 AM | Kauno Zalgiris Besiktas (Sportdigital Fußball) UEFA Europa League | 8K CH: DAZN 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046795&extension=ts&play_token=MDbjg76raX
-#EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",28/08 01:00 AM | UEFA 01 AEK Athens vs Levski Sofia
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735547&extension=ts&play_token=yTer4XpSBs
+#EXTINF:-1 tvg-id="1735546" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 01:30 AM | BUNDESLIGA BAYERN MÜNCHEN STUTTGART (TACTICAL FEED) (NO) 8K NO: VIAPLAY 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363054&extension=ts&play_token=8GAyGB597Z
-#EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",28/08 01:00 AM | UEFA 01 AEK Athens vs Levski Sofia
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735546&extension=ts&play_token=smSx5ac0TU
+#EXTINF:-1 tvg-id="2048898" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | Milan vs. Venezia Lega Serie A | 8K GB: DAZN 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363997&extension=ts&play_token=cbiKj5sApF
-#EXTINF:-1 tvg-id="1363054" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.95/images/1363054.png",28/08 01:00 AM | UEFA 01 AEK Athens vs Levski Sofia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363054&extension=ts&play_token=d61X5UtOf8
-#EXTINF:-1 tvg-id="1363997" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.95/images/1363997.png",28/08 01:00 AM | UEFA 01 AEK Athens vs Levski Sofia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1363997&extension=ts&play_token=77nxjs04R5
-#EXTINF:-1 tvg-id="1349314" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 01:00 AM | UEFA 01 AEK Athens vs Levski Sofia
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2048898&extension=ts&play_token=Yz5y8fESHF
+#EXTINF:-1 tvg-id="1910735" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",29/08 01:45 AM | US (Paramount 007) Milan vs. Venezia ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1349314&extension=ts&play_token=Qw79tyCW8W
-#EXTINF:-1 tvg-id="1363945" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 01:00 AM | UEFA 01 AEK Athens vs Levski Sofia
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1910735&extension=ts&play_token=2U1aMewhrs
+#EXTINF:-1 tvg-id="2113060" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K FR: SOCCER 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1363945&extension=ts&play_token=hAmjFOcWxG
-#EXTINF:-1 tvg-id="2058547" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 01:00 AM | Live AJAX VS FC SION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2058547&extension=ts&play_token=23sJf0chv4
-#EXTINF:-1 tvg-id="1949848" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",28/08 01:30 AM | US (ESPN+ 064) Soccer: Anderlecht vs. FC Kairat Almaty ( :05)
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113060&extension=ts&play_token=mAk0VRFmeB
+#EXTINF:-1 tvg-id="2042011" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",29/08 01:45 AM | AC Milan vs. Venezia Serie A Enilive | 8K FR: DAZN 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949848&extension=ts&play_token=i57KSOlptC
-#EXTINF:-1 tvg-id="2058102" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",28/08 01:30 AM | ANDERLECHT VS. FC KAIRAT ALMATY (UEFA EUROPA LEAGUE) (US) 8K US: ESPN+ 36
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2042011&extension=ts&play_token=vMO5i1qcuM
+#EXTINF:-1 tvg-id="2062288" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K CA: SOCCER 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2058102&extension=ts&play_token=W6TPYMP6uS
-#EXTINF:-1 tvg-id="1675565" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",28/08 01:30 AM | BRIGHTON TROMSØ (NO) 8K NO: VGTV 6
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062288&extension=ts&play_token=gVBN6WwO3L
+#EXTINF:-1 tvg-id="2054975" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K DE: SOCCER 77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1675565&extension=ts&play_token=HkpeZt8WEj
-#EXTINF:-1 tvg-id="1675565" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGTV.png",28/08 01:30 AM | BRIGHTON TROMSØ (NO) 8K NO: VGTV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1675565&extension=ts&play_token=s4CgxpDvKV
-#EXTINF:-1 tvg-id="2134494" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",28/08 01:30 AM | Brighton Tromsø @ :VG 06
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054975&extension=ts&play_token=JmZlKTSlHM
+#EXTINF:-1 tvg-id="2072518" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 01:45 AM | Milan vs. Venezia all | 8K ES: SOCCER 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2134494&extension=ts&play_token=lDwHKYeyfK
-#EXTINF:-1 tvg-id="2134494" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png",28/08 01:30 AM | Brighton Tromsø @ :VG 06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2134494&extension=ts&play_token=OF9bvavDW4
-#EXTINF:-1 tvg-id="1949847" group-title="Live UEFA Conference League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",28/08 01:45 AM | US (ESPN+ 065) Soccer: HNK Rijeka vs. Midtjylland ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072518&extension=ts&play_token=hrt7V3NL8U
+#EXTINF:-1 tvg-id="1909964" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png",29/08 02:00 AM | AU (STAN 12) Crystal Palace v Manchester City Matchweek 2 2026/2027 ( :29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1949847&extension=ts&play_token=SymhoJ5TWU
-#EXTINF:-1 tvg-id="2058101" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png",28/08 02:00 AM | EN ESPAÑOL-FC BARCELONA VS. ATHLETIC CLUB (JORNADA 1) (US) 8K US: ESPN+ 37
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909964&extension=ts&play_token=RIaYt5qOcY
+#EXTINF:-1 tvg-id="2062293" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K CA: SOCCER 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2058101&extension=ts&play_token=d0ByJQyO3K
-#EXTINF:-1 tvg-id="1909857" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TSNplus.png",28/08 02:00 AM | CA (TSN+ 013) : Barcelona vs. Athletic Club ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062293&extension=ts&play_token=1B7EeTFNT1
+#EXTINF:-1 tvg-id="2054993" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K DE: SOCCER 59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1909857&extension=ts&play_token=k3DqFiYEty
-#EXTINF:-1 tvg-id="2113107" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | Barcelona vs. Athletic Club all | 8K FR: SOCCER 4
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2054993&extension=ts&play_token=gFknIweFFg
+#EXTINF:-1 tvg-id="2072517" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",29/08 02:00 AM | Palace vs. Manchester City all | 8K ES: SOCCER 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2113107&extension=ts&play_token=B1mcUywqam
-#EXTINF:-1 tvg-id="2062328" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | End Barcelona vs. Athletic Club all | 8K CA: SOCCER 3
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072517&extension=ts&play_token=YhGwuXGeYe
+#EXTINF:-1 tvg-id="1735550" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",29/08 02:00 AM | CRYSTAL PALACE MAN CITY (NO) 8K NO: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2062328&extension=ts&play_token=A7HxIwZ3oV
-#EXTINF:-1 tvg-id="2040509" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 02:00 AM | FC Barcelona Bilbao | 8K DE: DAZN 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040509&extension=ts&play_token=OqMfZPbH45
-#EXTINF:-1 tvg-id="2046693" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 02:00 AM | FC Barcelona Bilbao | 8K AT: DAZN 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2046693&extension=ts&play_token=9fEV0lM1oM
-#EXTINF:-1 tvg-id="2072551" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | Barcelona vs. Athletic Club all | 8K ES: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072551&extension=ts&play_token=XKAmahoK7t
-#EXTINF:-1 tvg-id="2072543" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | Barcelona vs. Athletic Club all | 8K ES: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2072543&extension=ts&play_token=akfLjDNbnZ
-#EXTINF:-1 tvg-id="2040717" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 02:00 AM | FC Barcelona Athletic Club | 8K ES: DAZN 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2040717&extension=ts&play_token=Ytnx6bMA2V
-#EXTINF:-1 tvg-id="1605786" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",28/08 02:00 AM | BARCELONA – ATHLETIC (NO) 8K NO: TV2 PLAY 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1605786&extension=ts&play_token=avSc2kbIhw
-#EXTINF:-1 tvg-id="1735568" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",28/08 02:00 AM | BARCELONA ATHLETIC CLUB (NO) 8K NO: VIAPLAY 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735568&extension=ts&play_token=IBs0zDTOh2
-#EXTINF:-1 tvg-id="2040509" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 02:00 AM | FC Barcelona Bilbao | 8K DE: DAZN 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040509&extension=ts&play_token=vdAg9gZ8BS
-#EXTINF:-1 tvg-id="2046693" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 02:00 AM | FC Barcelona Bilbao | 8K AT: DAZN 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046693&extension=ts&play_token=rkon8P6aTl
-#EXTINF:-1 tvg-id="2113107" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | Barcelona vs. Athletic Club all | 8K FR: SOCCER 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113107&extension=ts&play_token=xUdmYiVPbK
-#EXTINF:-1 tvg-id="2072551" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | Barcelona vs. Athletic Club all | 8K ES: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072551&extension=ts&play_token=FcFCjbbNuN
-#EXTINF:-1 tvg-id="2072543" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",28/08 02:00 AM | Barcelona vs. Athletic Club all | 8K ES: SOCCER 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072543&extension=ts&play_token=su8qbG7lb6
-#EXTINF:-1 tvg-id="2040717" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",28/08 02:00 AM | FC Barcelona Athletic Club | 8K ES: DAZN 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040717&extension=ts&play_token=GfjxlEGMIA
-#EXTINF:-1 tvg-id="2021231" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",28/08 02:00 AM | BARCELONA ATHLETIC CLUB (SE) 8K SE: PLAY+ 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021231&extension=ts&play_token=l5ffJAcWOB
-#EXTINF:-1 tvg-id="1688638" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",28/08 02:00 AM | BARCELONA ATHLETIC CLUB (SE) 8K SE: DISNEY+ 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688638&extension=ts&play_token=N4hX8OKkKK
-#EXTINF:-1 tvg-id="1605786" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",28/08 02:00 AM | BARCELONA – ATHLETIC (NO) 8K NO: TV2 PLAY 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605786&extension=ts&play_token=qUAPyzs7N4
-#EXTINF:-1 tvg-id="1735568" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",28/08 02:00 AM | BARCELONA ATHLETIC CLUB (NO) 8K NO: VIAPLAY 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735568&extension=ts&play_token=T1IAAFgv4c
-#EXTINF:-1 tvg-id="2026533" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",28/08 02:00 AM | Fútbol: FC Barcelona vs Athletic Club @ :MAX ES 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A6DB80EC57FEDEDF037BE93E02981B46
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=2026533&extension=ts&play_token=KsN8WcSu9x
-#EXTINF:-1 tvg-id="2026533" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/MAX-MAX.png",28/08 02:00 AM | Fútbol: FC Barcelona vs Athletic Club @ :MAX ES 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026533&extension=ts&play_token=tfT6yeXHZB
-#EXTINF:-1 tvg-id="1991523" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",28/08 02:00 AM | Barcelona vs Athletic Club @ :TeliaPlay SE 17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0D08FE97227D0D4532AC05001FD21284
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991523&extension=ts&play_token=nbDQq3bUK3
+#EXTVLCOPT:http-header=Authorization: Bearer 6B3BA74442550399173868E1688CDDEF
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1735550&extension=ts&play_token=KWzrBb4P1v
