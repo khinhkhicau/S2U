@@ -1,91 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="830068" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",10/09 11:45 PM | UEFA 01- Fenerbahce vs Roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0CE7C8E7DE9340872371B7C63F7693EB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830068&extension=ts&play_token=569mAbVn4P
-#EXTINF:-1 tvg-id="830068" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",10/09 11:45 PM | UEFA 01- Fenerbahce vs Roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5CD70C8AC6B89146807473D37846FCAA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830068&extension=ts&play_token=eyrlZPSWaJ
-#EXTINF:-1 tvg-id="830068" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",10/09 11:45 PM | UEFA 01- Fenerbahce vs Roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4EF8203ACDF5AC1DBBC99D6C8E0F232B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830068&extension=ts&play_token=HKFWTj1m01
 #EXTINF:-1 tvg-id="830063" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 06 Manchester United vs Sabah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0CE7C8E7DE9340872371B7C63F7693EB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830063&extension=ts&play_token=dd3IurWf0u
+#EXTVLCOPT:http-header=Authorization: Bearer 3F913496FDEF278F91BABB8FFC5450B3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830063&extension=ts&play_token=IWtzmLoptR
 #EXTINF:-1 tvg-id="830063" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 06 Manchester United vs Sabah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5CD70C8AC6B89146807473D37846FCAA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830063&extension=ts&play_token=dJ13usdRqz
+#EXTVLCOPT:http-header=Authorization: Bearer 53A94B89345C933CB68259FAC08B8B0C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830063&extension=ts&play_token=wkJMQiT3NP
 #EXTINF:-1 tvg-id="830063" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 06 Manchester United vs Sabah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4EF8203ACDF5AC1DBBC99D6C8E0F232B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830063&extension=ts&play_token=FIq95V5pXk
+#EXTVLCOPT:http-header=Authorization: Bearer 1AE2E38B30206D7FB057F359CA060EB9
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830063&extension=ts&play_token=BxuFPTuU16
 #EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 05 Como vs Rb leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0CE7C8E7DE9340872371B7C63F7693EB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=K56xqQ2uco
+#EXTVLCOPT:http-header=Authorization: Bearer 3F913496FDEF278F91BABB8FFC5450B3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=kakNBCW50s
 #EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 05 Como vs Rb leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5CD70C8AC6B89146807473D37846FCAA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830064&extension=ts&play_token=kffMZOiO5h
+#EXTVLCOPT:http-header=Authorization: Bearer 53A94B89345C933CB68259FAC08B8B0C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830064&extension=ts&play_token=1FID5xiKuE
 #EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 05 Como vs Rb leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4EF8203ACDF5AC1DBBC99D6C8E0F232B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=wrPv2TFE1R
+#EXTVLCOPT:http-header=Authorization: Bearer 1AE2E38B30206D7FB057F359CA060EB9
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=fgcQnQYaXX
 #EXTINF:-1 tvg-id="830062" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 07 Slavia Prague vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0CE7C8E7DE9340872371B7C63F7693EB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830062&extension=ts&play_token=1iHSzSJONS
+#EXTVLCOPT:http-header=Authorization: Bearer 3F913496FDEF278F91BABB8FFC5450B3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830062&extension=ts&play_token=NfHUfkCIlp
 #EXTINF:-1 tvg-id="830062" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 07 Slavia Prague vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5CD70C8AC6B89146807473D37846FCAA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830062&extension=ts&play_token=S1ARE0pKvs
+#EXTVLCOPT:http-header=Authorization: Bearer 53A94B89345C933CB68259FAC08B8B0C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830062&extension=ts&play_token=xFje1ULiZq
 #EXTINF:-1 tvg-id="830062" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 07 Slavia Prague vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4EF8203ACDF5AC1DBBC99D6C8E0F232B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830062&extension=ts&play_token=rsYdj3FVHz
+#EXTVLCOPT:http-header=Authorization: Bearer 1AE2E38B30206D7FB057F359CA060EB9
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830062&extension=ts&play_token=sWcsqt0JaT
 #EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 04 Bayern Munich vs Bodo/ Glimt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0CE7C8E7DE9340872371B7C63F7693EB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830065&extension=ts&play_token=vZCaZbfRC4
+#EXTVLCOPT:http-header=Authorization: Bearer 3F913496FDEF278F91BABB8FFC5450B3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830065&extension=ts&play_token=su436MRUJP
 #EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 04 Bayern Munich vs Bodo/ Glimt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5CD70C8AC6B89146807473D37846FCAA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830065&extension=ts&play_token=JGZcNBNlD4
+#EXTVLCOPT:http-header=Authorization: Bearer 53A94B89345C933CB68259FAC08B8B0C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830065&extension=ts&play_token=hqyK23MbQK
 #EXTINF:-1 tvg-id="830065" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 04 Bayern Munich vs Bodo/ Glimt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4EF8203ACDF5AC1DBBC99D6C8E0F232B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830065&extension=ts&play_token=Velz8RaD0n
+#EXTVLCOPT:http-header=Authorization: Bearer 1AE2E38B30206D7FB057F359CA060EB9
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830065&extension=ts&play_token=IG7byl7Y7N
 #EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 05 Como vs Rb leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 0CE7C8E7DE9340872371B7C63F7693EB
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=K56xqQ2uco
+#EXTVLCOPT:http-header=Authorization: Bearer 3F913496FDEF278F91BABB8FFC5450B3
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=kakNBCW50s
 #EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 05 Como vs Rb leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5CD70C8AC6B89146807473D37846FCAA
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830064&extension=ts&play_token=kffMZOiO5h
+#EXTVLCOPT:http-header=Authorization: Bearer 53A94B89345C933CB68259FAC08B8B0C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830064&extension=ts&play_token=1FID5xiKuE
 #EXTINF:-1 tvg-id="830064" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",11/09 02:00 AM | UEFA 05 Como vs Rb leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4EF8203ACDF5AC1DBBC99D6C8E0F232B
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=wrPv2TFE1R
+#EXTVLCOPT:http-header=Authorization: Bearer 1AE2E38B30206D7FB057F359CA060EB9
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=fgcQnQYaXX
