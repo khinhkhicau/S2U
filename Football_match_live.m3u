@@ -1,66 +1,186 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2055032" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 02:30 AM | Barcelona vs. Santander all | 8K DE: SOCCER 20
+#EXTINF:-1 tvg-id="2054978" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 11:45 PM | OFI FC vs. TSG 1899 Hoffenheim all | 8K DE: SOCCER 74
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055032&extension=ts&play_token=a4C5E6XTFa
-#EXTINF:-1 tvg-id="2113100" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 02:30 AM | Barcelona vs. Santander all | 8K FR: SOCCER 11
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054978&extension=ts&play_token=1YMt6FHnqQ
+#EXTINF:-1 tvg-id="2046562" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",17/09 11:45 PM | Crete FC x Hoffenheim UEFA Europa League | 8K PT: DAZN 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2113100&extension=ts&play_token=9V6GqzR9Hg
-#EXTINF:-1 tvg-id="2072511" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 02:30 AM | Barcelona vs. Santander all | 8K ES: SOCCER 42
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046562&extension=ts&play_token=77gKY4fMGI
+#EXTINF:-1 tvg-id="1735539" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",17/09 11:45 PM | UEFA EUROPA LEAGUE OFI HOFFENHEIM (NO) 8K NO: VIAPLAY 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072511&extension=ts&play_token=H8VPPtr8zB
-#EXTINF:-1 tvg-id="2145349" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182",17/09 02:30 AM | FC Barcelona R. Racing Club | 8K ES: DAZN 12
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735539&extension=ts&play_token=G3FC0rLvuW
+#EXTINF:-1 tvg-id="2054976" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 11:45 PM | Levski Sofia vs. Salzburg all | 8K DE: SOCCER 76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2145349&extension=ts&play_token=aHKvyoj6A0
-#EXTINF:-1 tvg-id="2046581" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",17/09 02:30 AM | Barcelona x Santander | 8K PT: DAZN 24
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054976&extension=ts&play_token=WYhraFdcDJ
+#EXTINF:-1 tvg-id="2046561" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",17/09 11:45 PM | Levski Sofia x Salzburg UEFA Europa League | 8K PT: DAZN 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046581&extension=ts&play_token=DIDM44Y0ZY
-#EXTINF:-1 tvg-id="2021219" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",17/09 02:30 AM | BARCELONA RACING DE SANTANDER (SE) 8K SE: PLAY+ 29
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046561&extension=ts&play_token=bxWb19ZXhx
+#EXTINF:-1 tvg-id="1735540" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",17/09 11:45 PM | UEFA EUROPA LEAGUE LEVSKI SOFIA SALZBURG (NO) 8K NO: VIAPLAY 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021219&extension=ts&play_token=Jq7it8OXhR
-#EXTINF:-1 tvg-id="1688627" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",17/09 02:30 AM | BARCELONA RACING DE SANTANDER (SE) 8K SE: DISNEY+ 13
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735540&extension=ts&play_token=YAgCoJtm9M
+#EXTINF:-1 tvg-id="2054978" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 11:45 PM | OFI FC vs. TSG 1899 Hoffenheim all | 8K DE: SOCCER 74
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688627&extension=ts&play_token=6ilNESUgIv
-#EXTINF:-1 tvg-id="1934523" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",17/09 02:30 AM | R06: BARCELONA RACING DE SANTANDER DK (DK) 8K DK: DISNEY+ 13
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054978&extension=ts&play_token=1YMt6FHnqQ
+#EXTINF:-1 tvg-id="1735539" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",17/09 11:45 PM | UEFA EUROPA LEAGUE OFI HOFFENHEIM (NO) 8K NO: VIAPLAY 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1934523&extension=ts&play_token=tAlAy4Vgad
-#EXTINF:-1 tvg-id="1605768" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",17/09 02:30 AM | BARCELONA – RACING (NO) 8K NO: TV2 PLAY 24
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735539&extension=ts&play_token=G3FC0rLvuW
+#EXTINF:-1 tvg-id="2054976" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",17/09 11:45 PM | Levski Sofia vs. Salzburg all | 8K DE: SOCCER 76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605768&extension=ts&play_token=ZoaQb5CQ7z
-#EXTINF:-1 tvg-id="1735549" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",17/09 02:30 AM | BARCELONA RACING (NO) 8K NO: VIAPLAY 29
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054976&extension=ts&play_token=WYhraFdcDJ
+#EXTINF:-1 tvg-id="2046561" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",17/09 11:45 PM | Levski Sofia x Salzburg UEFA Europa League | 8K PT: DAZN 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735549&extension=ts&play_token=qhz3fmWU85
-#EXTINF:-1 tvg-id="1991513" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png",17/09 02:30 AM | Barcelona vs Racing de Santander @ :TeliaPlay SE 27
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046561&extension=ts&play_token=bxWb19ZXhx
+#EXTINF:-1 tvg-id="1735540" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",17/09 11:45 PM | UEFA EUROPA LEAGUE LEVSKI SOFIA SALZBURG (NO) 8K NO: VIAPLAY 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1991513&extension=ts&play_token=zT15TIJJCY
-#EXTINF:-1 tvg-id="2026406" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",17/09 02:30 AM | Barcelona vs Racing de Santander @ :Disney+ SE 14
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735540&extension=ts&play_token=YAgCoJtm9M
+#EXTINF:-1 tvg-id="2054970" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",18/09 02:00 AM | Real Sociedad de Fútbol vs. Bournemouth all | 8K DE: SOCCER 82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026406&extension=ts&play_token=Y2lneyQOIH
-#EXTINF:-1 tvg-id="1996086" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",17/09 02:30 AM | Barcelona vs Racing @ :Viaplay NO 30
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054970&extension=ts&play_token=jIII5EQdqv
+#EXTINF:-1 tvg-id="1689682" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.92/images/1689682.png",18/09 02:00 AM | REAL SAN SEBASTIAN AFC BOURNEMOUTH (DE) 8K DE: RTL+ 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F383B7362E6DC8ECC7ABC2034986F4A7
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996086&extension=ts&play_token=MXc8v4bA0t
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1689682&extension=ts&play_token=5YUzLVDVF3
+#EXTINF:-1 tvg-id="1992995" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/ViX.png",18/09 02:00 AM | REAL SOCIEDAD VS. BOURNEMOUTH (ES) 8K ES: VIX 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1992995&extension=ts&play_token=I4rMxhgVND
+#EXTINF:-1 tvg-id="2046553" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Real Sociedad x Bournemouth UEFA Europa League | 8K PT: DAZN 52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046553&extension=ts&play_token=0ctHrTqEuH
+#EXTINF:-1 tvg-id="2021200" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",18/09 02:00 AM | REAL SOCIEDAD BOURNEMOUTH (SE) 8K SE: PLAY+ 48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021200&extension=ts&play_token=aoeXvIEVEt
+#EXTINF:-1 tvg-id="1688622" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",18/09 02:00 AM | REAL SOCIEDAD BOURNEMOUTH (SE) 8K SE: DISNEY+ 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688622&extension=ts&play_token=85pUviBS0Q
+#EXTINF:-1 tvg-id="2046557" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Plzeň x St. Gilloise UEFA Europa League | 8K PT: DAZN 48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046557&extension=ts&play_token=gJeCHWSAl5
+#EXTINF:-1 tvg-id="2054968" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",18/09 02:00 AM | Crystal Palace vs. Poznań all | 8K DE: SOCCER 84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054968&extension=ts&play_token=pztD79BCqM
+#EXTINF:-1 tvg-id="1689679" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.92/images/1689679.png",18/09 02:00 AM | CRYSTAL PALACE LECH POSEN (DE) 8K DE: RTL+ 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1689679&extension=ts&play_token=Y73TQVKuPY
+#EXTINF:-1 tvg-id="2046556" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Crystal Palace x Lech Poznań UEFA Europa League | 8K PT: DAZN 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046556&extension=ts&play_token=vf02YNTM7M
+#EXTINF:-1 tvg-id="2021204" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PLAYPLUS.png",18/09 02:00 AM | CRYSTAL PALACE LECH POZNAŃ (SE) 8K SE: PLAY+ 44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2021204&extension=ts&play_token=2xYDjLo7ts
+#EXTINF:-1 tvg-id="1688621" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",18/09 02:00 AM | CRYSTAL PALACE LECH POZNAŃ (SE) 8K SE: DISNEY+ 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1688621&extension=ts&play_token=CBXowfaC6q
+#EXTINF:-1 tvg-id="1934515" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png",18/09 02:00 AM | LEAGUE STAGE: CRYSTAL PALACE LECH POZNAŃ DK (DK) 8K DK: DISNEY+ 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1934515&extension=ts&play_token=y4uUcHPVcI
+#EXTINF:-1 tvg-id="1605742" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/TV2PLAY.png",18/09 02:00 AM | CRYSTAL PALACE LECH POZNAŃ (NO) 8K NO: TV2 PLAY 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1605742&extension=ts&play_token=iMte46kxnc
+#EXTINF:-1 tvg-id="2054967" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",18/09 02:00 AM | Celtic vs. Ferencváros all | 8K DE: SOCCER 85
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054967&extension=ts&play_token=UW5ShHkJKb
+#EXTINF:-1 tvg-id="2046555" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Celtic x Ferencváros UEFA Europa League | 8K PT: DAZN 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046555&extension=ts&play_token=DhHLRoP2x1
+#EXTINF:-1 tvg-id="2054971" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",18/09 02:00 AM | Juventus vs. NEC all | 8K DE: SOCCER 81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054971&extension=ts&play_token=0UGPGyVA6V
+#EXTINF:-1 tvg-id="2046558" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Juventus x NEC UEFA Europa League | 8K PT: DAZN 47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046558&extension=ts&play_token=EqX0bVN54Q
+#EXTINF:-1 tvg-id="2054969" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",18/09 02:00 AM | Beşiktaş vs. Marseille all | 8K DE: SOCCER 83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054969&extension=ts&play_token=xaNKa6iWA0
+#EXTINF:-1 tvg-id="1689683" group-title="Live UEFA Europa League-Match" tvg-logo="http://103.176.90.92/images/1689683.png",18/09 02:00 AM | BESIKTAS ISTANBUL OLYMPIQUE MARSEILLE (DE) 8K DE: RTL+ 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1689683&extension=ts&play_token=4HVdPIH5rY
+#EXTINF:-1 tvg-id="2046554" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Besiktas x Marseille UEFA Europa League | 8K PT: DAZN 51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046554&extension=ts&play_token=orAiHDAqe4
+#EXTINF:-1 tvg-id="2046559" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Lillestrøm SK x SCU Torreense UEFA Europa League | 8K PT: DAZN 46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046559&extension=ts&play_token=wPvD7FRosO
+#EXTINF:-1 tvg-id="1735532" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png",18/09 02:00 AM | UEFA EUROPA LEAGUE LILLESTRØM TORREENSE (NO) 8K NO: VIAPLAY 46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735532&extension=ts&play_token=tG2ypav1HP
+#EXTINF:-1 tvg-id="2054967" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png",18/09 02:00 AM | Celtic vs. Ferencváros all | 8K DE: SOCCER 85
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054967&extension=ts&play_token=UW5ShHkJKb
+#EXTINF:-1 tvg-id="2046555" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Celtic x Ferencváros UEFA Europa League | 8K PT: DAZN 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046555&extension=ts&play_token=DhHLRoP2x1
+#EXTINF:-1 tvg-id="2046559" group-title="Live UEFA Europa League-Match" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",18/09 02:00 AM | Lillestrøm SK x SCU Torreense UEFA Europa League | 8K PT: DAZN 46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5D5C87124669430CF4C3007D1D1E8DF6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2046559&extension=ts&play_token=wPvD7FRosO
