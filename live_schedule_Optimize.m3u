@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png",19/09 06:00 AM | Guadalajara Open presentado por Santander -SF(1-2) (UK| NOW HK NOW SPORTS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032476&extension=ts&play_token=JWEaGlAZIa
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",19/09 06:00 AM | Guadalajara Open presentado por Santander -SF(1-2) (┃HK┃ NOW SPORTS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=IHQjpkaDVJ
+#EXTINF:-1 tvg-id="438871" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png",19/09 06:00 AM | Guadalajara Open presentado por Santander -SF(1-2) (SPORTS - NOW HK NOW SPORTS 4 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438871
 #EXTINF:-1 tvg-id="1905838" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UK/1905838.png",18/09 11:00 PM | ATP Tennis (UK-NOWTV| SKY SPORTS TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -69,7 +84,7 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394549&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312186&extension=ts&play_token=xcpK5EuhLv
-#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (UK| BEIN SPORTS 7 HD)
+#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png",18/09 11:00 PM |  (UK| BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
@@ -159,106 +174,71 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167175&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167174&extension=ts&play_token=rYcBvXrjnA
-#EXTINF:-1 tvg-id="986979" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 4K)
+#EXTINF:-1 tvg-id="986979" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986979
-#EXTINF:-1 tvg-id="551278" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 FHD)
+#EXTINF:-1 tvg-id="551278" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/551278
-#EXTINF:-1 tvg-id="551247" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 HD)
+#EXTINF:-1 tvg-id="551247" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/551247
-#EXTINF:-1 tvg-id="986964" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 4K)
+#EXTINF:-1 tvg-id="986964" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986964
-#EXTINF:-1 tvg-id="552076" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 FHD)
+#EXTINF:-1 tvg-id="552076" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/552076
-#EXTINF:-1 tvg-id="149619" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 HD)
+#EXTINF:-1 tvg-id="149619" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149619
-#EXTINF:-1 tvg-id="203891" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 4K)
+#EXTINF:-1 tvg-id="203891" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203891
-#EXTINF:-1 tvg-id="73357" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 FHD)
+#EXTINF:-1 tvg-id="73357" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/73357
-#EXTINF:-1 tvg-id="987000" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (AR - BEIN SPORTS 7 HD)
+#EXTINF:-1 tvg-id="987000" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",18/09 11:00 PM |  (AR - BEIN SPORTS 7 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
 http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987000
-#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (┃AR┃ BEIN SPORTS 7 UHD)
+#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/09 11:00 PM |  (┃AR┃ BEIN SPORTS 7 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798792&extension=ts&play_token=RQBKzUzGod
-#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (┃AR┃ BEIN SPORTS 7 HEVC)
+#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/09 11:00 PM |  (┃AR┃ BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798802&extension=ts&play_token=DR7XFfuXgx
-#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (┃AR┃ BEIN SPORTS 7 RAW)
+#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",18/09 11:00 PM |  (┃AR┃ BEIN SPORTS 7 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030242&extension=ts&play_token=9SsJ7DPTgi
-#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/09 07:30 AM | Peyton Stearns vs Sloane Stephens (┃AR┃ BEIN SPORTS 7)
+#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",18/09 11:00 PM |  (┃AR┃ BEIN SPORTS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242236&extension=ts&play_token=cJ10m5H6NY
-#EXTINF:-1 tvg-id="207964" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207964.png",18/09 07:00 AM | Tenis (RO|  DIGI SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207964&extension=ts&play_token=PwyzWwcPEy
-#EXTINF:-1 tvg-id="56116" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56116.png",18/09 07:00 AM | Tenis (RO| DIGI SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56116&extension=ts&play_token=Ty7P7Gr0lA
-#EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",18/09 07:00 AM | Tenis (┃RO┃ DIGI SPORT 4 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=nADvJazuQl
-#EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",18/09 07:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=HRmAF2fRXf
-#EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",18/09 07:00 AM | Tenis (┃RO┃ DIGI SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=d1RdKuoIzT
-#EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",18/09 07:00 AM | Tenis (┃RO┃ DIGI SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=I4e6n9gzll
-#EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",18/09 07:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=zMvqoddK8l
 #EXTINF:-1 tvg-id="238264" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (UK| BEIN SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -274,46 +254,6 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/78138
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=944686&extension=ts&play_token=fXkSfH9aSI
-#EXTINF:-1 tvg-id="56654" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR - BEIN SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56654
-#EXTINF:-1 tvg-id="56579" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR - BEIN SPORTS 2 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56579
-#EXTINF:-1 tvg-id="526125" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/france/526125.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR| BEIN SPORTS 2 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=526125&extension=ts&play_token=u0XAr21KE5
-#EXTINF:-1 tvg-id="506551" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/france/506551.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR| BEIN SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506551&extension=ts&play_token=N8ilDsad0C
-#EXTINF:-1 tvg-id="507385" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/france/507385.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR| BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507385&extension=ts&play_token=XKwStwN4xY
-#EXTINF:-1 tvg-id="941420" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃FR┃ BEIN SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941420&extension=ts&play_token=qnwnb2sNO0
-#EXTINF:-1 tvg-id="941421" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃FR┃ BEIN SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941421&extension=ts&play_token=tD251DkD3a
-#EXTINF:-1 tvg-id="941422" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃FR┃ BEIN SPORTS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941422&extension=ts&play_token=GSbPiYNLNV
 #EXTINF:-1 tvg-id="1138922" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/germany/sky-bundes.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (DE - SKY SPORT BUNDESLIGA 1 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -439,6 +379,21 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149303&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149314&extension=ts&play_token=a7kjfsLgds
+#EXTINF:-1 tvg-id="310" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃AL┃ TRING SPORT 3 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=310&extension=ts&play_token=BNcYzCfA1p
+#EXTINF:-1 tvg-id="1652485" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/TRING SPORT .png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃AL┃ TRING SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1652485&extension=ts&play_token=laj3OO0XyD
+#EXTINF:-1 tvg-id="319" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/TRING SPORT .png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃AL┃ TRING SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=319&extension=ts&play_token=2sGZY0FJoT
 #EXTINF:-1 tvg-id="1138918" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/germany/sky_topevent2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (DE - SKY SPORT TOP EVENT 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -489,21 +444,46 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149434&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149460&extension=ts&play_token=eqbiarTekn
-#EXTINF:-1 tvg-id="310" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/TRING.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃AL┃ TRING SPORT 3 HEVC)
+#EXTINF:-1 tvg-id="56654" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR - BEIN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56654
+#EXTINF:-1 tvg-id="56579" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/EUROPE/FRANCE/BEIN_SPORTS_2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR - BEIN SPORTS 2 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/56579
+#EXTINF:-1 tvg-id="526125" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/france/526125.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR| BEIN SPORTS 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=526125&extension=ts&play_token=u0XAr21KE5
+#EXTINF:-1 tvg-id="506551" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/france/506551.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR| BEIN SPORTS 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=506551&extension=ts&play_token=N8ilDsad0C
+#EXTINF:-1 tvg-id="507385" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://51.158.145.100/picons/logos/france/507385.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (FR| BEIN SPORTS 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=507385&extension=ts&play_token=XKwStwN4xY
+#EXTINF:-1 tvg-id="941420" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃FR┃ BEIN SPORTS 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=310&extension=ts&play_token=BNcYzCfA1p
-#EXTINF:-1 tvg-id="1652485" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/TRING SPORT .png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃AL┃ TRING SPORT 3 FHD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941420&extension=ts&play_token=qnwnb2sNO0
+#EXTINF:-1 tvg-id="941421" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃FR┃ BEIN SPORTS 2 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1652485&extension=ts&play_token=laj3OO0XyD
-#EXTINF:-1 tvg-id="319" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SPORT/TRING SPORT .png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃AL┃ TRING SPORT 3 HD)
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941421&extension=ts&play_token=tD251DkD3a
+#EXTINF:-1 tvg-id="941422" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR BEIN SPORTS/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (┃FR┃ BEIN SPORTS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=319&extension=ts&play_token=2sGZY0FJoT
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941422&extension=ts&play_token=GSbPiYNLNV
 #EXTINF:-1 tvg-id="39562" group-title="⚽️🇩🇪|Live Bundesliga" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png",19/09 01:30 AM | Bayern Munich vs Union Berlin (TR - BEIN SPORTS 2 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -804,16 +784,26 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314077&ext
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=809372&extension=ts&play_token=3qi10bIR9m
-#EXTINF:-1 tvg-id="961106" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/CANAL+ SPORT 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃CZ┃ CANAL+ SPORT 1 FHD)
+#EXTINF:-1 tvg-id="763969" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/FRANCE/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT - DAZN 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=961106&extension=ts&play_token=kcK5GAvini
-#EXTINF:-1 tvg-id="961122" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/CANAL+ SPORT 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃CZ┃ CANAL+ SPORT 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763969
+#EXTINF:-1 tvg-id="942694" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/FRANCE/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT - DAZN 1 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=961122&extension=ts&play_token=S41bgLZluS
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/942694
+#EXTINF:-1 tvg-id="107495" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT| DAZN 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107495&extension=ts&play_token=mIXQwjC7eG
+#EXTINF:-1 tvg-id="118459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT| DAZN 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118459&extension=ts&play_token=wxj2Bz2CO0
 #EXTINF:-1 tvg-id="1862038" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",19/09 02:00 AM | Brentford vs Chelsea (HR| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
@@ -829,6 +819,16 @@ http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110737&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1115&extension=ts&play_token=SuXoLBcEAH
+#EXTINF:-1 tvg-id="961106" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/CANAL+ SPORT 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃CZ┃ CANAL+ SPORT 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=961106&extension=ts&play_token=kcK5GAvini
+#EXTINF:-1 tvg-id="961122" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/CZECHREPUBLIC/SPORTOVNÍ/CANAL+ SPORT 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃CZ┃ CANAL+ SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=961122&extension=ts&play_token=S41bgLZluS
 #EXTINF:-1 tvg-id="1281430" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/VIP/4k_ultra.png",19/09 02:00 AM | Brentford vs Chelsea (VIP - SKY SPORTS MAIN EVENT 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -839,91 +839,6 @@ http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281430
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1608071&extension=ts&play_token=OxG9RoAsLs
-#EXTINF:-1 tvg-id="1023969" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1023969
-#EXTINF:-1 tvg-id="551241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/551241
-#EXTINF:-1 tvg-id="27898" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/27898
-#EXTINF:-1 tvg-id="977115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/977115
-#EXTINF:-1 tvg-id="552067" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/552067
-#EXTINF:-1 tvg-id="149613" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149613
-#EXTINF:-1 tvg-id="203885" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203885
-#EXTINF:-1 tvg-id="73354" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/73354
-#EXTINF:-1 tvg-id="986994" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986994
-#EXTINF:-1 tvg-id="334054" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FRENCH 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/334054
-#EXTINF:-1 tvg-id="211446" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FRENCH FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/211446
-#EXTINF:-1 tvg-id="987007" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FRENCH HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987007
-#EXTINF:-1 tvg-id="798772" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798772&extension=ts&play_token=IB1yLOd02i
-#EXTINF:-1 tvg-id="798795" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798795&extension=ts&play_token=qBX6Atv83t
-#EXTINF:-1 tvg-id="1030236" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030236&extension=ts&play_token=JTK709cPlt
-#EXTINF:-1 tvg-id="1030247" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1 FRANCE.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 FRANCE RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030247&extension=ts&play_token=RVjjbX5t4e
-#EXTINF:-1 tvg-id="242242" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242242&extension=ts&play_token=rfikcXoFpF
 #EXTINF:-1 tvg-id="39561" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png",19/09 02:00 AM | Brentford vs Chelsea (TR - BEIN SPORTS 3 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -964,51 +879,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988876&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988883&extension=ts&play_token=l8Q2eQoEow
-#EXTINF:-1 tvg-id="1283267" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VIAPLAY.png",19/09 02:00 AM | Brentford vs Chelsea (NL| VIAPLAY TV 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283267&extension=ts&play_token=EHdJfoU3I9
-#EXTINF:-1 tvg-id="1152824" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152824&extension=ts&play_token=cRxAYqslTn
-#EXTINF:-1 tvg-id="1157577" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1157577&extension=ts&play_token=bbtEvpVPDN
-#EXTINF:-1 tvg-id="1152825" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152825&extension=ts&play_token=YbD2B7YOG1
-#EXTINF:-1 tvg-id="1157578" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV+ 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1157578&extension=ts&play_token=iAGCFHa0Vm
-#EXTINF:-1 tvg-id="1152826" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152826&extension=ts&play_token=ipN0VUfh5j
-#EXTINF:-1 tvg-id="1157579" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV+ 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1157579&extension=ts&play_token=bfY4EItxd8
-#EXTINF:-1 tvg-id="1152827" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152827&extension=ts&play_token=4ByA7Q7WqH
-#EXTINF:-1 tvg-id="324972" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/EUROPE/cytavision.png",19/09 02:00 AM | Brentford vs Chelsea (GR - CYTAVISION SPORTS 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324972
 #EXTINF:-1 tvg-id="1470227" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/VIP/4k_ultra.png",19/09 02:00 AM | Brentford vs Chelsea (VIP - DIEMA SPORT 2 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
@@ -1134,23 +1004,133 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941406&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=941407&extension=ts&play_token=9XUvdO5cxp
-#EXTINF:-1 tvg-id="763969" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/FRANCE/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT - DAZN 1 FHD)
+#EXTINF:-1 tvg-id="324972" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/EUROPE/cytavision.png",19/09 02:00 AM | Brentford vs Chelsea (GR - CYTAVISION SPORTS 3 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/763969
-#EXTINF:-1 tvg-id="942694" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/FRANCE/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT - DAZN 1 HEVC)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/324972
+#EXTINF:-1 tvg-id="1283267" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/VIAPLAY.png",19/09 02:00 AM | Brentford vs Chelsea (NL| VIAPLAY TV 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283267&extension=ts&play_token=EHdJfoU3I9
+#EXTINF:-1 tvg-id="1152824" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152824&extension=ts&play_token=cRxAYqslTn
+#EXTINF:-1 tvg-id="1157577" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV+ HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1157577&extension=ts&play_token=bbtEvpVPDN
+#EXTINF:-1 tvg-id="1152825" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152825&extension=ts&play_token=YbD2B7YOG1
+#EXTINF:-1 tvg-id="1157578" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV+ 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1157578&extension=ts&play_token=iAGCFHa0Vm
+#EXTINF:-1 tvg-id="1152826" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV 8K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152826&extension=ts&play_token=ipN0VUfh5j
+#EXTINF:-1 tvg-id="1157579" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV+ 8K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1157579&extension=ts&play_token=bfY4EItxd8
+#EXTINF:-1 tvg-id="1152827" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/VIAPLAY TV.png",19/09 02:00 AM | Brentford vs Chelsea (┃NL┃ VIAPLAY TV 8K+ UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1152827&extension=ts&play_token=4ByA7Q7WqH
+#EXTINF:-1 tvg-id="1023969" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/942694
-#EXTINF:-1 tvg-id="107495" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT| DAZN 1 HD)
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1023969
+#EXTINF:-1 tvg-id="551241" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=107495&extension=ts&play_token=mIXQwjC7eG
-#EXTINF:-1 tvg-id="118459" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png",19/09 02:00 AM | Brentford vs Chelsea (PT| DAZN 1 HEVC)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/551241
+#EXTINF:-1 tvg-id="27898" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5AFD5EE94DD5C5934ACED81449663175
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=118459&extension=ts&play_token=wxj2Bz2CO0
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/27898
+#EXTINF:-1 tvg-id="977115" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/977115
+#EXTINF:-1 tvg-id="552067" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/552067
+#EXTINF:-1 tvg-id="149613" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149613
+#EXTINF:-1 tvg-id="203885" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203885
+#EXTINF:-1 tvg-id="73354" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/73354
+#EXTINF:-1 tvg-id="986994" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986994
+#EXTINF:-1 tvg-id="334054" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FRENCH 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/334054
+#EXTINF:-1 tvg-id="211446" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FRENCH FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/211446
+#EXTINF:-1 tvg-id="987007" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png",19/09 02:00 AM | Brentford vs Chelsea (AR - BEIN SPORTS 1 FRENCH HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B281D782A151C9A42CAE035763E22209
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987007
+#EXTINF:-1 tvg-id="798772" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798772&extension=ts&play_token=IB1yLOd02i
+#EXTINF:-1 tvg-id="798795" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798795&extension=ts&play_token=qBX6Atv83t
+#EXTINF:-1 tvg-id="1030236" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030236&extension=ts&play_token=JTK709cPlt
+#EXTINF:-1 tvg-id="1030247" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 1 FRANCE.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1 FRANCE RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030247&extension=ts&play_token=RVjjbX5t4e
+#EXTINF:-1 tvg-id="242242" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",19/09 02:00 AM | Brentford vs Chelsea (┃AR┃ BEIN SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9ABEB29F4E881CE30DF4E2A0281495F9
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242242&extension=ts&play_token=rfikcXoFpF
