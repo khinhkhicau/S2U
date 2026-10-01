@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2055038" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png",30/09 11:00 PM | Live Lithuania vs. Andorra all 8K DE: SOCCER 14
+#EXTINF:-1 tvg-id="1312095" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="https://go4.pw/USA/para.png",01/10 08:30 PM | US PARAMOUNT 05 BENFICA @ BAYERN – /
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6999261EA2D0150913D57BD414FB7293
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2055038&extension=ts&play_token=TFbwNiHXo9
-#EXTINF:-1 tvg-id="2072530" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png",30/09 11:00 PM | Live Lithuania vs. Andorra all 8K ES: SOCCER 23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6999261EA2D0150913D57BD414FB7293
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2072530&extension=ts&play_token=ylzUkVBj13
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 9DBA3F436276EC089F4FDB51A22EA8F1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312095
