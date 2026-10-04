@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png",04/10 10:00 AM | China Open E8 (UK| NOW HK NOW SPORTS 4)
+#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png",04/10 12:00 PM | China Open E9 (UK| NOW HK NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032476&extension=ts&play_token=EpvKAao7G6
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",04/10 10:00 AM | China Open E8 (┃HK┃ NOW SPORTS 4)
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",04/10 12:00 PM | China Open E9 (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=EloDrSRCTU
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",04/10 10:00 AM | China Open E8 (┃HK┃ NOW SPORTS 4)
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",04/10 12:00 PM | China Open E9 (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
@@ -29,357 +29,92 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382838&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382838&extension=ts&play_token=H7aMRFP0Ui
-#EXTINF:-1 tvg-id="1905838" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905838.png",04/10 09:00 AM | Japan Open Tennis Championships (UK-NOWTV| SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905838&extension=ts&play_token=qaVlR6fUDr
-#EXTINF:-1 tvg-id="1905836" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905836.png",04/10 09:00 AM | Japan Open Tennis Championships (UK-NOWTV| SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905836&extension=ts&play_token=ecb7lMEOQ7
-#EXTINF:-1 tvg-id="1905837" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905837.png",04/10 09:00 AM | Japan Open Tennis Championships (UK-NOWTV| SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905837&extension=ts&play_token=E9qVUJAsO9
-#EXTINF:-1 tvg-id="1454231" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1454231&extension=ts&play_token=MhrxndW2W1
-#EXTINF:-1 tvg-id="1454232" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1454232&extension=ts&play_token=iu2LiVPjnI
-#EXTINF:-1 tvg-id="1458814" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS TENNIS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458814&extension=ts&play_token=OMUNf28y0y
-#EXTINF:-1 tvg-id="1458813" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS TENNIS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458813&extension=ts&play_token=sa7YJZRpOt
-#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312004&extension=ts&play_token=ElKkDhqFqU
-#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312026&extension=ts&play_token=tfPn9vpzp2
-#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312043&extension=ts&play_token=45GV6g7HNk
-#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394549&extension=ts&play_token=frGWbQ1wyk
-#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312186&extension=ts&play_token=Bqv4cI7a5R
-#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312004&extension=ts&play_token=giFrzAIBOg
-#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312026&extension=ts&play_token=jtcSdsTm2O
-#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312043&extension=ts&play_token=kBzR7N6EBB
-#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394549&extension=ts&play_token=gDOcnZUkqo
-#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312186&extension=ts&play_token=4pc7Uva6JC
-#EXTINF:-1 tvg-id="1905835" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905835.png",04/10 09:00 AM | Japan Open Tennis Championships (UK-NOWTV| SKY SPORTS+ FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905835&extension=ts&play_token=3uxWCz9dly
-#EXTINF:-1 tvg-id="1905833" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905833.png",04/10 09:00 AM | Japan Open Tennis Championships (UK-NOWTV| SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905833&extension=ts&play_token=zh5icpgtyl
-#EXTINF:-1 tvg-id="1905834" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905834.png",04/10 09:00 AM | Japan Open Tennis Championships (UK-NOWTV| SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905834&extension=ts&play_token=C3flSFtDZr
-#EXTINF:-1 tvg-id="83455" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSPLUS.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS + HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=83455&extension=ts&play_token=arGhGnxwvH
-#EXTINF:-1 tvg-id="30500" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/30500.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS + FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=30500&extension=ts&play_token=Kx3Up5Xopp
-#EXTINF:-1 tvg-id="79481" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/79481.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS +)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=79481&extension=ts&play_token=qWo6lA3t67
-#EXTINF:-1 tvg-id="1458676" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSPLUS.png",04/10 09:00 AM | Japan Open Tennis Championships (UK| SKY SPORTS + FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458676&extension=ts&play_token=ybpT1moYT1
-#EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1311994&extension=ts&play_token=zqgvVlQR3U
-#EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312028&extension=ts&play_token=A0oFBdLdAK
-#EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312050&extension=ts&play_token=ly3AogBTIH
-#EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=870313&extension=ts&play_token=vwZFdXrsqZ
-#EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312185&extension=ts&play_token=eUEHgPxzIs
-#EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311994&extension=ts&play_token=ZQVzrLW9UL
-#EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312028&extension=ts&play_token=ZQTVSKtxWc
-#EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312050&extension=ts&play_token=pv8urgMomR
-#EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=870313&extension=ts&play_token=WYsO1Tsg7a
-#EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",04/10 09:00 AM | Japan Open Tennis Championships (┃UK┃ SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312185&extension=ts&play_token=9jHfWLfhUL
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",04/10 09:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",04/10 11:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=bUm6lPpcY3
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 09:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 11:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=9GYSK1hKhB
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",04/10 09:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",04/10 11:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=UqOS2m17Xw
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 09:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 11:00 AM | Japan Open (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=5u8n2cH8dg
-#EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",04/10 09:00 AM | Japan Open Tennis Championships (┃USA┃ SNY SPORTS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858673&extension=ts&play_token=itkGbBrz2R
-#EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",04/10 09:00 AM | Japan Open Tennis Championships (┃USA┃ SNY SPORTS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858673&extension=ts&play_token=RE6jrn0eyG
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 09:00 AM | Japan Open (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 11:00 AM | Japan Open (┃PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1972847&extension=ts&play_token=bedZ0Yjhyy
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 09:00 AM | Japan Open (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",04/10 11:00 AM | Japan Open (┃PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=luqBqGKhdu
-#EXTINF:-1 tvg-id="984664" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/984664.png",04/10 09:00 AM | Japan Open Tennis Championships (DE| SKY SPORT TENNIS HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=984664&extension=ts&play_token=gQBQWwVkTD
-#EXTINF:-1 tvg-id="971739" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/971739.png",04/10 09:00 AM | Japan Open Tennis Championships (DE| SKY SPORT TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=971739&extension=ts&play_token=UztLhdreKZ
-#EXTINF:-1 tvg-id="1235871" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/1235871.png",04/10 09:00 AM | Japan Open Tennis Championships (DE| SKY SPORT TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235871&extension=ts&play_token=k2bs58qYeh
-#EXTINF:-1 tvg-id="1235864" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/1235864.png",04/10 09:00 AM | Japan Open Tennis Championships (DE| SKY SPORT TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235864&extension=ts&play_token=iZsubj74ds
-#EXTINF:-1 tvg-id="691535" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/691535.png",04/10 09:00 AM | Japan Open Tennis Championships (IT| SKY SPORT TENNIS HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691535&extension=ts&play_token=2SsbLjPKRj
-#EXTINF:-1 tvg-id="692433" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/692433.png",04/10 09:00 AM | Japan Open Tennis Championships (IT| SKY SPORT TENNIS 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692433&extension=ts&play_token=hXzkZP1hzE
-#EXTINF:-1 tvg-id="692431" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/692431.png",04/10 09:00 AM | Japan Open Tennis Championships (IT| SKY SPORT TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692431&extension=ts&play_token=sCuBvaVqxP
-#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",04/10 09:00 AM | Japan Open Tennis Championships (┃DE┃ SKY SPORT TENNIS RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760955&extension=ts&play_token=dM2DSjhbZC
-#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃DE┃ SKY SPORT TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149433&extension=ts&play_token=aC3gOCaPjM
-#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃DE┃ SKY SPORT TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149459&extension=ts&play_token=Ght2g9Cwy2
-#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃IT┃ SKY SPORT TENNIS HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167175&extension=ts&play_token=BZM4e7roOs
-#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃IT┃ SKY SPORT TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167174&extension=ts&play_token=pLM103dPEF
-#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",04/10 09:00 AM | Japan Open Tennis Championships (┃DE┃ SKY SPORT TENNIS RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760955&extension=ts&play_token=UsYnsPEIjY
-#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃DE┃ SKY SPORT TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149433&extension=ts&play_token=2wjW5eUKr4
-#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃DE┃ SKY SPORT TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149459&extension=ts&play_token=DKElYiADeu
-#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃IT┃ SKY SPORT TENNIS HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167175&extension=ts&play_token=8Nf65ejBpr
-#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",04/10 09:00 AM | Japan Open Tennis Championships (┃IT┃ SKY SPORT TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167174&extension=ts&play_token=cojoQxy9Xz
-#EXTINF:-1 tvg-id="207964" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207964.png",04/10 10:00 AM | Tenis (RO|  DIGI SPORT 4 HD)
+#EXTINF:-1 tvg-id="207964" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207964.png",04/10 12:00 PM | Tenis (RO|  DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207964&extension=ts&play_token=h94cL0PS85
-#EXTINF:-1 tvg-id="56116" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56116.png",04/10 10:00 AM | Tenis (RO| DIGI SPORT 4)
+#EXTINF:-1 tvg-id="56116" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56116.png",04/10 12:00 PM | Tenis (RO| DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
 http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56116&extension=ts&play_token=zwjg5iYrsS
-#EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 4K)
+#EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=DH7LFfCKNr
-#EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
+#EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=Xbqx6hDe4X
-#EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 HD)
+#EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=4GrY1NziNk
-#EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4)
+#EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=mgPFl8gzOg
-#EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
+#EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=Q0IKNG6kno
-#EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 4K)
+#EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=eKH7SNhlcP
-#EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
+#EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=elwh59b2UR
-#EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 HD)
+#EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=h0rN1Se3aV
-#EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4)
+#EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=SvmN8irldP
-#EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 10:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
+#EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",04/10 12:00 PM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
@@ -429,36 +164,6 @@ http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959360&exte
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
 http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=959361&extension=ts&play_token=X0tmrwObfn
-#EXTINF:-1 tvg-id="2145992" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/GREECENEW/NOVASPORTSPRIME.png",04/10 09:00 AM | Kinoshita Group Japan Open Tennis Championships -QF(1-4) (GR| NOVA SPORTS PRIME ᴴᴰ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2145992&extension=ts&play_token=TKLYxiACM4
-#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",04/10 09:00 AM | Kinoshita Group Japan Open Tennis Championships -QF(1-4) (┃GR┃ NOVA SPORTS PRIME FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1142146&extension=ts&play_token=SwKPDuFNhf
-#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",04/10 09:00 AM | Kinoshita Group Japan Open Tennis Championships -QF(1-4) (┃GR┃ NOVA SPORTS PRIME HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F44FFD5962DD90E0B6102EA2B9A61E95
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1874&extension=ts&play_token=YPBQyd5dLj
-#EXTINF:-1 tvg-id="1142146" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",04/10 09:00 AM | Kinoshita Group Japan Open Tennis Championships -QF(1-4) (┃GR┃ NOVA SPORTS PRIME FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1142146&extension=ts&play_token=ec1mAnOmiK
-#EXTINF:-1 tvg-id="1874" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nova_Sports_Prime_V2021.png",04/10 09:00 AM | Kinoshita Group Japan Open Tennis Championships -QF(1-4) (┃GR┃ NOVA SPORTS PRIME HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 47617FA6B502F8137AA098C99E39FE3C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1874&extension=ts&play_token=eybwENo6zc
-#EXTINF:-1 tvg-id="1432157" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/GREECENEW/NOVASPORTSPRIME.png",04/10 09:00 AM | Kinoshita Group Japan Open Tennis Championships -QF(1-4) (GR| NOVASPORTS PRIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E4356C32882267BC64FB027411320B03
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1432157&extension=ts&play_token=atIH5S7oLX
 #EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",04/10 12:00 PM | China Open vs Beijing (NL| ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
