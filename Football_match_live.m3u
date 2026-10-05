@@ -1,26 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2042127" group-title="⚽️🇮🇹|Live Serie A-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png",04/10 08:00 PM | Milan Juventus Serie A Women Athora | 8K IT: DAZN 19
+#EXTINF:-1 tvg-id="2054971" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png",06/10 01:45 AM | Liechtenstein vs. Gibraltar all | 8K DE: SOCCER 81
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 172559FF497E7C18767710AA42BC84C3
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2042127&extension=ts&play_token=QIzsLOLjjm
-#EXTINF:-1 tvg-id="2040506" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png",04/10 08:30 PM | Borussia M'gladbach FC Viktoria Berlin 2. Frauen-Bundesliga | 8K DE: DAZN 19
+#EXTVLCOPT:http-header=Authorization: Bearer 8E5B860A7F945792255DEAB04F82B5B8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2054971&extension=ts&play_token=DhVSktm6Ou
+#EXTINF:-1 tvg-id="2016265" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/VIAPLAY.png",06/10 01:45 AM | LANDSKAMP LIECHTENSTEIN GIBRALTAR (SE) 8K SE: VIAPLAY 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 172559FF497E7C18767710AA42BC84C3
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2040506&extension=ts&play_token=amnyLRfKRD
-#EXTINF:-1 tvg-id="1924570" group-title="⚽️🇩🇪|Live Bundesliga-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/FootballLeague.png",04/10 08:30 PM | BORUSSIA MÖNCHENGLADBACH ♀ VS FC VIKTORIA BERLIN (DE) 8K DE: LEAGUES FOOTBALL 5
+#EXTVLCOPT:http-header=Authorization: Bearer 8E5B860A7F945792255DEAB04F82B5B8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016265&extension=ts&play_token=yWNTSuW4Qr
+#EXTINF:-1 tvg-id="1735572" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/VIAPLAY.png",06/10 01:45 AM | PRIVATLANDSKAMP LIECHTENSTEIN GIBRALTAR (NO) 8K NO: VIAPLAY 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 172559FF497E7C18767710AA42BC84C3
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1924570&extension=ts&play_token=fCBHMioicV
-#EXTINF:-1 tvg-id="1312091" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/USA/para.png",04/10 10:30 PM | US PARAMOUNT 01 MANCHESTER UNITED @ LIVERPOOL – /
+#EXTVLCOPT:http-header=Authorization: Bearer 8E5B860A7F945792255DEAB04F82B5B8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1735572&extension=ts&play_token=F3e0M9EESl
+#EXTINF:-1 tvg-id="1990193" group-title="🌍|Live International Friendly-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",06/10 01:45 AM | Liechtenstein vs Gibraltar @ :Viaplay SE 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC6123D4D2C5192BE483AD6F039CA1F2
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1312091
-#EXTINF:-1 tvg-id="1119290" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/CANADA/sn.png",04/10 10:30 PM | CA SN+ 3 MANCHESTER UNITED @ LIVERPOOL – /
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8E5B860A7F945792255DEAB04F82B5B8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990193&extension=ts&play_token=oyV8zscnLx
+#EXTINF:-1 tvg-id="1996113" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/VIAPLAY.png",06/10 01:45 AM | Liechtenstein vs Gibraltar @ :Viaplay NO 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EC6123D4D2C5192BE483AD6F039CA1F2
-http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1119290
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8E5B860A7F945792255DEAB04F82B5B8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996113&extension=ts&play_token=SsYvEassE3
+#EXTINF:-1 tvg-id="2026359" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/viaplay-logo.png",06/10 01:45 AM | Liechtenstein vs Gíbraltar @ :Viaplay IS 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8E5B860A7F945792255DEAB04F82B5B8
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2026359&extension=ts&play_token=KexEAE4Pq8
