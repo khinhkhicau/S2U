@@ -1,21 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1360817" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.95/images/1360817.png",07/10 06:00 AM | Live Football 01 Argentina vs Benin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 45933B22EAFC056C56FF0162AA85D431
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1360817&extension=ts&play_token=w8fEuSxIiR
+#EXTINF:-1 tvg-id="1926115" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.95/images/1363059.png",07/10 06:00 AM | Live Football 01 Argentina vs Benin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 45933B22EAFC056C56FF0162AA85D431
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1926115&extension=ts&play_token=fQEWURZeKd
+#EXTINF:-1 tvg-id="1360817" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.95/images/1360817.png",07/10 06:00 AM | Live Football 01 Argentina vs Benin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 306D1D820D3100D7A7C2A673C6452D5C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1360817&extension=ts&play_token=hYtfJLe4iH
+#EXTINF:-1 tvg-id="1926115" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.95/images/1363059.png",07/10 06:00 AM | Live Football 01 Argentina vs Benin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 306D1D820D3100D7A7C2A673C6452D5C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1926115&extension=ts&play_token=ByWajwsZrc
+#EXTINF:-1 tvg-id="1313084" group-title="🌍|Live International Friendly-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ LIVE FOOTBALL/Live Football.png",07/10 06:00 AM | Live Football 01 Argentina vs Benin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A43C059486E75556A584CF1CCAFD481C
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1313084&extension=ts&play_token=e2PrHy43Zy
 #EXTINF:-1 tvg-id="2016253" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/VIAPLAY.png",07/10 06:00 AM | LANDSKAMP ARGENTINA BENIN (SE) 8K SE: VIAPLAY 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61D0E448F6132C81A0FB85C9FACE6BD0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016253&extension=ts&play_token=eJclKznRoj
+#EXTVLCOPT:http-header=Authorization: Bearer 306D1D820D3100D7A7C2A673C6452D5C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2016253&extension=ts&play_token=6tsCGRfNhF
 #EXTINF:-1 tvg-id="2037350" group-title="🌍|Live International Friendly-Match" tvg-logo="http://103.176.90.154/picons/logos/PPV/VIAPLAY.png",07/10 06:00 AM | LANDSKAMP ARGENTINA BENIN (DK) 8K DK: VIAPLAY 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61D0E448F6132C81A0FB85C9FACE6BD0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037350&extension=ts&play_token=BkxQAxs84s
+#EXTVLCOPT:http-header=Authorization: Bearer 306D1D820D3100D7A7C2A673C6452D5C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=2037350&extension=ts&play_token=A0BYllY6iR
 #EXTINF:-1 tvg-id="1990175" group-title="🌍|Live International Friendly-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",07/10 06:00 AM | Argentina vs Benin @ :Viaplay SE 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61D0E448F6132C81A0FB85C9FACE6BD0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990175&extension=ts&play_token=L2MFB9P3TI
+#EXTVLCOPT:http-header=Authorization: Bearer 306D1D820D3100D7A7C2A673C6452D5C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1990175&extension=ts&play_token=JUkd2gYcYa
 #EXTINF:-1 tvg-id="1996269" group-title="🌍|Live International Friendly-Match" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",07/10 06:00 AM | Argentina vs Benin @ :Viaplay DK 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 61D0E448F6132C81A0FB85C9FACE6BD0
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996269&extension=ts&play_token=0xsrFOSPGP
+#EXTVLCOPT:http-header=Authorization: Bearer 306D1D820D3100D7A7C2A673C6452D5C
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1996269&extension=ts&play_token=EUOeFSei5g
