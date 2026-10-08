@@ -1,576 +1,551 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1032476" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png",08/10 06:00 PM | China Open -QF(2) (UK| NOW HK NOW SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032476&extension=ts&play_token=ALqNyR0667
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",08/10 06:00 PM | China Open -QF(2) (┃HK┃ NOW SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=LakUPvAAbS
-#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",08/10 06:00 PM | China Open -QF(2) (┃HK┃ NOW SPORTS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382840&extension=ts&play_token=zL4ZZ1vHkU
-#EXTINF:-1 tvg-id="1032474" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png",09/10 11:00 AM | Rolex Shanghai Masters -Round 2 (A) (UK| NOW HK NOW SPORTS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1032474&extension=ts&play_token=RgcQ279xiu
 #EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",09/10 11:00 AM | Rolex Shanghai Masters -Round 2 (A) (┃HK┃ NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382838&extension=ts&play_token=Bkj7AHe5WR
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382838&extension=ts&play_token=Zw0Xd74nAy
 #EXTINF:-1 tvg-id="382838" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",09/10 11:00 AM | Rolex Shanghai Masters -Round 2 (A) (┃HK┃ NOW SPORTS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382838&extension=ts&play_token=5Qdfjx8iKi
-#EXTINF:-1 tvg-id="1905838" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905838.png",09/10 11:00 AM | Shanghai Rolex Masters (UK-NOWTV| SKY SPORTS TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382838&extension=ts&play_token=i9r39J1kx4
+#EXTINF:-1 tvg-id="438873" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png",09/10 11:00 AM | Rolex Shanghai Masters -Round 2 (A) (SPORTS - NOW HK NOW SPORTS 6 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905838&extension=ts&play_token=oraTtVlXVz
-#EXTINF:-1 tvg-id="1905836" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905836.png",09/10 11:00 AM | Shanghai Rolex Masters (UK-NOWTV| SKY SPORTS TENNIS HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438873
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",09/10 02:00 PM | China Open -QF(3) (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905836&extension=ts&play_token=xg65HjlFxa
-#EXTINF:-1 tvg-id="1905837" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905837.png",09/10 11:00 AM | Shanghai Rolex Masters (UK-NOWTV| SKY SPORTS TENNIS HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=Phak1XU9Zc
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",09/10 02:00 PM | China Open -QF(3) (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905837&extension=ts&play_token=WSKqPlc7jG
-#EXTINF:-1 tvg-id="1454231" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS TENNIS HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382840&extension=ts&play_token=2PgFrZQ3KV
+#EXTINF:-1 tvg-id="438871" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/Now-HK-Now-Sports.png",09/10 02:00 PM | China Open -QF(3) (SPORTS - NOW HK NOW SPORTS 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1454231&extension=ts&play_token=AazuuSaesj
-#EXTINF:-1 tvg-id="1454232" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS TENNIS FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/438871
+#EXTINF:-1 tvg-id="664451" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skysportste.png",09/10 11:00 AM | Shanghai Rolex Masters (UK - SKY SPORTS TENNIS FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1454232&extension=ts&play_token=Jm0rJptjEo
-#EXTINF:-1 tvg-id="1458814" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS TENNIS HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/664451
+#EXTINF:-1 tvg-id="664452" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skysportste.png",09/10 11:00 AM | Shanghai Rolex Masters (UK - SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458814&extension=ts&play_token=vyDCVnimyA
-#EXTINF:-1 tvg-id="1458813" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS TENNIS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458813&extension=ts&play_token=IIndVww35C
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/664452
 #EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312004&extension=ts&play_token=MPniFCjGiV
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312004&extension=ts&play_token=TqbOYyvshd
 #EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312026&extension=ts&play_token=UWxYSQpjX2
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312026&extension=ts&play_token=aXz8ml8nxE
 #EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312043&extension=ts&play_token=gcN8l4Pwwt
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312043&extension=ts&play_token=ajQtCtLvip
 #EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394549&extension=ts&play_token=JRcaBeqW8V
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394549&extension=ts&play_token=hHkIEBiNAS
 #EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312186&extension=ts&play_token=SJT0rRLmch
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312186&extension=ts&play_token=a0xdx2242i
 #EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312004&extension=ts&play_token=ObdtxbqXPS
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312004&extension=ts&play_token=Lr69lR7Sxc
 #EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312026&extension=ts&play_token=wMEPGTQqJf
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312026&extension=ts&play_token=2qKyPamAEz
 #EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312043&extension=ts&play_token=y8XD2IWuoe
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312043&extension=ts&play_token=D3PLbHp6nb
 #EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394549&extension=ts&play_token=6vxp3luNFX
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394549&extension=ts&play_token=9w9b3rzDNT
 #EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312186&extension=ts&play_token=bANTqHqC34
-#EXTINF:-1 tvg-id="1905835" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905835.png",09/10 11:00 AM | Shanghai Rolex Masters (UK-NOWTV| SKY SPORTS+ FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312186&extension=ts&play_token=ZUWhM0b0HD
+#EXTINF:-1 tvg-id="973137" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skyspns.png",09/10 11:00 AM | Shanghai Rolex Masters (UK - SKY SPORTS+ FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905835&extension=ts&play_token=wXDsdphbjE
-#EXTINF:-1 tvg-id="1905833" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905833.png",09/10 11:00 AM | Shanghai Rolex Masters (UK-NOWTV| SKY SPORTS+ HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/973137
+#EXTINF:-1 tvg-id="973139" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/UK/skyspns.png",09/10 11:00 AM | Shanghai Rolex Masters (UK - SKY SPORTS+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905833&extension=ts&play_token=EGQ2LQFOm5
-#EXTINF:-1 tvg-id="1905834" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UK/1905834.png",09/10 11:00 AM | Shanghai Rolex Masters (UK-NOWTV| SKY SPORTS+ HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1905834&extension=ts&play_token=fI689Cm8CP
-#EXTINF:-1 tvg-id="83455" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSPLUS.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS + HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=83455&extension=ts&play_token=XLWpPGY9kD
-#EXTINF:-1 tvg-id="30500" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/30500.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS + FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=30500&extension=ts&play_token=x0pZI9VK5v
-#EXTINF:-1 tvg-id="79481" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/79481.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS +)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=79481&extension=ts&play_token=TxxvA6qJRS
-#EXTINF:-1 tvg-id="1458676" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSPLUS.png",09/10 11:00 AM | Shanghai Rolex Masters (UK| SKY SPORTS + FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1458676&extension=ts&play_token=8E5Cj5KHyG
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/973139
 #EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1311994&extension=ts&play_token=MFRYTsGtvt
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1311994&extension=ts&play_token=jcz9VciAKS
 #EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312028&extension=ts&play_token=5644P5lB9A
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312028&extension=ts&play_token=nZJxMMJE8P
 #EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312050&extension=ts&play_token=Q0LLwkOn9O
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312050&extension=ts&play_token=qGeKr74BKp
 #EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=870313&extension=ts&play_token=TO5bLzcnm7
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=870313&extension=ts&play_token=omoB856KJ3
 #EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312185&extension=ts&play_token=HSlSAvTrDR
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312185&extension=ts&play_token=HteyzXbWUU
 #EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311994&extension=ts&play_token=xozeTj7peL
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311994&extension=ts&play_token=FXUhJAqDo3
 #EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312028&extension=ts&play_token=dUXpLbBM1c
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312028&extension=ts&play_token=fxLlSG43N4
 #EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312050&extension=ts&play_token=bED6936Ubu
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312050&extension=ts&play_token=ZTau3MMoO3
 #EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=870313&extension=ts&play_token=68dRol1JwG
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=870313&extension=ts&play_token=2iSgu7qFXY
 #EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",09/10 11:00 AM | Shanghai Rolex Masters (┃UK┃ SKY SPORTS+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312185&extension=ts&play_token=1qGh2Ur5Sw
-#EXTINF:-1 tvg-id="238270" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (UK| BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312185&extension=ts&play_token=XjRw1re9it
+#EXTINF:-1 tvg-id="30356" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/CANADA/tsn2.png",09/10 11:00 AM | Shanghai Masters (CA - TSN 2 FHD ◉)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=238270&extension=ts&play_token=yXSwoA8fB8
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",08/10 07:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30356
+#EXTINF:-1 tvg-id="42916" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/CANADA/tsn2.png",09/10 11:00 AM | Shanghai Masters (CA - TSN 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42916
+#EXTINF:-1 tvg-id="316492" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/teni.png",09/10 05:00 PM | Shanghai Masters (US - TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/316492
+#EXTINF:-1 tvg-id="71954" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/teni.png",09/10 05:00 PM | Shanghai Masters (US - TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71954
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",09/10 05:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=Kk7nbSGKAU
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",08/10 07:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=zsJ0wjQQWF
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",09/10 05:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=vpgFb0SUmo
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",08/10 07:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=4e8SGUBxO4
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",09/10 05:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=xSvdpv0RwF
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",08/10 07:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=tgFrbjT9Cg
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",09/10 05:00 PM | Shanghai Masters (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=jvDgKkOGEy
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=BjLYINIOrQ
+#EXTINF:-1 tvg-id="30354" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/CANADA/tsn4.png",09/10 02:00 PM | China Open (CA - TSN 4 FHD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/30354
+#EXTINF:-1 tvg-id="42914" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/CANADA/tsn4.png",09/10 02:00 PM | China Open (CA - TSN 4 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/42914
 #EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",09/10 11:00 AM | Shanghai Rolex Masters (┃USA┃ SNY SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858673&extension=ts&play_token=am26i8CkVM
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858673&extension=ts&play_token=u5H9pe2ftI
 #EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",09/10 11:00 AM | Shanghai Rolex Masters (┃USA┃ SNY SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858673&extension=ts&play_token=Rr1vfrFhtG
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858673&extension=ts&play_token=hsZxEkl5Bw
+#EXTINF:-1 tvg-id="71989" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/USA/foxx.png",09/10 05:00 AM | PPA Tour Chicago Cup - Round of 16 (US - FOX SPORTS 1 UHD ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/71989
 #EXTINF:-1 tvg-id="858547" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 1.png",09/10 05:00 AM | PPA Tour Chicago Cup - Round of 16 (┃USA┃ FOX SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858547&extension=ts&play_token=l4I3qNa3Xq
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858547&extension=ts&play_token=TtskT3Kx6o
 #EXTINF:-1 tvg-id="858547" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 1.png",09/10 05:00 AM | PPA Tour Chicago Cup - Round of 16 (┃USA┃ FOX SPORTS 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858547&extension=ts&play_token=zG2dcF4xX6
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",08/10 07:00 PM | Shanghai Masters (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858547&extension=ts&play_token=T5pcaJuk95
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",09/10 05:00 PM | Shanghai Masters (┃PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1972847&extension=ts&play_token=8FTBlDzfQO
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",08/10 07:00 PM | Shanghai Masters (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1972847&extension=ts&play_token=ROECD15rh5
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",09/10 05:00 PM | Shanghai Masters (┃PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=E6Drrum2Yl
-#EXTINF:-1 tvg-id="984664" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/984664.png",09/10 11:00 AM | Shanghai Rolex Masters (DE| SKY SPORT TENNIS HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=azPhcSq6hJ
+#EXTINF:-1 tvg-id="1138920" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/sky_teniss2.png",09/10 11:00 AM | Shanghai Rolex Masters (DE - SKY SPORT TENNIS 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=984664&extension=ts&play_token=eqyX4s9wV8
-#EXTINF:-1 tvg-id="971739" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/971739.png",09/10 11:00 AM | Shanghai Rolex Masters (DE| SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1138920
+#EXTINF:-1 tvg-id="498032" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/sky_teniss2.png",09/10 11:00 AM | Shanghai Rolex Masters (DE - SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=971739&extension=ts&play_token=n4mQjoYioD
-#EXTINF:-1 tvg-id="1235871" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/1235871.png",09/10 11:00 AM | Shanghai Rolex Masters (DE| SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/498032
+#EXTINF:-1 tvg-id="310967" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/germany/sky_teniss2.png",09/10 11:00 AM | Shanghai Rolex Masters (DE - SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235871&extension=ts&play_token=bIbWDcaApW
-#EXTINF:-1 tvg-id="1235864" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.92/images/1235864.png",09/10 11:00 AM | Shanghai Rolex Masters (DE| SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/310967
+#EXTINF:-1 tvg-id="498732" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ITALY/skysporttennis.png",09/10 11:00 AM | Shanghai Rolex Masters (IT - SKY SPORT TENNIS UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1235864&extension=ts&play_token=1B8JZERezf
-#EXTINF:-1 tvg-id="691535" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/691535.png",09/10 11:00 AM | Shanghai Rolex Masters (IT| SKY SPORT TENNIS HEVC)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/498732
+#EXTINF:-1 tvg-id="900938" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ITALY/skysporttennis.png",09/10 11:00 AM | Shanghai Rolex Masters (IT - SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=691535&extension=ts&play_token=Zn2FYabqYv
-#EXTINF:-1 tvg-id="692433" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/692433.png",09/10 11:00 AM | Shanghai Rolex Masters (IT| SKY SPORT TENNIS 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692433&extension=ts&play_token=ucyaZQa35E
-#EXTINF:-1 tvg-id="692431" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/692431.png",09/10 11:00 AM | Shanghai Rolex Masters (IT| SKY SPORT TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=692431&extension=ts&play_token=AbEvuZHyCm
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/900938
 #EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",09/10 11:00 AM | Shanghai Rolex Masters (┃DE┃ SKY SPORT TENNIS RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760955&extension=ts&play_token=ea7ol0dv7w
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760955&extension=ts&play_token=LtjflxhKZK
 #EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃DE┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149433&extension=ts&play_token=dMB9LBH8kL
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149433&extension=ts&play_token=ORqW8J8Q0u
 #EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃DE┃ SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149459&extension=ts&play_token=h6W31z9Yci
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149459&extension=ts&play_token=oupo0moHOb
 #EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃IT┃ SKY SPORT TENNIS HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167175&extension=ts&play_token=nUJjNGxUQH
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167175&extension=ts&play_token=SnG8nHNRcF
 #EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃IT┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167174&extension=ts&play_token=odmhD3Rt7S
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167174&extension=ts&play_token=PK9YMe7alA
 #EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",09/10 11:00 AM | Shanghai Rolex Masters (┃DE┃ SKY SPORT TENNIS RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760955&extension=ts&play_token=Eh0mJMZAdu
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760955&extension=ts&play_token=ie0NeGzwPq
 #EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃DE┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149433&extension=ts&play_token=rPBi0Gpe3d
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149433&extension=ts&play_token=a2jbgUNbj4
 #EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃DE┃ SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149459&extension=ts&play_token=ukKIeJ3Dbp
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149459&extension=ts&play_token=5RMDCTvoaF
 #EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃IT┃ SKY SPORT TENNIS HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167175&extension=ts&play_token=B17qwdEBzk
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167175&extension=ts&play_token=KwqdfRpSZe
 #EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",09/10 11:00 AM | Shanghai Rolex Masters (┃IT┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167174&extension=ts&play_token=LsNo8YlF0t
-#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7 UHD)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167174&extension=ts&play_token=VIqAMx0o0c
+#EXTINF:-1 tvg-id="1281068" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/VIP/4k_ultra.png",09/10 11:00 AM | Shanghai Rolex Masters (VIP - SKY SPORT 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281068
+#EXTINF:-1 tvg-id="986979" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986979
+#EXTINF:-1 tvg-id="551278" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/551278
+#EXTINF:-1 tvg-id="551247" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/551247
+#EXTINF:-1 tvg-id="986964" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/986964
+#EXTINF:-1 tvg-id="552076" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/552076
+#EXTINF:-1 tvg-id="149619" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/149619
+#EXTINF:-1 tvg-id="203891" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/203891
+#EXTINF:-1 tvg-id="73357" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/73357
+#EXTINF:-1 tvg-id="987000" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png",09/10 11:00 AM |  (AR - BEIN SPORTS 7 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/987000
+#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798792&extension=ts&play_token=diqhdypBH5
-#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7 HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798792&extension=ts&play_token=YDrLI8rjho
+#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798802&extension=ts&play_token=kyhcOwG8VL
-#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7 RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=798802&extension=ts&play_token=PQOaWZPWy9
+#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030242&extension=ts&play_token=4ksBhSHkAQ
-#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1030242&extension=ts&play_token=JtjtwpHnBo
+#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242236&extension=ts&play_token=LD2a2xNvUT
-#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7 UHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=242236&extension=ts&play_token=uSoAha9UOv
+#EXTINF:-1 tvg-id="798792" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7 UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798792&extension=ts&play_token=lUEVDrOVGj
-#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7 HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798792&extension=ts&play_token=DTavOssKkD
+#EXTINF:-1 tvg-id="798802" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7 HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798802&extension=ts&play_token=FsNUgPzPIa
-#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7 RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=798802&extension=ts&play_token=gaLsa6gWuZ
+#EXTINF:-1 tvg-id="1030242" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/BEIN SPORTS RAW/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7 RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030242&extension=ts&play_token=paExqXsYtv
-#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",08/10 05:00 PM | Luca van Assche vs Yunchaokete Bu (┃AR┃ BEIN SPORTS 7)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1030242&extension=ts&play_token=tsh8MRGRUK
+#EXTINF:-1 tvg-id="242236" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",09/10 11:00 AM |  (┃AR┃ BEIN SPORTS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=242236&extension=ts&play_token=ikpKqfmEIZ
-#EXTINF:-1 tvg-id="110690" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/EXYU/SPORTKLUB.png",08/10 05:00 PM |  (HR| SPORT KLUB 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110690&extension=ts&play_token=plA3bXhe3t
-#EXTINF:-1 tvg-id="110691" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/EXYU/SPORTKLUB.png",08/10 05:00 PM |  (HR| SPORT KLUB 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=110691&extension=ts&play_token=KzCIt0oLhy
-#EXTINF:-1 tvg-id="1108" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png",08/10 05:00 PM |  (┃HR┃ SPORT KLUB 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1108&extension=ts&play_token=k87OJyhXyo
-#EXTINF:-1 tvg-id="1108" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png",08/10 05:00 PM |  (┃HR┃ SPORT KLUB 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1108&extension=ts&play_token=elAOraPTdh
-#EXTINF:-1 tvg-id="207964" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/207964.png",09/10 06:00 AM | Tenis (RO|  DIGI SPORT 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=207964&extension=ts&play_token=2F6aVtnQdO
-#EXTINF:-1 tvg-id="56116" group-title="🎾|Live Tennis" tvg-logo="http://picons.cmshulk.com/picons/56116.png",09/10 06:00 AM | Tenis (RO| DIGI SPORT 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=56116&extension=ts&play_token=iKmtVsHdkI
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=242236&extension=ts&play_token=5yq8u9ROTo
 #EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=p4qn8hDrn0
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=uN1FS1C9Jl
 #EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=ObUMY0vz5y
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=51a6lS9wOs
 #EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=XlcSZwxvvD
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=U7vrxdtCbc
 #EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=RbZRYp8Ui1
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=fUNSpAOnPV
 #EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=fLOwZ2oOgK
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=uwsI64LpYJ
 #EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=UWwjPxXuaL
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=Y4CkoO8cbg
 #EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=1ra4zpHplA
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=7rvNdRZnzI
 #EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=C5wrFKmE8L
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=o6dX8ntCMm
 #EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=OvS1jR1UYD
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=hizK8m3rzA
 #EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",09/10 06:00 AM | Tenis (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444091&extension=ts&play_token=aMyxfoIlXR
-#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444091&extension=ts&play_token=6BoVg1PVMk
+#EXTINF:-1 tvg-id="1052177" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (NL - ZIGGO SPORT 4 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052177
+#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548066&extension=ts&play_token=YiNQSwM6I8
-#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=9b8nlsK2Qo
+#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=932999&extension=ts&play_token=Yh8O143LvP
-#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 8K)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=LsnXEDso6E
+#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237598&extension=ts&play_token=Z9Gn7OKJM6
-#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548066&extension=ts&play_token=38Us5a3gkP
-#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=932999&extension=ts&play_token=fB3rofl9rW
-#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 8K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237598&extension=ts&play_token=kiwlXWtFnB
-#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=Ew6sDAn4WK
+#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1281&extension=ts&play_token=agF4PSyMb0
-#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=nyUQLTDpnj
+#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1281&extension=ts&play_token=aZ6Qvb1UMa
-#EXTINF:-1 tvg-id="1283307" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (NL| ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548067&extension=ts&play_token=gQNnUG4DMT
+#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1283307&extension=ts&play_token=ibX55od3as
-#EXTINF:-1 tvg-id="1761572" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (NL| ZIGGO SPORT 4 UHD 8K)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933000&extension=ts&play_token=YhUmdejm2p
+#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1761572&extension=ts&play_token=W23MfI7ClI
-#EXTINF:-1 tvg-id="1282760" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (NL| ZIGGO SPORT 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237600&extension=ts&play_token=54AGveMWtX
+#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282760&extension=ts&play_token=HjGs7UkKKK
-#EXTINF:-1 tvg-id="1282745" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (NL| ZIGGO SPORT 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1282745&extension=ts&play_token=QyFHlcWAdC
-#EXTINF:-1 tvg-id="1921307" group-title="🎾|Live Tennis" tvg-logo="http://103.176.90.154/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:74:B1:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer F713B004080A0626B87B77BC650DE6C6
-http://mag.greatott.me:80/play/live.php?mac=00:1A:79:74:B1:B9&stream=1921307&extension=ts&play_token=06UJICjNvJ
-#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=392119&extension=ts&play_token=6RQjTJ9heS
+#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=8JZmJKhIDW
-#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=JbszPyqdl5
+#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",09/10 01:00 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1279&extension=ts&play_token=uq9tAN11Ae
+#EXTINF:-1 tvg-id="1052174" group-title="🎾|Live Tennis" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (NL - ZIGGO SPORT 1 UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DBEED565B1A9A973F639B538DF73240D
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1052174
+#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=djb4Y35OC1
-#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548066&extension=ts&play_token=RIjSh0LYvl
+#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=JZFTzZRBPz
-#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=932999&extension=ts&play_token=D5d8N4ih3u
+#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=TNQrPT5hlC
-#EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237598&extension=ts&play_token=Miwr62nqqx
+#EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548067&extension=ts&play_token=c21KNHdQfD
-#EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548066&extension=ts&play_token=siOhvTFL4V
+#EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933000&extension=ts&play_token=XqbST25FQT
-#EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=932999&extension=ts&play_token=MQYZexWKlp
+#EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237600&extension=ts&play_token=IrT35KD1aZ
-#EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=392119&extension=ts&play_token=5EB3PPWaiI
-#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237598&extension=ts&play_token=8h0v36inkN
+#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 4139D47D4229AA70686574CE73B2F96D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=eNtWag6f5f
-#EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",08/10 05:05 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
+#EXTVLCOPT:http-header=Authorization: Bearer 74B9EF6355C763C8BDDBAF842A4C2304
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1281&extension=ts&play_token=xZQZqZ1YA3
+#EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",09/10 03:20 PM | : Rolex Shanghai Masters - Shanghai (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 666C3D5C40180B61D18296F5964050E7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1279&extension=ts&play_token=kXmQo954x3
+#EXTVLCOPT:http-header=Authorization: Bearer F8D2FFE57D139DCDFA05876246BEAB39
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1281&extension=ts&play_token=srMdqHJnRK
