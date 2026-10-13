@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| LA GRANDE SOIREE ARSENAL VS LILLE ( :00)
+#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer EAF7BD7C1486E2641F907A16797086A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987645&extension=ts&play_token=br0RvSzcMX
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| LA GRANDE SOIREE ARSENAL VS LILLE ( :00)
+#EXTVLCOPT:http-header=Authorization: Bearer 4944B9F628869199C886B95181E51B01
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987645&extension=ts&play_token=5cRSh99hFw
+#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| La grande soirée ARSENAL VS LILLE ( :00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 3BE5245EFCCC099F6F5264E1916F5353
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1987645&extension=ts&play_token=63LXmh04wi
-#EXTINF:-1 tvg-id="1987645" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",14/10 02:00 AM | D+ FR 017| LA GRANDE SOIREE ARSENAL VS LILLE ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 7A1F140A8C34FBE49D3E47A3F6FCD243
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987645&extension=ts&play_token=GklvhDNJEE
+#EXTVLCOPT:http-header=Authorization: Bearer 9A7E1AF7EB7B35082D1BDBC7DDEA06FC
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1987645&extension=ts&play_token=Ks4GJ5HrWu
