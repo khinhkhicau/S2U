@@ -1,121 +1,586 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="933199" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",15/10 05:00 PM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 04 Olympiaue lyonnais vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933199&extension=ts&play_token=uXhmpmEctI
-#EXTINF:-1 tvg-id="933199" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",15/10 05:00 PM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830065&extension=ts&play_token=LojHdu66S0
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 04 Olympiaue lyonnais vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933199&extension=ts&play_token=Hu53DL9QxT
-#EXTINF:-1 tvg-id="933199" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",15/10 05:00 PM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830065&extension=ts&play_token=VYLsUlfHHu
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 04 Olympiaue lyonnais vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933199&extension=ts&play_token=SLF8Dnj3wh
-#EXTINF:-1 tvg-id="794966" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",15/10 07:15 PM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830065&extension=ts&play_token=xLHTpWk1v3
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794966&extension=ts&play_token=msaAQfV136
-#EXTINF:-1 tvg-id="794960" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",15/10 07:15 PM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830061&extension=ts&play_token=JQq8Dd7tjC
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830061&extension=ts&play_token=2M7wGxbLD0
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830061&extension=ts&play_token=I4fXW3yk02
+#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 05 Red Bull Salzburg vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794960&extension=ts&play_token=aYIi0mEql0
-#EXTINF:-1 tvg-id="794948" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",15/10 07:15 PM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=pEc43gjAf0
+#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 05 Red Bull Salzburg vs AC Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830064&extension=ts&play_token=nJcJwtO8Em
+#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 05 Red Bull Salzburg vs AC Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=MpJDgVt0wm
+#EXTINF:-1 tvg-id="830066" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 03 Lech Poznan vs Bayer 04 Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794948&extension=ts&play_token=pAKecXCPet
-#EXTINF:-1 tvg-id="794966" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",15/10 07:15 PM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830066&extension=ts&play_token=54wDilYlxX
+#EXTINF:-1 tvg-id="830066" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 03 Lech Poznan vs Bayer 04 Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=794966&extension=ts&play_token=uIvKZII3yL
-#EXTINF:-1 tvg-id="794960" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",15/10 07:15 PM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=794960&extension=ts&play_token=bEKtm9NZIY
-#EXTINF:-1 tvg-id="794948" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",15/10 07:15 PM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=794948&extension=ts&play_token=cDMx5AsPdY
-#EXTINF:-1 tvg-id="794966" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER UNITED.png",15/10 07:15 PM | ┃ ┃ MANCHESTER UNITED F.C (MATCH TIME)
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830066&extension=ts&play_token=uCDoYe8lm2
+#EXTINF:-1 tvg-id="830066" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 03 Lech Poznan vs Bayer 04 Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794966&extension=ts&play_token=P5zt5AVi45
-#EXTINF:-1 tvg-id="794960" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/NEWCASTLE UNITED.png",15/10 07:15 PM | ┃ ┃ NEWCASTLE UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794960&extension=ts&play_token=wc6YTd6PKe
-#EXTINF:-1 tvg-id="794948" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/WEST HAM UNITED.png",15/10 07:15 PM | ┃ ┃ WEST HAM UNITED F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794948&extension=ts&play_token=BXvYHv9pe4
-#EXTINF:-1 tvg-id="1802341" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF03 Newcastle United vs Strasbourg
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830066&extension=ts&play_token=VZCWrKtbd8
+#EXTINF:-1 tvg-id="830067" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 02 Celje vs Omonia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802341&extension=ts&play_token=OIiEYyKoxN
-#EXTINF:-1 tvg-id="1802350" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF12 Newcastle United vs Bayer Leverkusen
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830067&extension=ts&play_token=tMyPhVMaPc
+#EXTINF:-1 tvg-id="830067" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 02 Celje vs Omonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830067&extension=ts&play_token=SCbDl3dzvh
+#EXTINF:-1 tvg-id="830067" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 02 Celje vs Omonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830067&extension=ts&play_token=ZjDgwIJ0XC
+#EXTINF:-1 tvg-id="830068" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 01 AZ Alkmaar vs H Be'er Sheva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802350&extension=ts&play_token=hSCzCthAoZ
-#EXTINF:-1 tvg-id="1802353" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF15 Manchester United vs Milan
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830068&extension=ts&play_token=AKUlHuEH0O
+#EXTINF:-1 tvg-id="830068" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 01 AZ Alkmaar vs H Be'er Sheva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830068&extension=ts&play_token=hwFDWglQhi
+#EXTINF:-1 tvg-id="830068" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 01 AZ Alkmaar vs H Be'er Sheva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830068&extension=ts&play_token=hiI71zgqSL
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802353&extension=ts&play_token=GUKm8duohb
-#EXTINF:-1 tvg-id="1802341" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF03 Newcastle United vs Strasbourg
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830044&extension=ts&play_token=o0QhZd18pe
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802341&extension=ts&play_token=X8EUAypm16
-#EXTINF:-1 tvg-id="1802350" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF12 Newcastle United vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802350&extension=ts&play_token=mmfaQP7d3a
-#EXTINF:-1 tvg-id="1802353" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF15 Manchester United vs Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802353&extension=ts&play_token=gCa3skmqpP
-#EXTINF:-1 tvg-id="1802341" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF03 Newcastle United vs Strasbourg
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830044&extension=ts&play_token=0jHwNzHJGN
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802341&extension=ts&play_token=5mspWoadeT
-#EXTINF:-1 tvg-id="1802350" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF12 Newcastle United vs Bayer Leverkusen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802350&extension=ts&play_token=rObbxrydrc
-#EXTINF:-1 tvg-id="1802353" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",15/10 07:15 PM | PSF15 Manchester United vs Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802353&extension=ts&play_token=0UrrmRzz4h
-#EXTINF:-1 tvg-id="933199" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",15/10 07:15 PM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830044&extension=ts&play_token=yblPew7EEv
+#EXTINF:-1 tvg-id="830045" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 24 Lugano vs Red Star Belgarde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 95A37B19709074F893336DC7D43B2A5A
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933199&extension=ts&play_token=uXhmpmEctI
-#EXTINF:-1 tvg-id="933199" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",15/10 07:15 PM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830045&extension=ts&play_token=ZWYvi4sxpp
+#EXTINF:-1 tvg-id="830045" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 24 Lugano vs Red Star Belgarde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer ABE5CAD8F0C1B18A59449758D9ADEE75
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933199&extension=ts&play_token=Hu53DL9QxT
-#EXTINF:-1 tvg-id="933199" group-title="Live UEFA Champions League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PARAMOUNT+ SPORT/PARAMOUNT+ SPORT.png",15/10 07:15 PM | ┃USA┃ PARAMOUNT+ SPORT 37 UEFA EUROPA LEAGUE MAN UNITED VS PAOK
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830045&extension=ts&play_token=PUwGENOycJ
+#EXTINF:-1 tvg-id="830045" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 24 Lugano vs Red Star Belgarde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6D15604AD0D37A54AF74762DED061828
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933199&extension=ts&play_token=SLF8Dnj3wh
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830045&extension=ts&play_token=bvHoScDVFO
+#EXTINF:-1 tvg-id="830043" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 26 Panathinaikos vs Borac Banja Luka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830043&extension=ts&play_token=Ipnt10hUwy
+#EXTINF:-1 tvg-id="830043" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 26 Panathinaikos vs Borac Banja Luka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830043&extension=ts&play_token=A90s9xBv6H
+#EXTINF:-1 tvg-id="830043" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 26 Panathinaikos vs Borac Banja Luka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830043&extension=ts&play_token=EeZpx2G9LJ
+#EXTINF:-1 tvg-id="830046" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 23 KuPS vs Trabzonspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830046&extension=ts&play_token=8DkAtwDwGZ
+#EXTINF:-1 tvg-id="830046" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 23 KuPS vs Trabzonspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830046&extension=ts&play_token=EqxzOn53Ys
+#EXTINF:-1 tvg-id="830046" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 23 KuPS vs Trabzonspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830046&extension=ts&play_token=j4CEhuI2mS
+#EXTINF:-1 tvg-id="830041" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 28 Universitatea Craiova vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830041&extension=ts&play_token=XdzKf1x6tD
+#EXTINF:-1 tvg-id="830041" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 28 Universitatea Craiova vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830041&extension=ts&play_token=C3C22HcOFv
+#EXTINF:-1 tvg-id="830041" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 28 Universitatea Craiova vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830041&extension=ts&play_token=M00QzIoC9m
+#EXTINF:-1 tvg-id="830042" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 27 Riga vs Kairat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830042&extension=ts&play_token=9GzicO8Qnr
+#EXTINF:-1 tvg-id="830042" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 27 Riga vs Kairat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830042&extension=ts&play_token=wVJ2hiCwM8
+#EXTINF:-1 tvg-id="830042" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 27 Riga vs Kairat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830042&extension=ts&play_token=S8KhJwaGpu
+#EXTINF:-1 tvg-id="830047" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 22 Hajduk vs Ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830047&extension=ts&play_token=U1CRfK0THd
+#EXTINF:-1 tvg-id="830047" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 22 Hajduk vs Ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830047&extension=ts&play_token=yhyORCkI0o
+#EXTINF:-1 tvg-id="830047" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 22 Hajduk vs Ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830047&extension=ts&play_token=eSrmVWsAHR
+#EXTINF:-1 tvg-id="830050" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 19 CSKA Sofia vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830050&extension=ts&play_token=QMJsWHwzaf
+#EXTINF:-1 tvg-id="830050" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 19 CSKA Sofia vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830050&extension=ts&play_token=KdGyMTTbCn
+#EXTINF:-1 tvg-id="830050" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 19 CSKA Sofia vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830050&extension=ts&play_token=M9mOv4UqWC
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830049&extension=ts&play_token=nmPhgmlhyM
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830049&extension=ts&play_token=GCFGkDEa5q
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830049&extension=ts&play_token=trXqPKzHRi
+#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 05 Red Bull Salzburg vs AC Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830064&extension=ts&play_token=pEc43gjAf0
+#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 05 Red Bull Salzburg vs AC Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830064&extension=ts&play_token=nJcJwtO8Em
+#EXTINF:-1 tvg-id="830064" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 05 Red Bull Salzburg vs AC Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830064&extension=ts&play_token=MpJDgVt0wm
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830061&extension=ts&play_token=JQq8Dd7tjC
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830061&extension=ts&play_token=2M7wGxbLD0
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830061&extension=ts&play_token=I4fXW3yk02
+#EXTINF:-1 tvg-id="830066" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 03 Lech Poznan vs Bayer 04 Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830066&extension=ts&play_token=54wDilYlxX
+#EXTINF:-1 tvg-id="830066" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 03 Lech Poznan vs Bayer 04 Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830066&extension=ts&play_token=uCDoYe8lm2
+#EXTINF:-1 tvg-id="830066" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 03 Lech Poznan vs Bayer 04 Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830066&extension=ts&play_token=VZCWrKtbd8
+#EXTINF:-1 tvg-id="830046" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 23 KuPS vs Trabzonspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830046&extension=ts&play_token=8DkAtwDwGZ
+#EXTINF:-1 tvg-id="830046" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 23 KuPS vs Trabzonspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830046&extension=ts&play_token=EqxzOn53Ys
+#EXTINF:-1 tvg-id="830046" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 23 KuPS vs Trabzonspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830046&extension=ts&play_token=j4CEhuI2mS
+#EXTINF:-1 tvg-id="830042" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 27 Riga vs Kairat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830042&extension=ts&play_token=9GzicO8Qnr
+#EXTINF:-1 tvg-id="830042" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 27 Riga vs Kairat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830042&extension=ts&play_token=wVJ2hiCwM8
+#EXTINF:-1 tvg-id="830042" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 27 Riga vs Kairat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830042&extension=ts&play_token=S8KhJwaGpu
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830044&extension=ts&play_token=o0QhZd18pe
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830044&extension=ts&play_token=0jHwNzHJGN
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830044&extension=ts&play_token=yblPew7EEv
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830049&extension=ts&play_token=nmPhgmlhyM
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830049&extension=ts&play_token=GCFGkDEa5q
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830049&extension=ts&play_token=trXqPKzHRi
+#EXTINF:-1 tvg-id="830041" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 28 Universitatea Craiova vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830041&extension=ts&play_token=XdzKf1x6tD
+#EXTINF:-1 tvg-id="830041" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 28 Universitatea Craiova vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830041&extension=ts&play_token=C3C22HcOFv
+#EXTINF:-1 tvg-id="830041" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 28 Universitatea Craiova vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830041&extension=ts&play_token=M00QzIoC9m
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830044&extension=ts&play_token=o0QhZd18pe
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830044&extension=ts&play_token=0jHwNzHJGN
+#EXTINF:-1 tvg-id="830044" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 25 Mjallby vs Inter Club d'Esclades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830044&extension=ts&play_token=yblPew7EEv
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830049&extension=ts&play_token=nmPhgmlhyM
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830049&extension=ts&play_token=GCFGkDEa5q
+#EXTINF:-1 tvg-id="830049" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 20 Egnatia Rrogozhine vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830049&extension=ts&play_token=trXqPKzHRi
+#EXTINF:-1 tvg-id="830062" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 07 Torreense vs Sunderland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830062&extension=ts&play_token=U28s6XTKBw
+#EXTINF:-1 tvg-id="830062" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 07 Torreense vs Sunderland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830062&extension=ts&play_token=HXNRNoOQfy
+#EXTINF:-1 tvg-id="830062" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 07 Torreense vs Sunderland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830062&extension=ts&play_token=Z5l5av4avy
+#EXTINF:-1 tvg-id="830063" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 06 Sparta Prague vs Lillestrom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830063&extension=ts&play_token=xksfx0Kefo
+#EXTINF:-1 tvg-id="830063" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 06 Sparta Prague vs Lillestrom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830063&extension=ts&play_token=3MzNH0XukM
+#EXTINF:-1 tvg-id="830063" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 06 Sparta Prague vs Lillestrom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830063&extension=ts&play_token=L1PGr3phDS
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830061&extension=ts&play_token=JQq8Dd7tjC
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830061&extension=ts&play_token=2M7wGxbLD0
+#EXTINF:-1 tvg-id="830061" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 08 Union Saint-Gilloise vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830061&extension=ts&play_token=I4fXW3yk02
+#EXTINF:-1 tvg-id="830067" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 02 Celje vs Omonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830067&extension=ts&play_token=tMyPhVMaPc
+#EXTINF:-1 tvg-id="830067" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 02 Celje vs Omonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830067&extension=ts&play_token=SCbDl3dzvh
+#EXTINF:-1 tvg-id="830067" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 02 Celje vs Omonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830067&extension=ts&play_token=ZjDgwIJ0XC
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 04 Olympiaue lyonnais vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830065&extension=ts&play_token=LojHdu66S0
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 04 Olympiaue lyonnais vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830065&extension=ts&play_token=VYLsUlfHHu
+#EXTINF:-1 tvg-id="830065" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",15/10 11:45 PM | UEFA 04 Olympiaue lyonnais vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830065&extension=ts&play_token=xLHTpWk1v3
+#EXTINF:-1 tvg-id="830057" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 12 Dinamo Zagreb vs Anderlecht
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830057&extension=ts&play_token=aC5613idof
+#EXTINF:-1 tvg-id="830057" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 12 Dinamo Zagreb vs Anderlecht
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830057&extension=ts&play_token=AN3OJkLiLn
+#EXTINF:-1 tvg-id="830057" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 12 Dinamo Zagreb vs Anderlecht
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830057&extension=ts&play_token=clP0Up1biD
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830055&extension=ts&play_token=TrqqX4ABTj
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830055&extension=ts&play_token=620Q8BnXof
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830055&extension=ts&play_token=uN0tsiJsB2
+#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 09 Benfica vs Celtic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830060&extension=ts&play_token=hY1koKRzi2
+#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 09 Benfica vs Celtic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830060&extension=ts&play_token=a0zcP0w50s
+#EXTINF:-1 tvg-id="830060" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 09 Benfica vs Celtic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830060&extension=ts&play_token=qVfuPvFX2w
+#EXTINF:-1 tvg-id="830059" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 10 Bournemouth vs Sturm Graz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830059&extension=ts&play_token=n5P5K6TqSf
+#EXTINF:-1 tvg-id="830059" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 10 Bournemouth vs Sturm Graz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830059&extension=ts&play_token=rUZrGqpg7t
+#EXTINF:-1 tvg-id="830059" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 10 Bournemouth vs Sturm Graz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830059&extension=ts&play_token=oWseyNGalA
+#EXTINF:-1 tvg-id="830058" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 11 Celta Vigo vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830058&extension=ts&play_token=WRug1u5yMa
+#EXTINF:-1 tvg-id="830058" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 11 Celta Vigo vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830058&extension=ts&play_token=aJjx5Bjaqy
+#EXTINF:-1 tvg-id="830058" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 11 Celta Vigo vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830058&extension=ts&play_token=o1W0UFZp5l
+#EXTINF:-1 tvg-id="830040" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 29 Atalanta vs Pafos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830040&extension=ts&play_token=zXo2Q9LiIZ
+#EXTINF:-1 tvg-id="830040" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 29 Atalanta vs Pafos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830040&extension=ts&play_token=6VHlXjbU20
+#EXTINF:-1 tvg-id="830040" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 29 Atalanta vs Pafos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830040&extension=ts&play_token=d8TAxiz8o3
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830055&extension=ts&play_token=TrqqX4ABTj
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830055&extension=ts&play_token=620Q8BnXof
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830055&extension=ts&play_token=uN0tsiJsB2
+#EXTINF:-1 tvg-id="830037" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 32 Copenhagen vs Sporting Braga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830037&extension=ts&play_token=m9IkZ7p0m1
+#EXTINF:-1 tvg-id="830037" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 32 Copenhagen vs Sporting Braga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830037&extension=ts&play_token=59gCnNW5fE
+#EXTINF:-1 tvg-id="830037" group-title="Live UEFA Conference League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 32 Copenhagen vs Sporting Braga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830037&extension=ts&play_token=DCwv3VMKW6
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 11DE8B5956D896ECB5860BA0A4DAB9BF
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=830055&extension=ts&play_token=TrqqX4ABTj
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer D6B611582866A6105A3A7944FD4A3389
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=830055&extension=ts&play_token=620Q8BnXof
+#EXTINF:-1 tvg-id="830055" group-title="Live UEFA Europa League-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/TEAMS/UEFA.png",16/10 02:00 AM | UEFA 14 NEC Nijmegen vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 800FA39D207513D59A26B87E14C00F9D
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=830055&extension=ts&play_token=uN0tsiJsB2
