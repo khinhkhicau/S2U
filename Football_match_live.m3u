@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1987641" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",19/10 02:00 AM | D+ FR 013| Spanish R09: Real Madrid vs Sevilla FR ( :00)
+#EXTINF:-1 tvg-id="1100811" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",20/10 02:00 AM | EN TOTTENHAM HOTSPUR VS COVENTRY CITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FB826F910A868839A8AE9E6DE9A23F3D
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987641&extension=ts&play_token=NeO2uJI01X
-#EXTINF:-1 tvg-id="1987641" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",19/10 02:00 AM | D+ FR 013| Spanish R09: Real Madrid vs Sevilla FR ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AEF65B41BBCBBDEA7C907F5E511DE26F
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100811
+#EXTINF:-1 tvg-id="1100813" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",20/10 02:00 AM | FR TOTTENHAM HOTSPUR VS COVENTRY CITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer FA8981EED37798C7ED43E576A7E7755B
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1987641&extension=ts&play_token=Uy1rO8WTH4
-#EXTINF:-1 tvg-id="1987641" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",19/10 02:00 AM | D+ FR 013| Spanish R09: Real Madrid vs Sevilla FR ( :00)
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AEF65B41BBCBBDEA7C907F5E511DE26F
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100813
+#EXTINF:-1 tvg-id="1100815" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",20/10 02:00 AM | AR TOTTENHAM HOTSPUR VS COVENTRY CITY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 659F7D7C676C32CCCB5FC8E02B66E504
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987641&extension=ts&play_token=UTxMkZTCpW
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AEF65B41BBCBBDEA7C907F5E511DE26F
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1100815
+#EXTINF:-1 tvg-id="1388024" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="https://go4.pw/59.png",20/10 02:00 AM | ALB TOTTENHAM HOTSPUR VS COVENTRY CITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:6D:64:87; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AEF65B41BBCBBDEA7C907F5E511DE26F
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1388024
