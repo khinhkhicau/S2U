@@ -1,196 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="794965" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER CITY.png",07/11 02:45 AM | ┃ ┃ MANCHESTER CITY F.C (MATCH TIME)
+#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 09:00 PM | PSF04 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=794965&extension=ts&play_token=rLl3EXRKgT
-#EXTINF:-1 tvg-id="794965" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER CITY.png",07/11 02:45 AM | ┃ ┃ MANCHESTER CITY F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=794965&extension=ts&play_token=ZGm08BsMUb
-#EXTINF:-1 tvg-id="794965" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK EPL Premier League TEAMS/MANCHESTER CITY.png",07/11 02:45 AM | ┃ ┃ MANCHESTER CITY F.C (MATCH TIME)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=794965&extension=ts&play_token=aQZX7cjCOZ
-#EXTINF:-1 tvg-id="1802342" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF04 Arsenal vs Manchester City
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802342&extension=ts&play_token=C7iuDAnwfq
+#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 09:00 PM | PSF05 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802342&extension=ts&play_token=dpg8J3yMW0
-#EXTINF:-1 tvg-id="1802343" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF05 Arsenal vs Manchester City
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802343&extension=ts&play_token=4Jggfw11SH
+#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 09:00 PM | PSF06 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802343&extension=ts&play_token=JYCSn5yH7w
-#EXTINF:-1 tvg-id="1802344" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF06 Arsenal vs Manchester City
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=R6K8eTXO4u
+#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 09:00 PM | PSF04 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802342&extension=ts&play_token=qLcrZ1s2nv
+#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 09:00 PM | PSF05 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802343&extension=ts&play_token=C86IE8P2Y6
+#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 09:00 PM | PSF06 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=UYwExStopm
+#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF04 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=MKsHQMO5ch
-#EXTINF:-1 tvg-id="1802352" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF14 City vs Nice
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802342&extension=ts&play_token=C7iuDAnwfq
+#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF05 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802352&extension=ts&play_token=dWduy4tz06
-#EXTINF:-1 tvg-id="1802342" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF04 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802342&extension=ts&play_token=5lQ1dNhmEr
-#EXTINF:-1 tvg-id="1802343" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF05 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802343&extension=ts&play_token=GKTXqSFfck
-#EXTINF:-1 tvg-id="1802344" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF06 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=H8jfbQFhSG
-#EXTINF:-1 tvg-id="1802352" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF14 City vs Nice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802352&extension=ts&play_token=Fbz8JZAnZy
-#EXTINF:-1 tvg-id="1802342" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF04 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802342&extension=ts&play_token=P96vXsHCxj
-#EXTINF:-1 tvg-id="1802343" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF05 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802343&extension=ts&play_token=8Dp0kqtHJg
-#EXTINF:-1 tvg-id="1802344" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF06 Arsenal vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802344&extension=ts&play_token=BejwDs2CsZ
-#EXTINF:-1 tvg-id="1802352" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 02:45 AM | PSF14 City vs Nice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1802352&extension=ts&play_token=oRs0bw8TQq
-#EXTINF:-1 tvg-id="858622" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bally sports.png",07/11 02:45 AM | ┃USA┃ BALLY SPORTS KANSAS CITY HD
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802343&extension=ts&play_token=4Jggfw11SH
+#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF06 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858622&extension=ts&play_token=GpL3vvyIU5
-#EXTINF:-1 tvg-id="858670" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/space city home.png",07/11 02:45 AM | ┃USA┃ SPACE CITY HOME NETWORK HD
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=R6K8eTXO4u
+#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF04 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802342&extension=ts&play_token=qLcrZ1s2nv
+#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF05 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802343&extension=ts&play_token=C86IE8P2Y6
+#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF06 Arsenal vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=UYwExStopm
+#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF04 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858670&extension=ts&play_token=kvuoyI7I9X
-#EXTINF:-1 tvg-id="934974" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 14 (KBWF) SIOUX CITY
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802342&extension=ts&play_token=C7iuDAnwfq
+#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF05 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=934974&extension=ts&play_token=nYf8pDQtsz
-#EXTINF:-1 tvg-id="934983" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 20 (KTMW) SALT LAKE CITY
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802343&extension=ts&play_token=4Jggfw11SH
+#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF06 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=934983&extension=ts&play_token=VSVk7Uadfp
-#EXTINF:-1 tvg-id="934979" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 39 (KGKC) KANSAS CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=934979&extension=ts&play_token=qXWn9BTwkY
-#EXTINF:-1 tvg-id="934959" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 40 (KTLM) RIO GRANDE CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=934959&extension=ts&play_token=8BUIhaCE7O
-#EXTINF:-1 tvg-id="1367481" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png",07/11 02:45 AM | ┃USA┃ SPORTING KANSAS CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1367481&extension=ts&play_token=LYvbPETv7h
-#EXTINF:-1 tvg-id="858622" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bally sports.png",07/11 02:45 AM | ┃USA┃ BALLY SPORTS KANSAS CITY HD
+#EXTVLCOPT:http-header=Authorization: Bearer C7B6A6C27DBEF8EF5345DC0742417B84
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1802344&extension=ts&play_token=R6K8eTXO4u
+#EXTINF:-1 tvg-id="1802342" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF04 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858622&extension=ts&play_token=qlAEX7lNTd
-#EXTINF:-1 tvg-id="858670" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/space city home.png",07/11 02:45 AM | ┃USA┃ SPACE CITY HOME NETWORK HD
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802342&extension=ts&play_token=qLcrZ1s2nv
+#EXTINF:-1 tvg-id="1802343" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF05 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858670&extension=ts&play_token=O0erRGhE6p
-#EXTINF:-1 tvg-id="934974" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 14 (KBWF) SIOUX CITY
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802343&extension=ts&play_token=C86IE8P2Y6
+#EXTINF:-1 tvg-id="1802344" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League-Match" tvg-logo="http://picon.tele-go.net:25461/picon/1TELEMAX/[UK] PSF PPV/PSF PPV.png",07/11 10:00 PM | PSF06 Arsenal vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=934974&extension=ts&play_token=zc3xjwyYcS
-#EXTINF:-1 tvg-id="934983" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 20 (KTMW) SALT LAKE CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=934983&extension=ts&play_token=n2Xr42j7fT
-#EXTINF:-1 tvg-id="934979" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 39 (KGKC) KANSAS CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=934979&extension=ts&play_token=HqNH2NIzQJ
-#EXTINF:-1 tvg-id="934959" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 40 (KTLM) RIO GRANDE CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=934959&extension=ts&play_token=8cSLXZXHfi
-#EXTINF:-1 tvg-id="1367481" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png",07/11 02:45 AM | ┃USA┃ SPORTING KANSAS CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1367481&extension=ts&play_token=Z8MSCHtukv
-#EXTINF:-1 tvg-id="858622" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/bally sports.png",07/11 02:45 AM | ┃USA┃ BALLY SPORTS KANSAS CITY HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858622&extension=ts&play_token=3ssy5K5GVc
-#EXTINF:-1 tvg-id="858670" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/space city home.png",07/11 02:45 AM | ┃USA┃ SPACE CITY HOME NETWORK HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858670&extension=ts&play_token=NrJOfKqEfN
-#EXTINF:-1 tvg-id="934974" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 14 (KBWF) SIOUX CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=934974&extension=ts&play_token=kBuz77qKlM
-#EXTINF:-1 tvg-id="934983" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 20 (KTMW) SALT LAKE CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=934983&extension=ts&play_token=zY4venpkXp
-#EXTINF:-1 tvg-id="934979" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 39 (KGKC) KANSAS CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=934979&extension=ts&play_token=andYxub6aa
-#EXTINF:-1 tvg-id="934959" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/TELEMUNDO/TELEMUNDO.png",07/11 02:45 AM | ┃USA┃ TELEMUNDO 40 (KTLM) RIO GRANDE CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=934959&extension=ts&play_token=P1fgrIKPuI
-#EXTINF:-1 tvg-id="1367481" group-title="Live FA, League Cup-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png",07/11 02:45 AM | ┃USA┃ SPORTING KANSAS CITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1367481&extension=ts&play_token=3DdVrkYjN2
-#EXTINF:-1 tvg-id="1987645" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",07/11 03:00 AM | D+ FR 017| Spanish R12: Sevilla Alavés FR ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 94CF59F5EBDC5BD8FD42382C3AE141A7
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1987645&extension=ts&play_token=6NS5brco2g
-#EXTINF:-1 tvg-id="1987645" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",07/11 03:00 AM | D+ FR 017| Spanish R12: Sevilla Alavés FR ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 291CCE64210963150B0E11D997DC5ACD
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1987645&extension=ts&play_token=hyu5nsrKNX
-#EXTINF:-1 tvg-id="1987645" group-title="⚽️🇪🇦|Live La Liga-Match" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/OD DINSEY+/DISNEY+.png",07/11 03:00 AM | D+ FR 017| Spanish R12: Sevilla Alavés FR ( :00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer E21A056E72DCCB99AB256E7CFC4EA373
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1987645&extension=ts&play_token=ijxsHK3OQD
+#EXTVLCOPT:http-header=Authorization: Bearer 1D6608D462F33396ACF4579D652A31A1
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1802344&extension=ts&play_token=UYwExStopm
