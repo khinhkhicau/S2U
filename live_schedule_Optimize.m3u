@@ -1,571 +1,586 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",14/11 03:00 AM | FAGE WTA Finals Indian Wells E6 (┃HK┃ NOW SPORTS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=AHbsJjERhT
-#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382840&extension=ts&play_token=uQOYoXneDn
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",14/11 03:00 AM | FAGE WTA Finals Indian Wells E6 (┃HK┃ NOW SPORTS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382840&extension=ts&play_token=u6cZ9dAYNk
+#EXTINF:-1 tvg-id="382840" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/HONGKONG/nowsports.png",14/11 03:00 AM | FAGE WTA Finals Indian Wells E6 (┃HK┃ NOW SPORTS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=382840&extension=ts&play_token=NGMH4JEwCy
+#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=z5Bqe2wgmI
-#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394553&extension=ts&play_token=ltYF46AeGY
-#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312176&extension=ts&play_token=mUAk2QfZgv
-#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394553&extension=ts&play_token=ugOOrYj43q
-#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312176&extension=ts&play_token=AplugPoz2Z
-#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312004&extension=ts&play_token=M7GpqT4gyF
+#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312008&extension=ts&play_token=N7VrrKi3R9
-#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312026&extension=ts&play_token=jvUhdnfYE1
+#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312033&extension=ts&play_token=o5aNI0xi0L
-#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312043&extension=ts&play_token=unPHXg1FQa
+#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312049&extension=ts&play_token=FxHdxQ0Nwh
-#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312008&extension=ts&play_token=tjXeuyFfkV
-#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312033&extension=ts&play_token=jI1JWMT10B
-#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312049&extension=ts&play_token=52FgVlJibL
-#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312008&extension=ts&play_token=uLHm1RoVcx
-#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312033&extension=ts&play_token=sbLfpZjIGF
-#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312049&extension=ts&play_token=CAGif3kBoY
-#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394549&extension=ts&play_token=gaufNxuZD3
+#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312004&extension=ts&play_token=B8wV8M3kzk
-#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312026&extension=ts&play_token=I8jh76Q5IL
-#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312043&extension=ts&play_token=gouNwcVRpT
-#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394549&extension=ts&play_token=oc4Dpwg6dH
-#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312186&extension=ts&play_token=P7qYlRnfUz
-#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312186&extension=ts&play_token=GCiaRNfDx8
+#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312004&extension=ts&play_token=dELmGvkKIT
-#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312004&extension=ts&play_token=HPdDhFoUHY
+#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312026&extension=ts&play_token=ta850fAaFD
-#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312026&extension=ts&play_token=0gf98cudt6
+#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312043&extension=ts&play_token=qMc0O7JdkX
-#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312043&extension=ts&play_token=us0Bm00rQf
+#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394549&extension=ts&play_token=5cXPgeWJCA
-#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394549&extension=ts&play_token=IX7BTIs6gB
+#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312186&extension=ts&play_token=lN8SPlzZUZ
-#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312186&extension=ts&play_token=39gKkUtNwb
+#EXTINF:-1 tvg-id="1312004" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312004&extension=ts&play_token=B1a2Vj4lLC
-#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312004&extension=ts&play_token=9w8tDTVfws
+#EXTINF:-1 tvg-id="1312026" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312026&extension=ts&play_token=yJA5dzKRVJ
-#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312026&extension=ts&play_token=ikUoxYlJRM
+#EXTINF:-1 tvg-id="1312043" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312043&extension=ts&play_token=LiiRESQRLR
-#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312043&extension=ts&play_token=DD7i7hzGh6
+#EXTINF:-1 tvg-id="394549" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394549&extension=ts&play_token=R0SnMYCMX1
-#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS TENNIS HD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394549&extension=ts&play_token=fovDhWBOfj
+#EXTINF:-1 tvg-id="1312186" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312186&extension=ts&play_token=PyTCP35dzn
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312186&extension=ts&play_token=A7mwNOKaP1
 #EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1311994&extension=ts&play_token=eIrEZ4Uvth
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1311994&extension=ts&play_token=HEDYioaZL9
 #EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312028&extension=ts&play_token=dePuLNqqH8
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312028&extension=ts&play_token=rCOMiAuAbr
 #EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312050&extension=ts&play_token=JAv2CRWb29
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312050&extension=ts&play_token=n6A6dbuUFn
 #EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=870313&extension=ts&play_token=4QwfXdCox5
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=870313&extension=ts&play_token=ZbJ3rxyF8v
 #EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312185&extension=ts&play_token=fojulbBAv6
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312185&extension=ts&play_token=Vha0gY4T50
 #EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311994&extension=ts&play_token=Q2RmlOMTjD
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311994&extension=ts&play_token=su5T4kbVSE
 #EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312028&extension=ts&play_token=MGiRhvFWPT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312028&extension=ts&play_token=yYWbUTxMjC
 #EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312050&extension=ts&play_token=OqswAQppHw
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312050&extension=ts&play_token=znCPU2Ki2N
 #EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=870313&extension=ts&play_token=iJUeVMaG92
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=870313&extension=ts&play_token=jHaVxP7Qws
 #EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312185&extension=ts&play_token=50bBhBaG26
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312185&extension=ts&play_token=udLAhq0iBH
 #EXTINF:-1 tvg-id="1311994" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ RAW 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311994&extension=ts&play_token=sUrur0cxJX
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311994&extension=ts&play_token=7Q24MPFXwF
 #EXTINF:-1 tvg-id="1312028" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312028&extension=ts&play_token=U9sTNQzNS1
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312028&extension=ts&play_token=f9udCXHnvo
 #EXTINF:-1 tvg-id="1312050" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312050&extension=ts&play_token=E2Q5eoU4oK
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312050&extension=ts&play_token=88oQZvIBT9
 #EXTINF:-1 tvg-id="870313" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=870313&extension=ts&play_token=u4bYIbDWAM
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=870313&extension=ts&play_token=xU5YvQUttH
 #EXTINF:-1 tvg-id="1312185" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png",13/11 07:00 PM | Stockholm Open (┃UK┃ SKY SPORTS+ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312185&extension=ts&play_token=aQ08V0TpXE
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",13/11 07:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312185&extension=ts&play_token=K26q0oc9E1
+#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=1z9vJ60sU8
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",13/11 07:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=wUxbYSWwUc
+#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=r65qS5xVWX
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",13/11 07:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=KBQDr1DlQq
+#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=d2ty5W1DBu
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",13/11 07:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394553&extension=ts&play_token=VabNw5e3fs
+#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=1VNkX6fZTP
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",13/11 07:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312176&extension=ts&play_token=2fBO93J5cz
+#EXTINF:-1 tvg-id="394553" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858523&extension=ts&play_token=P9fZpprqoN
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",13/11 07:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394553&extension=ts&play_token=CdPGpF693H
+#EXTINF:-1 tvg-id="1312176" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988078&extension=ts&play_token=ATWS5bmDA6
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312176&extension=ts&play_token=p5UD4QaHGB
+#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312008&extension=ts&play_token=GiSjSOk5eV
+#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312033&extension=ts&play_token=XgAhdMOQYI
+#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312049&extension=ts&play_token=hT763YoDrM
+#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312008&extension=ts&play_token=srMQaoHggu
+#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312033&extension=ts&play_token=8Pn7GoVGOt
+#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312049&extension=ts&play_token=Isa5WUg8wu
+#EXTINF:-1 tvg-id="1312008" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312008&extension=ts&play_token=VedXjBZpM8
+#EXTINF:-1 tvg-id="1312033" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312033&extension=ts&play_token=QsNLn3b3NL
+#EXTINF:-1 tvg-id="1312049" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",14/11 02:00 AM | WTA Finals (┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312049&extension=ts&play_token=8btllClzaE
 #EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",13/11 07:00 PM | Stockholm Open (┃USA┃ SNY SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858673&extension=ts&play_token=Th5u9wmsdj
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858673&extension=ts&play_token=ymwzyEAsMy
 #EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",13/11 07:00 PM | Stockholm Open (┃USA┃ SNY SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858673&extension=ts&play_token=JcpELQeW0P
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858673&extension=ts&play_token=lT7CqWHcz0
 #EXTINF:-1 tvg-id="858673" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/sny.png",13/11 07:00 PM | Stockholm Open (┃USA┃ SNY SPORTS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858673&extension=ts&play_token=V7yVY47cBv
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",13/11 07:00 AM | WTA Finals (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858673&extension=ts&play_token=2XMTzC7BlG
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",14/11 05:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1972847&extension=ts&play_token=7AXQSqWqjq
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",13/11 07:00 AM | WTA Finals (┃PPV┃ TENNIS CHANNEL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=jaJ5DHHdne
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",13/11 07:00 AM | WTA Finals (┃PPV┃ TENNIS CHANNEL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1972847&extension=ts&play_token=OqASCd86wW
-#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=XZwv0cktDl
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",14/11 05:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760955&extension=ts&play_token=jfDYPT6iMY
-#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=E9PQzWQxDd
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",14/11 05:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=0vDB0SzLlY
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",14/11 05:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=PyXf0r8aZy
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/tennis channel.png",14/11 05:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858523&extension=ts&play_token=HfnYXt5yjF
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",14/11 05:00 AM | WTA Finals (┃USA┃ TENNIS CHANNEL HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988078&extension=ts&play_token=sweFiof2tA
+#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149433&extension=ts&play_token=8ClKlb4m2R
-#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=760955&extension=ts&play_token=f3nleHDeJ5
+#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149459&extension=ts&play_token=WMlK41rWwt
-#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃IT┃ SKY SPORT TENNIS HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149433&extension=ts&play_token=0LmyaRT2Dj
+#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167175&extension=ts&play_token=qsRIj0cKAA
-#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃IT┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1149459&extension=ts&play_token=bMjIhioHdc
+#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃IT┃ SKY SPORT TENNIS HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167174&extension=ts&play_token=qSITaKQ4UC
-#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167175&extension=ts&play_token=8Lqka1BOVU
+#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃IT┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1167174&extension=ts&play_token=oDv04c1dqg
+#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760955&extension=ts&play_token=JpWJTfmfsa
-#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=760955&extension=ts&play_token=eaNFwK6XbN
+#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149433&extension=ts&play_token=KLaHkBvFoA
-#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149433&extension=ts&play_token=3tJYs4M9XK
+#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149459&extension=ts&play_token=bexm9bpoJe
-#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃IT┃ SKY SPORT TENNIS HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1149459&extension=ts&play_token=RqC1uZX8Ve
+#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃IT┃ SKY SPORT TENNIS HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167175&extension=ts&play_token=X3OdNzAIRd
-#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃IT┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167175&extension=ts&play_token=kaPJ1X2cpN
+#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃IT┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167174&extension=ts&play_token=pWesohzO3H
-#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1167174&extension=ts&play_token=iox1YcBRh6
+#EXTINF:-1 tvg-id="760955" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKYSPORTTENNISHD.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS RAW)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=760955&extension=ts&play_token=t9GC7aVEz2
-#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=760955&extension=ts&play_token=JujwczZbyt
+#EXTINF:-1 tvg-id="1149433" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1149433&extension=ts&play_token=rPciCuTlvj
-#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃DE┃ SKY SPORT TENNIS HD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1149433&extension=ts&play_token=Fiw4YZz0R0
+#EXTINF:-1 tvg-id="1149459" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/SKY SPORT/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃DE┃ SKY SPORT TENNIS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1149459&extension=ts&play_token=bsJwSChv4B
-#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃IT┃ SKY SPORT TENNIS HEVC)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1149459&extension=ts&play_token=L8srUftT8q
+#EXTINF:-1 tvg-id="1167175" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃IT┃ SKY SPORT TENNIS HEVC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1167175&extension=ts&play_token=t8xCeKZ1X3
-#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",14/11 02:00 AM | WTA Finals (┃IT┃ SKY SPORT TENNIS FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1167175&extension=ts&play_token=u1qNAnEAZf
+#EXTINF:-1 tvg-id="1167174" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png",13/11 07:00 PM | Stockholm Open (┃IT┃ SKY SPORT TENNIS FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1167174&extension=ts&play_token=nbDG0WPZjF
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1167174&extension=ts&play_token=f8oi7HVQPF
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",14/11 05:00 AM | WTA Finals (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1972847&extension=ts&play_token=xMnD1vRjcs
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",14/11 05:00 AM | WTA Finals (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=ZYgZj1RHXK
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Tennis/Tennis.png",14/11 05:00 AM | WTA Finals (┃PPV┃ TENNIS CHANNEL FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1972847&extension=ts&play_token=WcKRjqZTML
 #EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=9ggX7EUieo
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444090&extension=ts&play_token=G9J7zbsJ5y
 #EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=AP6jG6tR5u
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444087&extension=ts&play_token=rFUAejvxOK
 #EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=E3KA30m8mG
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444088&extension=ts&play_token=pH1kKUqtNj
 #EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=auTBLuGy5H
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444089&extension=ts&play_token=7NV5C5AgRN
 #EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=XI5nyUD5kr
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1444091&extension=ts&play_token=CIegJJhr1O
 #EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=kG3sikzUSP
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444090&extension=ts&play_token=tuErqTJAmt
 #EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=6g88HXkUMu
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444087&extension=ts&play_token=C2RuAUnpwC
 #EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=sVig7r6r55
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444088&extension=ts&play_token=tBNfI3nQb2
 #EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=6kgvl2UOTf
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444089&extension=ts&play_token=pTrd8eSPNf
 #EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444091&extension=ts&play_token=RmSs9FWqEN
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1444091&extension=ts&play_token=ImWemKo4nQ
 #EXTINF:-1 tvg-id="1444090" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444090&extension=ts&play_token=47inSoeISw
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444090&extension=ts&play_token=l6P1hnDNBx
 #EXTINF:-1 tvg-id="1444087" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444087&extension=ts&play_token=P6Pz0UonMB
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444087&extension=ts&play_token=HLR2WunX9h
 #EXTINF:-1 tvg-id="1444088" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444088&extension=ts&play_token=sOKSFBMTTo
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444088&extension=ts&play_token=1CGoL7dUh7
 #EXTINF:-1 tvg-id="1444089" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444089&extension=ts&play_token=6nPj3kYPg6
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444089&extension=ts&play_token=t0NfdVbwbn
 #EXTINF:-1 tvg-id="1444091" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png",13/11 05:00 PM | Tenis: ATP Stockholm Semifinale (┃RO┃ DIGI SPORT 4 FIBRA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444091&extension=ts&play_token=uB1ayAQjIk
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1444091&extension=ts&play_token=9ihzrPByzh
 #EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548066&extension=ts&play_token=wG81ndBd8F
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548066&extension=ts&play_token=iUpf0gULkE
 #EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=932999&extension=ts&play_token=gupG5lNlaD
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=932999&extension=ts&play_token=G8arl6mZ8W
 #EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237598&extension=ts&play_token=LBr9rboRh3
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237598&extension=ts&play_token=KEDgglqvVp
 #EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548066&extension=ts&play_token=7X9MVn06X9
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548066&extension=ts&play_token=j4sG4NDgFj
 #EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=932999&extension=ts&play_token=YypYOuY6Lp
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=932999&extension=ts&play_token=87N1Z5XhRT
 #EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237598&extension=ts&play_token=Pd1uCxZ9iM
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237598&extension=ts&play_token=5ovhSINqdA
 #EXTINF:-1 tvg-id="548066" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548066&extension=ts&play_token=XGQforhzQN
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548066&extension=ts&play_token=vz2bFPVEkw
 #EXTINF:-1 tvg-id="932999" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT SELECT.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=932999&extension=ts&play_token=JYgTRYszPD
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=932999&extension=ts&play_token=SM0k5kUAlZ
 #EXTINF:-1 tvg-id="237598" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237598&extension=ts&play_token=eDC99S9eXI
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237598&extension=ts&play_token=uXlRHfC4r2
 #EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1281&extension=ts&play_token=gnt8jy6lLD
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1281&extension=ts&play_token=5MHYXEkpya
 #EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1281&extension=ts&play_token=bf5wbOUWea
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1281&extension=ts&play_token=Ql8oNXfbeL
 #EXTINF:-1 tvg-id="1281" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTSELECTHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1281&extension=ts&play_token=oNdmSqoIBw
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1281&extension=ts&play_token=n9HlPbQ6TS
 #EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=zDulCC9DpP
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=548067&extension=ts&play_token=ZybQLe124Y
 #EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=AXZSz55mLv
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=933000&extension=ts&play_token=q7g0tiitfu
 #EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=Ly164oDwZM
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=237600&extension=ts&play_token=jOEKtQUFzp
 #EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=CZc7MZIjav
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=392119&extension=ts&play_token=qWOTzh82Hh
 #EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548067&extension=ts&play_token=hSl954BT1E
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=548067&extension=ts&play_token=7L7fpTPOPt
 #EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933000&extension=ts&play_token=SI8PvBXeeq
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=933000&extension=ts&play_token=PkV2aaZ3qK
 #EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237600&extension=ts&play_token=yQUcy3jhTP
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=237600&extension=ts&play_token=l5YBQX6U3r
 #EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=392119&extension=ts&play_token=zCAUu7w7EN
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=392119&extension=ts&play_token=SJZcLNbaz6
 #EXTINF:-1 tvg-id="548067" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548067&extension=ts&play_token=eVc4S5rQpX
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=548067&extension=ts&play_token=yaw19eOuNE
 #EXTINF:-1 tvg-id="933000" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL ODIDO FHD 50FPS/ZIGGO SPORT RACING.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 FHD 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933000&extension=ts&play_token=M9iPY5CriL
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=933000&extension=ts&play_token=A8f9axsa6z
 #EXTINF:-1 tvg-id="237600" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 8K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237600&extension=ts&play_token=HWGUKCheHL
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=237600&extension=ts&play_token=KvF8NMJhtB
 #EXTINF:-1 tvg-id="392119" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 8K+ UHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=392119&extension=ts&play_token=wtJbu3W0mB
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=392119&extension=ts&play_token=sof62xscs8
 #EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 5E155B68AF1D823B3D2BDE71D79521F2
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=VZuBqPQ2Iu
+#EXTVLCOPT:http-header=Authorization: Bearer 2807D604ACA503538C0972584E259811
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1279&extension=ts&play_token=OuSC7oMEva
 #EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer D5D08C5E03148C84509F588DF86FA58C
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1279&extension=ts&play_token=kfDwrXP4az
+#EXTVLCOPT:http-header=Authorization: Bearer 748C6C7B54F9AE87B404CD02015EA43A
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1279&extension=ts&play_token=2rAyj3p5SJ
 #EXTINF:-1 tvg-id="1279" group-title="🎾|Live Tennis" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZIGGOSPORTRACINGHD.png",13/11 08:00 PM | : BYBIT Stockholm Open (┃NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 6596DFBD73381BE1BA49FCFD502769DD
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1279&extension=ts&play_token=aKgrmrlHwQ
+#EXTVLCOPT:http-header=Authorization: Bearer BD67288FE99A3526FA4958E148C1E513
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1279&extension=ts&play_token=oVojK5ER11
