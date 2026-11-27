@@ -1,1291 +1,376 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4874fbceb44994a7.png",26/11 10:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4874fbceb44994a7.png",27/11 09:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=ikphMX5kMH
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",26/11 10:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=y91QTEbWcA
-#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4874fbceb44994a7.png",26/11 10:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858523&extension=ts&play_token=TNj33GcpBN
-#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",26/11 10:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=988078&extension=ts&play_token=VRy4K37dti
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",26/11 10:00 PM | Davis Cup (PPV┃ TENNIS CHANNEL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=FnaIYRcodn
-#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",26/11 10:00 PM | Davis Cup (PPV┃ TENNIS CHANNEL FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1972847&extension=ts&play_token=nPDFPSP6gI
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174221&extension=ts&play_token=S4DMOKtVGL
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174217&extension=ts&play_token=hV6Gf1jVx6
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311897&extension=ts&play_token=xbbzkQa2cy
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174234&extension=ts&play_token=6vo5vUS3pj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174229&extension=ts&play_token=t2YPDuSLzv
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311902&extension=ts&play_token=8WlnWFwinM
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174239&extension=ts&play_token=FUNSxNCCGs
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174221&extension=ts&play_token=CoLw9nzCwJ
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174217&extension=ts&play_token=UipDJQPFEm
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311897&extension=ts&play_token=VuNCjN7rcV
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=zAv3hcIcLj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=hVijJJwff4
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=PHlxy4eQ6J
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 10:30 PM | Kairat Almaty vs Mjällby AIF (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=G7dYjhpWN4
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174218&extension=ts&play_token=i5XSy7ri77
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174214&extension=ts&play_token=1qYVN9t2os
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311894&extension=ts&play_token=NGqa36wSrK
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174231&extension=ts&play_token=hy8zc59JaL
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174226&extension=ts&play_token=THnDJvfOuG
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311899&extension=ts&play_token=pfjoeB92n6
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174236&extension=ts&play_token=GcXNIAS16h
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174218&extension=ts&play_token=tM5hM8Cqux
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174214&extension=ts&play_token=2lxnioswgC
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311894&extension=ts&play_token=ewFod2mMcY
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=cHYvOQlfzQ
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=7HA9PEFRkp
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=Nwc2oBCvBd
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Celta Vigo vs Bournemouth AFC (UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=jyFNQdkfk0
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174221&extension=ts&play_token=S4DMOKtVGL
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174217&extension=ts&play_token=hV6Gf1jVx6
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311897&extension=ts&play_token=xbbzkQa2cy
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174234&extension=ts&play_token=6vo5vUS3pj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174229&extension=ts&play_token=t2YPDuSLzv
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311902&extension=ts&play_token=8WlnWFwinM
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174239&extension=ts&play_token=FUNSxNCCGs
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174221&extension=ts&play_token=CoLw9nzCwJ
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174217&extension=ts&play_token=UipDJQPFEm
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311897&extension=ts&play_token=VuNCjN7rcV
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=zAv3hcIcLj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=hVijJJwff4
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=PHlxy4eQ6J
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",26/11 11:45 PM | Olympiakos vs AC Milan (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=G7dYjhpWN4
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174221&extension=ts&play_token=S4DMOKtVGL
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174217&extension=ts&play_token=hV6Gf1jVx6
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311897&extension=ts&play_token=xbbzkQa2cy
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174234&extension=ts&play_token=6vo5vUS3pj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174229&extension=ts&play_token=t2YPDuSLzv
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311902&extension=ts&play_token=8WlnWFwinM
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174239&extension=ts&play_token=FUNSxNCCGs
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174221&extension=ts&play_token=CoLw9nzCwJ
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174217&extension=ts&play_token=UipDJQPFEm
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311897&extension=ts&play_token=VuNCjN7rcV
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=zAv3hcIcLj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=hVijJJwff4
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=PHlxy4eQ6J
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiakos Piraeus - AC Milan (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=G7dYjhpWN4
-#EXTINF:-1 tvg-id="858592" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8702eb64f3b64d31.png",27/11 12:45 AM | Olympique Marseille - Levski Sofia (USA┃ BEIN SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858592&extension=ts&play_token=tuPLLBVzzc
-#EXTINF:-1 tvg-id="858592" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8702eb64f3b64d31.png",27/11 12:45 AM | Olympique Marseille - Levski Sofia (USA┃ BEIN SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858592&extension=ts&play_token=p8bLTsu4wP
-#EXTINF:-1 tvg-id="858590" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ad48ae392ae8f46a.png",27/11 12:45 AM | Dinamo Zagreb - Bayer Leverkusen (USA┃ BEIN SPORTS 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858590&extension=ts&play_token=e26WHRY8a1
-#EXTINF:-1 tvg-id="858590" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ad48ae392ae8f46a.png",27/11 12:45 AM | Dinamo Zagreb - Bayer Leverkusen (USA┃ BEIN SPORTS 6 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858590&extension=ts&play_token=6UZtd5fddS
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174218&extension=ts&play_token=i5XSy7ri77
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174214&extension=ts&play_token=1qYVN9t2os
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311894&extension=ts&play_token=NGqa36wSrK
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174231&extension=ts&play_token=hy8zc59JaL
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174226&extension=ts&play_token=THnDJvfOuG
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311899&extension=ts&play_token=pfjoeB92n6
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174236&extension=ts&play_token=GcXNIAS16h
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174218&extension=ts&play_token=tM5hM8Cqux
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174214&extension=ts&play_token=2lxnioswgC
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311894&extension=ts&play_token=ewFod2mMcY
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=cHYvOQlfzQ
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=7HA9PEFRkp
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=Nwc2oBCvBd
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta de Vigo - AFC Bournemouth (UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=jyFNQdkfk0
-#EXTINF:-1 tvg-id="1174220" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174220&extension=ts&play_token=ujJG1SsF9c
-#EXTINF:-1 tvg-id="1174216" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174216&extension=ts&play_token=OT6WGJcpOh
-#EXTINF:-1 tvg-id="1311896" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311896&extension=ts&play_token=9agRBDPp4u
-#EXTINF:-1 tvg-id="1174233" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174233&extension=ts&play_token=6iulJhf71L
-#EXTINF:-1 tvg-id="1174228" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174228&extension=ts&play_token=8gB69wr77Z
-#EXTINF:-1 tvg-id="1311901" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311901&extension=ts&play_token=VHIYnGC06R
-#EXTINF:-1 tvg-id="1174238" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174238&extension=ts&play_token=W56DWBxliU
-#EXTINF:-1 tvg-id="1174220" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174220&extension=ts&play_token=bITIZIZaCX
-#EXTINF:-1 tvg-id="1174216" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174216&extension=ts&play_token=LRWiB8ZEHa
-#EXTINF:-1 tvg-id="1311896" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311896&extension=ts&play_token=UOxAZEDc4N
-#EXTINF:-1 tvg-id="1174233" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174233&extension=ts&play_token=hfF8WCtQ9b
-#EXTINF:-1 tvg-id="1174228" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174228&extension=ts&play_token=U7vp93IlNj
-#EXTINF:-1 tvg-id="1311901" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311901&extension=ts&play_token=dSSmIhw5En
-#EXTINF:-1 tvg-id="1174238" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Hearts - Monaco (UK┃ TNT SPORTS 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174238&extension=ts&play_token=nbqsQFmF6v
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174221&extension=ts&play_token=S4DMOKtVGL
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174217&extension=ts&play_token=hV6Gf1jVx6
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311897&extension=ts&play_token=xbbzkQa2cy
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174234&extension=ts&play_token=6vo5vUS3pj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=858523&extension=ts&play_token=YGzfBUWxj4
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",27/11 09:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174229&extension=ts&play_token=t2YPDuSLzv
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311902&extension=ts&play_token=8WlnWFwinM
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174239&extension=ts&play_token=FUNSxNCCGs
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174221&extension=ts&play_token=CoLw9nzCwJ
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174217&extension=ts&play_token=UipDJQPFEm
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311897&extension=ts&play_token=VuNCjN7rcV
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=zAv3hcIcLj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=hVijJJwff4
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=PHlxy4eQ6J
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Olympiacos vs AC Milan (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=G7dYjhpWN4
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174218&extension=ts&play_token=i5XSy7ri77
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174214&extension=ts&play_token=1qYVN9t2os
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311894&extension=ts&play_token=NGqa36wSrK
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174231&extension=ts&play_token=hy8zc59JaL
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=988078&extension=ts&play_token=0NySVWbV1Z
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4874fbceb44994a7.png",27/11 09:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174226&extension=ts&play_token=THnDJvfOuG
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858523&extension=ts&play_token=dVSIPMFeCN
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",27/11 09:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311899&extension=ts&play_token=pfjoeB92n6
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174236&extension=ts&play_token=GcXNIAS16h
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174218&extension=ts&play_token=tM5hM8Cqux
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174214&extension=ts&play_token=2lxnioswgC
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311894&extension=ts&play_token=ewFod2mMcY
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=cHYvOQlfzQ
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=7HA9PEFRkp
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=988078&extension=ts&play_token=O3j3Vfinh1
+#EXTINF:-1 tvg-id="858523" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4874fbceb44994a7.png",27/11 09:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=Nwc2oBCvBd
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Celta Vigo vs Bournemouth (UK┃ TNT SPORTS 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/858523_
+#EXTINF:-1 tvg-id="988078" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",27/11 09:00 PM | Davis Cup (USA┃ TENNIS CHANNEL HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=jyFNQdkfk0
-#EXTINF:-1 tvg-id="1174219" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174219&extension=ts&play_token=3PUz9tdZ97
-#EXTINF:-1 tvg-id="1174215" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174215&extension=ts&play_token=hCho4Djnp8
-#EXTINF:-1 tvg-id="1311895" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311895&extension=ts&play_token=jPpMb0xCEv
-#EXTINF:-1 tvg-id="1174232" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174232&extension=ts&play_token=HCFllOYgMT
-#EXTINF:-1 tvg-id="1174227" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174227&extension=ts&play_token=p5EfNdHT1a
-#EXTINF:-1 tvg-id="1311900" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/988078_
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",27/11 09:00 PM | Davis Cup (PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311900&extension=ts&play_token=QwqFUAB6u9
-#EXTINF:-1 tvg-id="1174237" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1972847&extension=ts&play_token=i4w9XDJazW
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",27/11 09:00 PM | Davis Cup (PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174237&extension=ts&play_token=gwP1jjDGSp
-#EXTINF:-1 tvg-id="1174219" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174219&extension=ts&play_token=BFTr0bqjEk
-#EXTINF:-1 tvg-id="1174215" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174215&extension=ts&play_token=ShErYhSUAW
-#EXTINF:-1 tvg-id="1311895" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311895&extension=ts&play_token=XCfm8YXwur
-#EXTINF:-1 tvg-id="1174232" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174232&extension=ts&play_token=b9QQlCjL9E
-#EXTINF:-1 tvg-id="1174227" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174227&extension=ts&play_token=jpRoCP8ea9
-#EXTINF:-1 tvg-id="1311900" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311900&extension=ts&play_token=svIg6YtV0P
-#EXTINF:-1 tvg-id="1174237" group-title="Live UEFA Conference League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 12:45 AM | Brighton H.A. vs Universitatea Craiova (UK┃ TNT SPORTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1972847&extension=ts&play_token=SNOFooCObE
+#EXTINF:-1 tvg-id="1972847" group-title="🎾|Live Tennis" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png",27/11 09:00 PM | Davis Cup (PPV┃ TENNIS CHANNEL FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174237&extension=ts&play_token=IShhATKhL0
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174221&extension=ts&play_token=S4DMOKtVGL
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174217&extension=ts&play_token=hV6Gf1jVx6
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311897&extension=ts&play_token=xbbzkQa2cy
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1972847_
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174234&extension=ts&play_token=6vo5vUS3pj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=CdZlT8ixA1
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174229&extension=ts&play_token=t2YPDuSLzv
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=VrXBvV3Uph
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311902&extension=ts&play_token=8WlnWFwinM
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394553&extension=ts&play_token=aciM5dJhs9
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174239&extension=ts&play_token=FUNSxNCCGs
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174221&extension=ts&play_token=CoLw9nzCwJ
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174217&extension=ts&play_token=UipDJQPFEm
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311897&extension=ts&play_token=VuNCjN7rcV
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=zAv3hcIcLj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=hVijJJwff4
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=PHlxy4eQ6J
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Juventus vs Omonia Nicosia (UK┃ TNT SPORTS 4 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312176&extension=ts&play_token=W8ArZoNhDb
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=G7dYjhpWN4
-#EXTINF:-1 tvg-id="1174213" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS ULTIMATE 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/394553_
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174213&extension=ts&play_token=p3QO42o5YG
-#EXTINF:-1 tvg-id="1174213" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS ULTIMATE 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174213&extension=ts&play_token=WTaqlJtA3c
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174218&extension=ts&play_token=i5XSy7ri77
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312176_
+#EXTINF:-1 tvg-id="1312008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c5cf7e3feb24582.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174214&extension=ts&play_token=1qYVN9t2os
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HEVC RAW)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312008&extension=ts&play_token=IjqCCFn9JU
+#EXTINF:-1 tvg-id="1312033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311894&extension=ts&play_token=NGqa36wSrK
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HEVC FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312033&extension=ts&play_token=IDBvwaJ5gW
+#EXTINF:-1 tvg-id="1312049" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174231&extension=ts&play_token=hy8zc59JaL
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312049&extension=ts&play_token=5Ij92y40Ti
+#EXTINF:-1 tvg-id="1312008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c5cf7e3feb24582.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174226&extension=ts&play_token=THnDJvfOuG
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312008&extension=ts&play_token=cGxkdFxeTU
+#EXTINF:-1 tvg-id="1312033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311899&extension=ts&play_token=pfjoeB92n6
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312033&extension=ts&play_token=FW7j76RK0F
+#EXTINF:-1 tvg-id="1312049" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174236&extension=ts&play_token=GcXNIAS16h
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174218&extension=ts&play_token=tM5hM8Cqux
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312049&extension=ts&play_token=67NHwJzz55
+#EXTINF:-1 tvg-id="1312008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c5cf7e3feb24582.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174214&extension=ts&play_token=2lxnioswgC
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HEVC RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312008_
+#EXTINF:-1 tvg-id="1312033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311894&extension=ts&play_token=ewFod2mMcY
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312033_
+#EXTINF:-1 tvg-id="1312049" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=cHYvOQlfzQ
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312049_
+#EXTINF:-1 tvg-id="1312036" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=7HA9PEFRkp
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=Nwc2oBCvBd
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Crystal Palace vs Real Sociedad (UK┃ TNT SPORTS 1 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312036&extension=ts&play_token=clZEdGXtXz
+#EXTINF:-1 tvg-id="1312048" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=jyFNQdkfk0
-#EXTINF:-1 tvg-id="1174220" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174220&extension=ts&play_token=ujJG1SsF9c
-#EXTINF:-1 tvg-id="1174216" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 RAW)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312048&extension=ts&play_token=2hn2YDuDJz
+#EXTINF:-1 tvg-id="394557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174216&extension=ts&play_token=OT6WGJcpOh
-#EXTINF:-1 tvg-id="1311896" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HEVC RAW)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394557&extension=ts&play_token=fxpAKj9R1r
+#EXTINF:-1 tvg-id="1312177" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311896&extension=ts&play_token=9agRBDPp4u
-#EXTINF:-1 tvg-id="1174233" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HEVC FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312177&extension=ts&play_token=5MMZiIvj6h
+#EXTINF:-1 tvg-id="1312036" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174233&extension=ts&play_token=6iulJhf71L
-#EXTINF:-1 tvg-id="1174228" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312036&extension=ts&play_token=V0INnGy6TQ
+#EXTINF:-1 tvg-id="1312048" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174228&extension=ts&play_token=8gB69wr77Z
-#EXTINF:-1 tvg-id="1311901" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312048&extension=ts&play_token=PD2chAZL8H
+#EXTINF:-1 tvg-id="394557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311901&extension=ts&play_token=VHIYnGC06R
-#EXTINF:-1 tvg-id="1174238" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394557&extension=ts&play_token=rxVvdbmTzJ
+#EXTINF:-1 tvg-id="1312177" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174238&extension=ts&play_token=W56DWBxliU
-#EXTINF:-1 tvg-id="1174220" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174220&extension=ts&play_token=bITIZIZaCX
-#EXTINF:-1 tvg-id="1174216" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174216&extension=ts&play_token=LRWiB8ZEHa
-#EXTINF:-1 tvg-id="1311896" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311896&extension=ts&play_token=UOxAZEDc4N
-#EXTINF:-1 tvg-id="1174233" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312177&extension=ts&play_token=LYTqDm4IEk
+#EXTINF:-1 tvg-id="1312036" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174233&extension=ts&play_token=hfF8WCtQ9b
-#EXTINF:-1 tvg-id="1174228" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312036_
+#EXTINF:-1 tvg-id="1312048" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174228&extension=ts&play_token=U7vp93IlNj
-#EXTINF:-1 tvg-id="1311901" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312048_
+#EXTINF:-1 tvg-id="394557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311901&extension=ts&play_token=dSSmIhw5En
-#EXTINF:-1 tvg-id="1174238" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Torreense vs Celtic (UK┃ TNT SPORTS 3 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/394557_
+#EXTINF:-1 tvg-id="1312177" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174238&extension=ts&play_token=nbqsQFmF6v
-#EXTINF:-1 tvg-id="1174219" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174219&extension=ts&play_token=3PUz9tdZ97
-#EXTINF:-1 tvg-id="1174215" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174215&extension=ts&play_token=hCho4Djnp8
-#EXTINF:-1 tvg-id="1311895" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311895&extension=ts&play_token=jPpMb0xCEv
-#EXTINF:-1 tvg-id="1174232" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174232&extension=ts&play_token=HCFllOYgMT
-#EXTINF:-1 tvg-id="1174227" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312177_
+#EXTINF:-1 tvg-id="1312002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a08241e5309d79ac.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAUGE 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174227&extension=ts&play_token=p5EfNdHT1a
-#EXTINF:-1 tvg-id="1311900" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311900&extension=ts&play_token=QwqFUAB6u9
-#EXTINF:-1 tvg-id="1174237" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312002&extension=ts&play_token=57IwkmjBY8
+#EXTINF:-1 tvg-id="1312002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a08241e5309d79ac.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAUGE 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174237&extension=ts&play_token=gwP1jjDGSp
-#EXTINF:-1 tvg-id="1174219" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174219&extension=ts&play_token=BFTr0bqjEk
-#EXTINF:-1 tvg-id="1174215" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174215&extension=ts&play_token=ShErYhSUAW
-#EXTINF:-1 tvg-id="1311895" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311895&extension=ts&play_token=XCfm8YXwur
-#EXTINF:-1 tvg-id="1174232" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312002&extension=ts&play_token=TElr3imzTt
+#EXTINF:-1 tvg-id="1312002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a08241e5309d79ac.png",28/11 02:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAUGE 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174232&extension=ts&play_token=b9QQlCjL9E
-#EXTINF:-1 tvg-id="1174227" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312002_
+#EXTINF:-1 tvg-id="382836" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4a2a81464d555c52.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (HK┃ NOW SPORTS EPL 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174227&extension=ts&play_token=jpRoCP8ea9
-#EXTINF:-1 tvg-id="1311900" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311900&extension=ts&play_token=svIg6YtV0P
-#EXTINF:-1 tvg-id="1174237" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 02:00 AM | Sunderland vs Jagiellonia Bialystok (UK┃ TNT SPORTS 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174237&extension=ts&play_token=IShhATKhL0
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174221&extension=ts&play_token=S4DMOKtVGL
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174217&extension=ts&play_token=hV6Gf1jVx6
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311897&extension=ts&play_token=xbbzkQa2cy
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174234&extension=ts&play_token=6vo5vUS3pj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174229&extension=ts&play_token=t2YPDuSLzv
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=382836&extension=ts&play_token=Q7cwirRzjJ
+#EXTINF:-1 tvg-id="382836" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4a2a81464d555c52.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (HK┃ NOW SPORTS EPL 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311902&extension=ts&play_token=8WlnWFwinM
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174239&extension=ts&play_token=FUNSxNCCGs
-#EXTINF:-1 tvg-id="1174221" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174221&extension=ts&play_token=CoLw9nzCwJ
-#EXTINF:-1 tvg-id="1174217" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174217&extension=ts&play_token=UipDJQPFEm
-#EXTINF:-1 tvg-id="1311897" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311897&extension=ts&play_token=VuNCjN7rcV
-#EXTINF:-1 tvg-id="1174234" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174234&extension=ts&play_token=zAv3hcIcLj
-#EXTINF:-1 tvg-id="1174229" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=382836&extension=ts&play_token=iVCqvw70I9
+#EXTINF:-1 tvg-id="382836" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4a2a81464d555c52.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (HK┃ NOW SPORTS EPL 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174229&extension=ts&play_token=hVijJJwff4
-#EXTINF:-1 tvg-id="1311902" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/382836_
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311902&extension=ts&play_token=PHlxy4eQ6J
-#EXTINF:-1 tvg-id="1174239" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Juventus - Omonia Nicosia (UK┃ TNT SPORTS 4 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174239&extension=ts&play_token=G7dYjhpWN4
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174218&extension=ts&play_token=i5XSy7ri77
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174214&extension=ts&play_token=1qYVN9t2os
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311894&extension=ts&play_token=NGqa36wSrK
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HEVC FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394553&extension=ts&play_token=CdZlT8ixA1
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174231&extension=ts&play_token=hy8zc59JaL
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174226&extension=ts&play_token=THnDJvfOuG
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312176&extension=ts&play_token=VrXBvV3Uph
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311899&extension=ts&play_token=pfjoeB92n6
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394553&extension=ts&play_token=aciM5dJhs9
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174236&extension=ts&play_token=GcXNIAS16h
-#EXTINF:-1 tvg-id="1174218" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174218&extension=ts&play_token=tM5hM8Cqux
-#EXTINF:-1 tvg-id="1174214" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174214&extension=ts&play_token=2lxnioswgC
-#EXTINF:-1 tvg-id="1311894" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311894&extension=ts&play_token=ewFod2mMcY
-#EXTINF:-1 tvg-id="1174231" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HEVC FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174231&extension=ts&play_token=cHYvOQlfzQ
-#EXTINF:-1 tvg-id="1174226" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HEVC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174226&extension=ts&play_token=7HA9PEFRkp
-#EXTINF:-1 tvg-id="1311899" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311899&extension=ts&play_token=Nwc2oBCvBd
-#EXTINF:-1 tvg-id="1174236" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS 1 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312176&extension=ts&play_token=W8ArZoNhDb
+#EXTINF:-1 tvg-id="394553" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174236&extension=ts&play_token=jyFNQdkfk0
-#EXTINF:-1 tvg-id="1174213" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS ULTIMATE 4K)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/394553_
+#EXTINF:-1 tvg-id="1312176" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENT HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174213&extension=ts&play_token=p3QO42o5YG
-#EXTINF:-1 tvg-id="1174213" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Crystal Palace - Real Sociedad (UK┃ TNT SPORTS ULTIMATE 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174213&extension=ts&play_token=WTaqlJtA3c
-#EXTINF:-1 tvg-id="1174220" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174220&extension=ts&play_token=ujJG1SsF9c
-#EXTINF:-1 tvg-id="1174216" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312176_
+#EXTINF:-1 tvg-id="1312008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c5cf7e3feb24582.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174216&extension=ts&play_token=OT6WGJcpOh
-#EXTINF:-1 tvg-id="1311896" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HEVC RAW)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312008&extension=ts&play_token=IjqCCFn9JU
+#EXTINF:-1 tvg-id="1312033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311896&extension=ts&play_token=9agRBDPp4u
-#EXTINF:-1 tvg-id="1174233" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HEVC FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312033&extension=ts&play_token=IDBvwaJ5gW
+#EXTINF:-1 tvg-id="1312049" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174233&extension=ts&play_token=6iulJhf71L
-#EXTINF:-1 tvg-id="1174228" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HEVC HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312049&extension=ts&play_token=5Ij92y40Ti
+#EXTINF:-1 tvg-id="1312008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c5cf7e3feb24582.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174228&extension=ts&play_token=8gB69wr77Z
-#EXTINF:-1 tvg-id="1311901" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312008&extension=ts&play_token=cGxkdFxeTU
+#EXTINF:-1 tvg-id="1312033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311901&extension=ts&play_token=VHIYnGC06R
-#EXTINF:-1 tvg-id="1174238" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312033&extension=ts&play_token=FW7j76RK0F
+#EXTINF:-1 tvg-id="1312049" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174238&extension=ts&play_token=W56DWBxliU
-#EXTINF:-1 tvg-id="1174220" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174220&extension=ts&play_token=bITIZIZaCX
-#EXTINF:-1 tvg-id="1174216" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174216&extension=ts&play_token=LRWiB8ZEHa
-#EXTINF:-1 tvg-id="1311896" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HEVC RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311896&extension=ts&play_token=UOxAZEDc4N
-#EXTINF:-1 tvg-id="1174233" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312049&extension=ts&play_token=67NHwJzz55
+#EXTINF:-1 tvg-id="1312008" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c5cf7e3feb24582.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS 4K)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174233&extension=ts&play_token=hfF8WCtQ9b
-#EXTINF:-1 tvg-id="1174228" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312008_
+#EXTINF:-1 tvg-id="1312033" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174228&extension=ts&play_token=U7vp93IlNj
-#EXTINF:-1 tvg-id="1311901" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312033_
+#EXTINF:-1 tvg-id="1312049" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0c2724337581a4cb.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS MAIN EVENTS HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311901&extension=ts&play_token=dSSmIhw5En
-#EXTINF:-1 tvg-id="1174238" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Torreense - Celtic (UK┃ TNT SPORTS 3 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312049_
+#EXTINF:-1 tvg-id="1314077" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_32350b3f80ef09cd.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ HUB PREMIER 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174238&extension=ts&play_token=nbqsQFmF6v
-#EXTINF:-1 tvg-id="858590" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ad48ae392ae8f46a.png",27/11 03:00 AM | NEC - Rennes (USA┃ BEIN SPORTS 6 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1314077&extension=ts&play_token=QVnUcvYRyI
+#EXTINF:-1 tvg-id="1314077" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_32350b3f80ef09cd.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ HUB PREMIER 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858590&extension=ts&play_token=e26WHRY8a1
-#EXTINF:-1 tvg-id="858590" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ad48ae392ae8f46a.png",27/11 03:00 AM | NEC - Rennes (USA┃ BEIN SPORTS 6 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1314077&extension=ts&play_token=5NGCLo2YM8
+#EXTINF:-1 tvg-id="1314077" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_32350b3f80ef09cd.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ HUB PREMIER 1 FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858590&extension=ts&play_token=6UZtd5fddS
-#EXTINF:-1 tvg-id="858591" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0353fef0235627fd.png",27/11 03:00 AM | Olympique Lyonnais  vs Lillestrøm 🇴 (USA┃ BEIN SPORTS 5 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858591&extension=ts&play_token=DaM58nN1lJ
-#EXTINF:-1 tvg-id="858591" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0353fef0235627fd.png",27/11 03:00 AM | Olympique Lyonnais  vs Lillestrøm 🇴 (USA┃ BEIN SPORTS 5 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1314077_
+#EXTINF:-1 tvg-id="1312036" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858591&extension=ts&play_token=htWUfpDKqy
-#EXTINF:-1 tvg-id="1174219" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 RAW 50FPS)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312036&extension=ts&play_token=clZEdGXtXz
+#EXTINF:-1 tvg-id="1312048" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174219&extension=ts&play_token=3PUz9tdZ97
-#EXTINF:-1 tvg-id="1174215" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 RAW)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312048&extension=ts&play_token=2hn2YDuDJz
+#EXTINF:-1 tvg-id="394557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174215&extension=ts&play_token=hCho4Djnp8
-#EXTINF:-1 tvg-id="1311895" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HEVC RAW)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=394557&extension=ts&play_token=fxpAKj9R1r
+#EXTINF:-1 tvg-id="1312177" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311895&extension=ts&play_token=jPpMb0xCEv
-#EXTINF:-1 tvg-id="1174232" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HEVC FHD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312177&extension=ts&play_token=5MMZiIvj6h
+#EXTINF:-1 tvg-id="1312036" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174232&extension=ts&play_token=HCFllOYgMT
-#EXTINF:-1 tvg-id="1174227" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312036&extension=ts&play_token=V0INnGy6TQ
+#EXTINF:-1 tvg-id="1312048" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174227&extension=ts&play_token=p5EfNdHT1a
-#EXTINF:-1 tvg-id="1311900" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312048&extension=ts&play_token=PD2chAZL8H
+#EXTINF:-1 tvg-id="394557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1311900&extension=ts&play_token=QwqFUAB6u9
-#EXTINF:-1 tvg-id="1174237" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=394557&extension=ts&play_token=rxVvdbmTzJ
+#EXTINF:-1 tvg-id="1312177" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1174237&extension=ts&play_token=gwP1jjDGSp
-#EXTINF:-1 tvg-id="1174219" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 RAW 50FPS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174219&extension=ts&play_token=BFTr0bqjEk
-#EXTINF:-1 tvg-id="1174215" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 RAW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174215&extension=ts&play_token=ShErYhSUAW
-#EXTINF:-1 tvg-id="1311895" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HEVC RAW)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312177&extension=ts&play_token=LYTqDm4IEk
+#EXTINF:-1 tvg-id="1312036" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311895&extension=ts&play_token=XCfm8YXwur
-#EXTINF:-1 tvg-id="1174232" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HEVC FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312036_
+#EXTINF:-1 tvg-id="1312048" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174232&extension=ts&play_token=b9QQlCjL9E
-#EXTINF:-1 tvg-id="1174227" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HEVC HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312048_
+#EXTINF:-1 tvg-id="394557" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174227&extension=ts&play_token=jpRoCP8ea9
-#EXTINF:-1 tvg-id="1311900" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 FHD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/394557_
+#EXTINF:-1 tvg-id="1312177" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4dd02e7d21443650.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAGUE HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1311900&extension=ts&play_token=svIg6YtV0P
-#EXTINF:-1 tvg-id="1174237" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a584e4281cdbc11e.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (UK┃ TNT SPORTS 2 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312177_
+#EXTINF:-1 tvg-id="1312002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a08241e5309d79ac.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAUGE 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1174237&extension=ts&play_token=IShhATKhL0
-#EXTINF:-1 tvg-id="858592" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8702eb64f3b64d31.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (USA┃ BEIN SPORTS 4 HD)
+#EXTVLCOPT:http-cookie=mac=00:1B:79:39:03:73; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3CD2906AA2D66A18BA53BAE3F0F33452
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:39:03:73&stream=1312002&extension=ts&play_token=57IwkmjBY8
+#EXTINF:-1 tvg-id="1312002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a08241e5309d79ac.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAUGE 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1B:79:44:12:F6; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 49D7E3477B057B41E796FEFCB11B8569
-http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=858592&extension=ts&play_token=tuPLLBVzzc
-#EXTINF:-1 tvg-id="858592" group-title="Live UEFA Europa League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8702eb64f3b64d31.png",27/11 03:00 AM | Sunderland  vs Jagiellonia Białystok (USA┃ BEIN SPORTS 4 HD)
+#EXTVLCOPT:http-header=Authorization: Bearer 47DAA9E51E213D85F1103987D16EBAD0
+http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:44:12:F6&stream=1312002&extension=ts&play_token=TElr3imzTt
+#EXTINF:-1 tvg-id="1312002" group-title="⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿|Live Premier League" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a08241e5309d79ac.png",28/11 03:00 AM | Nottingham Forest vs Chelsea (UK┃ SKY SPORTS PREMIER LEAUGE 50FPS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 33EAF49780E4AD5786549CB14FD7E00E
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=858592&extension=ts&play_token=p8bLTsu4wP
+#EXTVLCOPT:http-header=Authorization: Bearer A953CACDD89A818544D66CEA058694AD
+http://localhost/ch/1312002_
